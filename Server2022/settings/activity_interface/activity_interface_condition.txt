@@ -1,0 +1,544 @@
+ID	ConditionDes	Comment	Type	Value1	Value2	Value3	Value4	Value5						
+			0:enumTaskID	task	operator	v			Type	Value1	Value2	Value3	Value4	Value5
+	operator		1:enumTaskBit	task	bit	v			9:enumCheckDate	operator	0:ymd 1:y 2:m 3:d 4:h	nCheckVal		
+	0: ==		2:enumCheckTong											
+	1: >=		3:enumCheckVipCard											
+	2: >		4:enumCheckReborn	operator	reborn	level								
+	3: <		5:enumCheckLevel(old level restriction in any rebornLv)	operator	v									
+	4: <=		6:enumCheckReputation	operator	v									
+g:get 			7:enumCheckJunGong	operator	v									
+a:award			8:enumCheckTitle	g	d	1 or 0								
+1	gVËn Tiªu	cdkey	1	3055	1	1								
+2	Hoµn thµnh 1 lÇn nhiÖm vô vËn tiªu	cdkey	1	3055	2	1								
+3	aVËn Tiªu	cdkey	1	3055	3	1								
+4	g§o¹t Tiªu	cdkey	1	3055	4	1								
+5	Hoµn thµnh 1 lÇn nhiÖm vô c­íp tiªu	cdkey	1	3055	5	1								
+6	a§o¹t Tiªu	cdkey	1	3055	6	1								
+7	gThu thËp Ngäc Ph¸ch	cdkey	1	3055	7	1								
+8	Thu thËp 1 Ngäc Ph¸ch	cdkey	1	3055	8	1								
+9	aThu thËp Ngäc Ph¸ch	cdkey	1	3055	9	1								
+10	gTrém Ngäc Ph¸ch	cdkey	1	3055	10	1								
+11	§Õn thÕ lùc kh¸c trém 1 Ngäc Ph¸ch	cdkey	1	3055	11	1								
+12	aTrém Ngäc Ph¸ch	cdkey	1	3055	12	1								
+13	gT©y Vùc TruyÒn §¹o	cdkey	1	3055	13	1								
+14	Tham gia tÝnh n¨ng T©y Vùc TruyÒn §¹o, nhÊp vµo 3 th¸nh vËt ®Ó nhËn th­ëng	cdkey	1	3055	14	1								
+15	aT©y Vùc TruyÒn §¹o	cdkey	1	3055	15	1								
+16	gBoss ThÕ Lùc	cdkey	1	3055	16	1								
+17	NhËn b¶o vÖ BOSS cña thÕ lùc vµ tiªu diÖt BOSS cña thÕ lùc phe ®Þch ®Ó nhËn ®­îc phÇn th­ëng	cdkey	1	3055	17	1								
+18	aBoss ThÕ Lùc	cdkey	1	3055	18	1								
+19	gThî S¨n TiÒn Th­ëng	cdkey	1	3055	19	1								
+20	Hoµn thµnh 1 lÇn nhiÖm vô Thî S¨n TiÒn Th­ëng	cdkey	1	3055	20	1								
+21	aThî S¨n TiÒn Th­ëng	cdkey	1	3055	21	1								
+22	gNhiÖm vô ®µo kho b¸u	cdkey	1	3055	22	1								
+23	Hoµn thµnh 1 lÇn nhiÖm vô §µo Kho B¸u	cdkey	1	3055	23	1								
+24	aNhiÖm vô ®µo kho b¸u	cdkey	1	3055	24	1								
+25	gL­¬ng S¬n	cdkey	1	2852	1	1								
+26	Hoµn thµnh 1 lÇn cöa ¶i L­¬ng S¬n	cdkey	1	2852	2	1								
+27	aL­¬ng S¬n	cdkey	1	2852	3	1								
+28	gV¹n KiÕm Tròng	cdkey	1	2852	4	1								
+29	Tham gia 1 lÇn V¹n KiÕm Tròng	cdkey	1	2852	5	1								
+30	aV¹n KiÕm Tròng	cdkey	1	2852	6	1								
+31	g§Þa HuyÒn Cung	cdkey	1	2852	7	1								
+32	Tham gia 1 lÇn §Þa HuyÒn Cung	cdkey	1	2852	8	1								
+33	a§Þa HuyÒn Cung	cdkey	1	2852	9	1								
+34	gTh¸i NhÊt Th¸p	cdkey	1	2852	10	1								
+35	Tham gia 1 lÇn Th¸i NhÊt Th¸p	cdkey	1	2852	11	1								
+36	aTh¸i NhÊt Th¸p	cdkey	1	2852	12	1								
+37	gTrång 1 C©y B¸t Nh·-Nhá	cdkey	1	2852	13	1								
+38	Trång vµ thu ho¹ch 1 C©y B¸t Nh·-Nhá	cdkey	1	2852	14	1								
+39	aTrång 1 C©y B¸t Nh·-Nhá	cdkey	1	2852	15	1								
+40	gTrång 1 C©y Tø Linh	cdkey	1	2852	16	1								
+41	Trång vµ thu ho¹ch 1 C©y Tø Linh	cdkey	1	2852	17	1								
+42	aTrång 1 C©y Tø Linh	cdkey	1	2852	18	1								
+43	gTrång 1 C©y H¹t Gièng	cdkey	1	2852	19	1								
+44	Trång vµ thu ho¹ch 1 C©y H¹t Gièng	cdkey	1	2852	20	1								
+45	aTrång 1 C©y H¹t Gièng	cdkey	1	2852	21	1								
+46	gPK ThÕ Lùc Ba Phe	cdkey	1	2852	22	1								
+47	§¸nh b¹i 1 ng­êi ch¬i phe ®Þch cña thÕ lùc kh¸c	cdkey	1	2852	23	1								
+48	aPK ThÕ Lùc Ba Phe	cdkey	1	2852	24	1								
+49	gChiÕn DÞch Th«n Trang	cdkey	1	2852	25	1								
+50	Tham gia 1 lÇn Th«n lµng chiÕn	cdkey	1	2852	26	1								
+51	aChiÕn DÞch Th«n Trang	cdkey	1	2852	27	1								
+52	gChiÕn DÞch Th¶o Cèc	cdkey	1	2852	28	1								
+53	Tham gia 1 lÇn Th¶o cèc chiÕn	cdkey	1	2852	29	1								
+54	aChiÕn DÞch Th¶o Cèc	cdkey	1	2852	30	1								
+55	gPh¸o §µi ChiÕn	cdkey	1	2853	1	1								
+56	Tham gia 1 lÇn Ph¸o ®µi chiÕn	cdkey	1	2853	2	1								
+57	aPh¸o §µi ChiÕn	cdkey	1	2853	3	1								
+58	Hoµn thµnh gia nhËp bang héi	cdkey	2											
+59	aGia nhËp bang héi	cdkey	1	3056	1	1								
+60	Nép 300 ®iÓm tÝch lòy tö quang (Sau khi giao nhiÖm vô th× hai bªn sÏ bÞ trõ 300 ®iÓm tÝch lòy tö quang)	cdkey	0	652	1	300								
+61	aT¸i chiÕn ThÇn Thó	cdkey	1	3056	2	1								
+62	Tham gia tÝnh n¨ng Bang Héi Vinh Danh, giao nép 10 ®iÓm cèng hiÕn bang héi	cdkey	1	3056	3	1								
+63	aNép ®iÓm cèng hiÕn Bang ph¸i	cdkey	1	3056	4	1								
+64	NhËn phÇn th­ëng Bang Héi Vinh Danh	cdkey	1	3056	5	1								
+65	aTh­ëng cña Bang Héi Vinh Danh	cdkey	1	3056	6	1								
+66	KÝch ho¹t danh phËn §¹i HiÖp	cdkey	3
+67	aDanh phËn §¹i HiÖp	cdkey	1	3057	1	1
+68	Gia nhËp 1 thÕ lùc trong ba phe	cdkey	0	3286	1	1								
+69	aGia nhËpThÕ lùc	cdkey	1	3057	2	1								
+70	Hoµn thµnh 1 lÇn vËn tiªu	cdkey	1	3057	3	1								
+71	aVËn Tiªu	cdkey	1	3057	4	1								
+72	Hoµn thµnh 1 lÇn c­íp tiªu	cdkey	1	3057	5	1								
+73	a§o¹t Tiªu	cdkey	1	3057	6	1								
+74	Hoµn thµnh 1 lÇn nhiÖm vô trång c©y	cdkey	1	3057	7	1								
+75	aTrång c©y	cdkey	1	3057	8	1								
+76	Hoµn thµnh 1 lÇn nhiÖm vô ®µo r­¬ng	cdkey	1	3057	9	1								
+77	a§µo b¶o r­¬ng	cdkey	1	3057	10	1								
+78	Hoµn thµnh 1 lÇn nhiÖm vô Thî S¨n TiÒn Th­ëng	cdkey	1	3057	11	1								
+79	aThî S¨n TiÒn Th­ëng	cdkey	1	3057	12	1								
+80	Trång vµ thu ho¹ch 1 C©y B¸t Nh· Lín	cdkey	1	3057	13	1								
+81	aTrång 1 C©y B¸t Nh· Lín	cdkey	1	3057	14	1								
+82	Trång vµ thu ho¹ch 1 C©y B¸t Nh·-Nhá	cdkey	1	3057	15	1								
+83	aTrång 1 C©y B¸t Nh·-Nhá	cdkey	1	3057	16	1								
+84	Trång vµ thu ho¹ch 1 H¹t Gièng	cdkey	1	3057	17	1								
+85	aTrång 1 H¹t Gièng	cdkey	1	3057	18	1								
+86	Trång vµ thu ho¹ch 1 C©y Tø Linh	cdkey	1	3057	19	1								
+87	aTrång 1 C©y Tø Linh	cdkey	1	3057	20	1								
+88	Dïng 8 Ng«i Sao May M¾n	cdkey	1	3057	21	1
+89	aSö dông 8 Ng«i Sao May M¾n	cdkey	1	3057	22	1
+90	Dïng 100 N÷ Oa B¶o H¹p	cdkey	1	3057	23	1
+91	aSö dông 100 N÷ Oa B¶o H¹p	cdkey	1	3057	24	1
+92	§¹t cÊp 90	cdkey	5	1	90
+93	§¹t cÊp 92	cdkey	5	1	92									
+94	§¹t chuyÓn sinh 5	cdkey	4	1	5									
+95	§¹t chuyÓn sinh 6	cdkey	4	1	6									
+96	§¹t chuyÓn sinh 7	cdkey	4	1	7									
+97	§¹t chuyÓn sinh 8	cdkey	4	1	8									
+98	§iÓm Danh Väng ®¹t 1000	cdkey	6	1	1000									
+99	§iÓm Danh Väng ®¹t 3000	cdkey	6	1	3000									
+100	§iÓm Danh Väng ®¹t 6000	cdkey	6	1	6000									
+101	§iÓm Danh Väng ®¹t 8000	cdkey	6	1	8000									
+102	§iÓm Danh Väng ®¹t 10000	cdkey	6	1	10000									
+103	§iÓm Danh Väng ®¹t 12000	cdkey	6	1	12000									
+104	§iÓm Danh Väng ®¹t 15000	cdkey	6	1	15000									
+105	§iÓm Danh Väng ®¹t 16000	cdkey	6	1	16000									
+106	§iÓm S­ M«n ®¹t 1000	cdkey	0	336	1	1000								
+107	§iÓm S­ M«n ®¹t 3000	cdkey	0	336	1	3000								
+108	§iÓm S­ M«n ®¹t 6000	cdkey	0	336	1	6000								
+109	§iÓm S­ M«n 8000	cdkey	0	336	1	8000								
+110	§iÓm S­ M«n ®¹t 10000	cdkey	0	336	1	10000								
+111	§iÓm S­ M«n ®¹t 12000	cdkey	0	336	1	12000								
+112	§iÓm S­ M«n ®¹t 15000	cdkey	0	336	1	15000								
+113	§iÓm S­ M«n ®¹t 16000	cdkey	0	336	1	16000								
+114	C«ng Tr¹ng ®¹t 10000	cdkey	7	1	10000									
+115	C«ng Tr¹ng ®¹t 30000	cdkey	7	1	30000									
+116	C«ng Tr¹ng ®¹t 40000	cdkey	7	1	40000									
+117	C«ng Tr¹ng ®¹t 80000	cdkey	7	1	80000									
+118	C«ng Tr¹ng ®¹t 120000	cdkey	7	1	120000									
+119	C«ng Tr¹ng ®¹t 180000	cdkey	7	1	180000									
+120	C«ng Tr¹ng ®¹t 250000	cdkey	7	1	250000									
+121	§iÓm C«ng Tr¹ng ®¹t 350000	cdkey	7	1	350000									
+122	aGia NhËp Giang Hå	cdkey	1	3051	1	1								
+123	aTiÓu H÷u Së Thµnh	cdkey	1	3051	2	1								
+124	aS¬ XuÊt Mao L­	cdkey	1	3051	3	1								
+125	aTiÓu H÷u Danh KhÝ	cdkey	1	3051	4	1								
+126	a§¹i Lang §µo Sa	cdkey	1	3051	5	1								
+127	aTr¸ng ChÝ L¨ng V©n	cdkey	1	3051	6	1								
+128	aUy Phong B¸t DiÖn	cdkey	1	3051	7	1								
+129	aKhÝ Tr¸ng Hµ S¬n	cdkey	1	3051	8	1								
+130	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 5	cdkey	0	3052	1	5								
+131	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 25	cdkey	0	3052	1	25								
+132	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 50	cdkey	0	3052	1	50								
+133	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 100	cdkey	0	3052	1	100								
+134	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 200	cdkey	0	3052	1	200								
+135	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 300	cdkey	0	3052	1	300								
+136	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 400	cdkey	0	3052	1	400								
+137	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 500	cdkey	0	3052	1	500								
+138	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 800	cdkey	0	3052	1	800								
+139	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 1200	cdkey	0	3052	1	1200								
+140	aPhong Y Tóc Thùc	cdkey	1	3051	9	1								
+141	aUy Phong B¸t DiÖn	cdkey	1	3051	10	1								
+142	aGia C¶nh Kh¸ Gi¶	cdkey	1	3051	11	1								
+143	a§¹i Phó §¹i Quý	cdkey	1	3051	12	1								
+144	aTµi §¹i KhÝ Th«	cdkey	1	3051	13	1								
+145	aGia Tµi V¹n Qu¸n	cdkey	1	3051	14	1								
+146	aPhó Gi¸p Thiªn H¹	cdkey	1	3051	15	1								
+147	aPhó Kh¶ §Þch Quèc	cdkey	1	3051	16	1								
+148	aPhó LiÖt Thiªn Tö	cdkey	1	3051	17	1								
+149	aHång Phóc Thiªn H¹	cdkey	1	3051	18	1								
+150	§iÓm n¨ng ®éng ®¹t 18000	cdkey	0	3053	1	18000								
+151	§iÓm n¨ng ®éng ®¹t 1000	cdkey	0	3053	1	1000								
+152	§iÓm n¨ng ®éng ®¹t 19000	cdkey	0	3053	1	19000								
+153	§iÓm n¨ng ®éng ®¹t 1700	cdkey	0	3053	1	1700								
+154	§iÓm n¨ng ®éng ®¹t 2000	cdkey	0	3053	1	2000								
+155	§iÓm n¨ng ®éng ®¹t 2400	cdkey	0	3053	1	2400								
+156	§iÓm n¨ng ®éng ®¹t 2800	cdkey	0	3053	1	2800								
+157	§iÓm n¨ng ®éng ®¹t 3100	cdkey	0	3053	1	3100								
+158	§iÓm n¨ng ®éng ®¹t 3500	cdkey	0	3053	1	3500								
+159	§iÓm n¨ng ®éng ®¹t 4000	cdkey	0	3053	1	4000								
+160	§iÓm n¨ng ®éng ®¹t 5000	cdkey	0	3053	1	5000								
+161	§iÓm n¨ng ®éng ®¹t 6000	cdkey	0	3053	1	6000								
+162	§iÓm n¨ng ®éng ®¹t 7000	cdkey	0	3053	1	7000								
+163	§iÓm n¨ng ®éng ®¹t 8500	cdkey	0	3053	1	8500								
+164	§iÓm n¨ng ®éng ®¹t 9500	cdkey	0	3053	1	9500								
+165	§iÓm n¨ng ®éng ®¹t 13000	cdkey	0	3053	1	13000								
+166	§iÓm n¨ng ®éng ®¹t 15000	cdkey	0	3053	1	15000								
+167	§iÓm n¨ng ®éng ®¹t 16000	cdkey	0	3053	1	16000								
+168	§iÓm n¨ng ®éng ®¹t 17000	cdkey	0	3053	1	17000								
+169	§iÓm n¨ng ®éng ®¹t 20000	cdkey	0	3053	1	20000								
+170	§iÓm n¨ng ®éng ®¹t 22000	cdkey	0	3053	1	22000								
+171	§iÓm n¨ng ®éng ®¹t 24000	cdkey	0	3053	1	24000								
+172	§iÓm n¨ng ®éng ®¹t 25500	cdkey	0	3053	1	25500								
+173	§iÓm n¨ng ®éng ®¹t 26000	cdkey	0	3053	1	26000								
+174	§iÓm n¨ng ®éng ®¹t 27000	cdkey	0	3053	1	27000								
+175	§iÓm n¨ng ®éng ®¹t 28000	cdkey	0	3053	1	28000								
+176	a§iÓm n¨ng ®éng ®¹t 18000	cdkey	1	3054	1	1								
+177	a§iÓm n¨ng ®éng ®¹t 1000	cdkey	1	3054	2	1								
+178	a§iÓm n¨ng ®éng ®¹t 19000	cdkey	1	3054	3	1								
+179	a§iÓm n¨ng ®éng ®¹t 1700	cdkey	1	3054	4	1								
+180	a§iÓm n¨ng ®éng ®¹t 2000	cdkey	1	3054	5	1								
+181	a§iÓm n¨ng ®éng ®¹t 2400	cdkey	1	3054	6	1								
+182	a§iÓm n¨ng ®éng ®¹t 2800	cdkey	1	3054	7	1								
+183	a§iÓm n¨ng ®éng ®¹t 3100	cdkey	1	3054	8	1								
+184	a§iÓm n¨ng ®éng ®¹t 3500	cdkey	1	3054	9	1								
+185	a§iÓm n¨ng ®éng ®¹t 4000	cdkey	1	3054	10	1								
+186	a§iÓm n¨ng ®éng ®¹t 5000	cdkey	1	3054	11	1								
+187	a§iÓm n¨ng ®éng ®¹t 6000	cdkey	1	3054	12	1								
+188	a§iÓm n¨ng ®éng ®¹t 7000	cdkey	1	3054	13	1								
+189	a§iÓm n¨ng ®éng ®¹t 8500	cdkey	1	3054	14	1								
+190	a§iÓm n¨ng ®éng ®¹t 9500	cdkey	1	3054	15	1								
+191	a§iÓm n¨ng ®éng ®¹t 13000	cdkey	1	3054	16	1								
+192	a§iÓm n¨ng ®éng ®¹t 15000	cdkey	1	3054	17	1								
+193	a§iÓm n¨ng ®éng ®¹t 16000	cdkey	1	3054	18	1								
+194	a§iÓm n¨ng ®éng ®¹t 17000	cdkey	1	3054	19	1								
+195	a§iÓm n¨ng ®éng ®¹t 20000	cdkey	1	3054	20	1								
+196	a§iÓm n¨ng ®éng ®¹t 22000	cdkey	1	3054	21	1								
+197	a§iÓm n¨ng ®éng ®¹t 24000	cdkey	1	3054	22	1								
+198	a§iÓm n¨ng ®éng ®¹t 25500	cdkey	1	3054	23	1								
+199	a§iÓm n¨ng ®éng ®¹t 26000	cdkey	1	3054	24	1								
+200	a§iÓm n¨ng ®éng ®¹t 27000	cdkey	1	3054	25	1								
+201	a§iÓm n¨ng ®éng ®¹t 28000	cdkey	1	3054	26	1								
+202	§¹t cÊp 90	cdkey	4	1	0	90								
+203	§¹t chuyÓn sinh 7 cÊp 90	cdkey	4	1	7	90
+204	§¹t chuyÓn sinh 8 cÊp 90	cdkey	4	1	8	90
+205	§¹t chuyÓn sinh 9 cÊp 90	cdkey	4	1	9	90
+206	§¹t chuyÓn sinh 10 cÊp 90	cdkey	4	1	10	90
+207	§¹t chuyÓn sinh 10 cÊp 91	cdkey	4	1	10	91
+208	gH«m nay sö dông 50 Ph¸o ChiÕn Th¾ng	cdkey	1	2853	4	1								
+209	H«m nay sö dông 50 Ph¸o ChiÕn Th¾ng	cdkey	1	2853	5	1								
+210	aH«m nay sö dông 50 Ph¸o ChiÕn Th¾ng	cdkey	1	2853	6	1								
+211	aNhËn th­ëng ®¨ng nhËp ngµy	cdkey	1	2853	7	1								
+212	Sö dông 50 Ph¸o ChiÕn Th¾ng	cdkey	1	3057	25	1								
+213	aSö dông 50 Ph¸o ChiÕn Th¾ng	cdkey	1	3057	26	1								
+214	§iÓm n¨ng ®éng ®¹t ®Õn 32000	cdkey	0	3053	1	32000								
+215	§iÓm n¨ng ®éng ®¹t ®Õn 35000	cdkey	0	3053	1	35000								
+216	a§iÓm n¨ng ®éng ®¹t ®Õn 32000	cdkey	1	3054	27	1								
+217	a§iÓm n¨ng ®éng ®¹t ®Õn 35000	cdkey	1	3054	28	1								
+218	§¹t chuyÓn sinh 10 cÊp 92	cdkey	4	1	10	92
+219	§¹t chuyÓn sinh 10 cÊp 96	cdkey	4	1	10	96
+220	§· kÝch ho¹t danh hiÖu Vâ L©m T©n Tó	cdkey	1	2840	1	1								
+221	§· kÝch ho¹t danh hiÖu Ng­êi N¨ng §éng	cdkey	1	2840	3	1								
+222	Hoµn thµnh nhiÖm vô [Khiªu ChiÕn L­¬ng S¬n S¬ DiÔn]	HiÖp Kh¸ch Hµnh	1	3610	1	1								
+223	Hoµn thµnh nhiÖm vô [Khiªu ChiÕn L­¬ng S¬n Trung Dòng]	HiÖp Kh¸ch Hµnh	1	3610	2	1								
+224	V­ît phã b¶n §Þa HuyÒn Cung-i 3	HiÖp Kh¸ch Hµnh	1	3610	3	1								
+225	Sö dông %d/50 Ph¸o ChiÕn Th¾ng	HiÖp Kh¸ch Hµnh	0	3611	1	50								
+226	§Þa HuyÒn Cung-LËt Bµi Tr¶ PhÝ	HiÖp Kh¸ch Hµnh	1	3610	4	1								
+227	Hoµn thµnh nhiÖm vô V¹n KiÕm Tròng h»ng ngµy	HiÖp Kh¸ch Hµnh	1	3610	5	1								
+228	V­ît phã b¶n KiÕm §·ng YÕn V©n	HiÖp Kh¸ch Hµnh	1	3610	6	1								
+229	KiÕm §·ng YÕn V©n-LËt Bµi Tr¶ PhÝ	HiÖp Kh¸ch Hµnh	1	3610	7	1								
+230	V­ît ¶i Th¸i H­ 25	HiÖp Kh¸ch Hµnh	1	3610	8	1								
+231	Trång 1 C©y Tø Linh	HiÖp Kh¸ch Hµnh	1	3610	9	1								
+232	Trång 1 C©y B¸t Nh·-Nhá	HiÖp Kh¸ch Hµnh	1	3610	10	1								
+233	Hoµn thµnh 1 lÇn VËn Tiªu	HiÖp Kh¸ch Hµnh	1	3610	11	1								
+234	Hoµn thµnh 1 lÇn ChiÕn Tr­êng Nh¹n M«n Quan (NhËn th­ëng)	HiÖp Kh¸ch Hµnh	1	3610	12	1								
+235	Hoµn thµnh 1 lÇn Thiªn M«n TrËn Liªn Server (NhËn th­ëng)	HiÖp Kh¸ch Hµnh	1	3610	13	1								
+236	KÝch ho¹t danh hiÖu bang héi [QuÇn Hïng]	HiÖp Kh¸ch Hµnh	8	72	7	1								
+237	[Hîp M­u]	HiÖp Kh¸ch Hµnh	8	72	8	1								
+238	[Tr¸ng ChÝ]	HiÖp Kh¸ch Hµnh	8	72	9	1								
+239	[§ång Cõu]	HiÖp Kh¸ch Hµnh	8	72	10	1								
+240	Hoµn thµnh nhiÖm vô ngµy bang héi %d/10 lÇn	HiÖp Kh¸ch Hµnh	0	3612	1	10								
+241	TiÕn CÊp Ch©n Vâ MËt TÞch 1 lÇn	HiÖp Kh¸ch Hµnh	1	3615	10	1								
+242	Hoµn thµnh nhiÖm vô [Khiªu ChiÕn L­¬ng S¬n §o¹t Qu©n]	HiÖp Kh¸ch Hµnh	1	3615	1	1								
+243	DiÖt CËp Thêi Vò Tèng Giang	HiÖp Kh¸ch Hµnh	1	3613	1	1								
+244	DiÖt Tri §a Tinh Ng« Dông	HiÖp Kh¸ch Hµnh	1	3613	2	1								
+245	DiÖt Cöu V¨n Long Sö TiÕn	HiÖp Kh¸ch Hµnh	1	3613	3	1								
+246	DiÖt TiÓu TuyÒn Phong Sµi TiÕn	HiÖp Kh¸ch Hµnh	1	3613	4	1								
+247	DiÖt §¹i §ao Quan Th¾ng	HiÖp Kh¸ch Hµnh	1	3613	5	1								
+248	DiÖt NhËp V©n Long C«ng T«n Th¾ng	HiÖp Kh¸ch Hµnh	1	3613	6	1								
+249	DiÖt B¸o Tö §Çu L©m Xung	HiÖp Kh¸ch Hµnh	1	3613	7	1								
+250	DiÖt Hoa Hßa Th­îng Lç TrÝ Th©m	HiÖp Kh¸ch Hµnh	1	3613	8	1								
+251	DiÖt H¾c Toµn Phong Lý Quú	HiÖp Kh¸ch Hµnh	1	3613	9	1								
+252	DiÖt Hµnh Gi¶ Vâ Tßng	HiÖp Kh¸ch Hµnh	1	3613	10	1								
+253	DiÖt BÖnh Quan S¸c D­¬ng Hïng	HiÖp Kh¸ch Hµnh	1	3613	11	1								
+254	DiÖt Phanh MÖnh Tam Lang Th¹ch Tó	HiÖp Kh¸ch Hµnh	1	3613	12	1								
+255	DiÖt NhÊt Tr­îng Thanh Hæ Tam N­¬ng	HiÖp Kh¸ch Hµnh	1	3613	13	1								
+256	DiÖt Song Th­¬ng T­íng §æng B×nh	HiÖp Kh¸ch Hµnh	1	3613	14	1								
+257	DiÖt Thanh DiÖn Thó D­¬ng TrÝ	HiÖp Kh¸ch Hµnh	1	3613	15	1								
+258	DiÖt TÝch LÞch Háa TÇn Minh	HiÖp Kh¸ch Hµnh	1	3613	16	1								
+259	DiÖt Tóy B¸n Tiªn Phong NhÊt Phµm	HiÖp Kh¸ch Hµnh	1	3613	17	1								
+260	DiÖt Song Tiªn H« Diªn Ch­íc	HiÖp Kh¸ch Hµnh	1	3613	18	1								
+261	Hoµn thµnh tÊt c¶ nhiÖm vô Khiªu ChiÕn Anh Hïng L­¬ng S¬n	HiÖp Kh¸ch Hµnh	0	3613	0	262143								
+262	DiÖt §Þa HuyÒn Cung-S¸t Thñ Tinh Anh	HiÖp Kh¸ch Hµnh	1	3614	1	1								
+263	DiÖt §Þa HuyÒn Cung-ThÝch Kh¸ch Tinh Anh	HiÖp Kh¸ch Hµnh	1	3614	2	1								
+264	DiÖt §Þa HuyÒn Cung-TÝn Sø Tinh Anh	HiÖp Kh¸ch Hµnh	1	3614	3	1								
+265	DiÖt §Þa HuyÒn Cung-MËt Th¸m Tinh Anh	HiÖp Kh¸ch Hµnh	1	3614	4	1								
+266	DiÖt §Þa HuyÒn Cung-B¹ch Kú Tinh Anh	HiÖp Kh¸ch Hµnh	1	3614	5	1								
+267	DiÖt §Þa HuyÒn Cung-Hång Kú Chñ-Hång Tr­êng Tinh	HiÖp Kh¸ch Hµnh	1	3614	6	1								
+268	DiÖt §Þa HuyÒn Cung-H¾c Kú Chñ-¤ Mai Vò	HiÖp Kh¸ch Hµnh	1	3614	7	1								
+269	DiÖt §Þa HuyÒn Cung-Lam Kú Chñ-Lam Ân H¹c	HiÖp Kh¸ch Hµnh	1	3614	8	1								
+270	DiÖt §Þa HuyÒn Cung Chñ-Hoµng Siªu	HiÖp Kh¸ch Hµnh	1	3614	9	1								
+271	DiÖt §Þa HuyÒn Cung-B¹ch Kú Chñ-B¹ch L¨ng Tiªu	HiÖp Kh¸ch Hµnh	1	3614	10	1								
+272	DiÖt §Þa HuyÒn Cung-L«i §­êng Chñ-Ph­¬ng §øc Ch©u	HiÖp Kh¸ch Hµnh	1	3614	11	1								
+273	DiÖt §Þa HuyÒn Cung-Háa §­êng Chñ-TiÒn Ch¸	HiÖp Kh¸ch Hµnh	1	3614	12	1								
+274	DiÖt §Þa HuyÒn Cung-Phong §­êng Chñ-Phong M·n TrÇn	HiÖp Kh¸ch Hµnh	1	3614	13	1								
+275	DiÖt §Þa HuyÒn Cung-UyÓn Nhu V©n	HiÖp Kh¸ch Hµnh	1	3614	14	1								
+276	DiÖt §Þa HuyÒn Cung-UyÓn Thanh Nhi	HiÖp Kh¸ch Hµnh	1	3614	15	1								
+277	Hoµn thµnh tÊt c¶ nhiÖm vô DiÖt §Þch §Þa HuyÒn Cung	HiÖp Kh¸ch Hµnh	0	3614	0	32767								
+278	Hoµn thµnh nhiÖm vô tuÇn V¹n KiÕm Tròng	HiÖp Kh¸ch Hµnh	0	3616	1	1								
+279	Hoµn thµnh nhiÖm vô tuÇn V¹n KiÕm Tròng %d/4 lÇn	HiÖp Kh¸ch Hµnh	0	3616	1	4								
+280	KiÕm §·ng YÕn V©n-LËt Bµi Tr¶ PhÝ %d/30 lÇn	HiÖp Kh¸ch Hµnh	0	3617	1	30								
+281	V­ît Th¸i NhÊt Th¸p %d/30 lÇn (Th­êng/Anh hïng)	HiÖp Kh¸ch Hµnh	0	3618	1	30								
+282	NhËn ®­îc danh hiÖu [NhÞ S­ Huynh]	HiÖp Kh¸ch Hµnh	8	67	12	1								
+283	NhËn ®­îc danh hiÖu [§¹i S­ Huynh]	HiÖp Kh¸ch Hµnh	8	67	11	1								
+284	NhËn ®­îc danh hiÖu [NhÞ S­ Tû]	HiÖp Kh¸ch Hµnh	8	67	2	1								
+285	NhËn ®­îc danh hiÖu [§¹i S­ Tû]	HiÖp Kh¸ch Hµnh	8	67	1	1								
+286	KÝch ho¹t danh hiÖu [Thiªn Xu]	HiÖp Kh¸ch Hµnh	8	74	1	1								
+287	KÝch ho¹t danh hiÖu [Thiªn Toµn]	HiÖp Kh¸ch Hµnh	8	74	2	1								
+288	KÝch ho¹t danh hiÖu [Thiªn C¬]	HiÖp Kh¸ch Hµnh	8	74	3	1								
+289	LuyÖn Linh Ph¸ch §¬n %d/1	HiÖp Kh¸ch Hµnh	0	3619	1	1								
+290	Sö dông %d/20 Xu ThÇn Kú	HiÖp Kh¸ch Hµnh	0	3620	1	20								
+291	10 B­íc DiÖt 1	HiÖp Kh¸ch Hµnh	1	3615	2	1								
+292	KÎ Trém §øng L¹i	HiÖp Kh¸ch Hµnh	1	3615	3	1								
+293	T­íng DiÖt PhØ	HiÖp Kh¸ch Hµnh	1	3615	4	1								
+294	Cao Thñ Hñy Th¸p	HiÖp Kh¸ch Hµnh	1	3615	5	1								
+295	Dïng ®¹o cô UÈn Linh hoÆc Hép Thiªn BiÕn ®Ó UÈn Linh 1 lÇn	HiÖp Kh¸ch Hµnh	1	3615	6	1								
+296	Rót th­ëng Tô B¶o Trai %d/50 lÇn	HiÖp Kh¸ch Hµnh	0	3621	1	50								
+297	Sö dông %d/15 Vinh Dù Ch­¬ng	HiÖp Kh¸ch Hµnh	0	3622	1	15								
+298	KÝch ho¹t thÎ th¸ng	HiÖp Kh¸ch Hµnh	3											
+299	NhËn ®­îc Quµ B¸o Danh Hµo Hoa	HiÖp Kh¸ch Hµnh	1	3615	7	1								
+300	Hoµn thµnh 1 lÇn Kinh ThÕ ThiÕt TÆc	HiÖp Kh¸ch Hµnh	1	3615	8	1								
+301	T«i luyÖn thµnh c«ng Th­¬ng H¶i Ch©u 1 lÇn	HiÖp Kh¸ch Hµnh	1	3615	9	1								
+302	T«i luyÖn 1 Th­¬ng H¶i Ch©u ®Õn Lv20	HiÖp Kh¸ch Hµnh	0	3623	1	1								
+303	T«i luyÖn %d/10 Th­¬ng H¶i Ch©u ®Õn Lv20	HiÖp Kh¸ch Hµnh	0	3623	1	10								
+304	DiÖt BOSS Ngoµi Thµnh [NhËm Ng· Hµnh]	HiÖp Kh¸ch Hµnh	1	3624	1	1								
+305	DiÖt BOSS Ngoµi Thµnh [Th­¬ng ThÇn Doanh Thiªn]	HiÖp Kh¸ch Hµnh	1	3624	2	1								
+306	DiÖt BOSS Ngoµi Thµnh [B¾c Lôc L©m Minh Chñ]	HiÖp Kh¸ch Hµnh	1	3624	3	1								
+307	DiÖt BOSS Ngoµi Thµnh [L·nh H­¬ng L¨ng]	HiÖp Kh¸ch Hµnh	1	3624	4	1								
+308	DiÖt BOSS Ngoµi Thµnh [§µo Hoa §¶o Chñ Hoµng Long]	HiÖp Kh¸ch Hµnh	1	3624	5	1								
+309	DiÖt BOSS Ngoµi Thµnh [T©y Vùc Th­¬ng Lang B¸ V­¬ng]	HiÖp Kh¸ch Hµnh	1	3624	6	1								
+310	DiÖt BOSS Ngoµi Thµnh [Ngäc S¬n Chi Linh Thiªn Cöu]	HiÖp Kh¸ch Hµnh	1	3624	7	1								
+311	DiÖt BOSS Ngoµi Thµnh [U Tr¹ch Chi nh Minh Vâ]	HiÖp Kh¸ch Hµnh	1	3624	8	1								
+312	DiÖt BOSS Bang [Bé Phi Yªn]	HiÖp Kh¸ch Hµnh	1	3625	1	1								
+313	DiÖt BOSS Bang [H¹ C¶nh Th¾ng]	HiÖp Kh¸ch Hµnh	1	3625	2	1								
+314	DiÖt BOSS Bang [NhiÕp §¹i Chïy]	HiÖp Kh¸ch Hµnh	1	3625	3	1								
+315	DiÖt BOSS Bang [C«n L«n N«]	HiÖp Kh¸ch Hµnh	1	3625	4	1								
+316	DiÖt BOSS Bang [Bïi Hµng]	HiÖp Kh¸ch Hµnh	1	3625	5	1								
+317	DiÖt BOSS Bang [LiÔu NghÞ]	HiÖp Kh¸ch Hµnh	1	3625	6	1								
+318	DiÖt BOSS Bang [Hång TuyÕn]	HiÖp Kh¸ch Hµnh	1	3625	7	1								
+319	DiÖt BOSS Ma Vùc [TrÇn Lçi]	HiÖp Kh¸ch Hµnh	1	3626	1	1								
+320	DiÖt BOSS Ma Vùc [Thiªn ¢m Gi¸o-Ma Vùc Chuyªn Sø]	HiÖp Kh¸ch Hµnh	1	3626	2	1								
+321	DiÖt BOSS Ma Vùc [Thiªn ¢m Gi¸o §å Träng Th­¬ng]	HiÖp Kh¸ch Hµnh	1	3626	3	1								
+322	a§¨ng NhËp Mçi Ngµy	HiÖp Kh¸ch Hµnh	1	3627	1	1								
+323	aTrång 1 C©y B¸t Nh·-Nhá	HiÖp Kh¸ch Hµnh	1	3627	2	1								
+324	aTrång 1 C©y Tø Linh	HiÖp Kh¸ch Hµnh	1	3627	3	1								
+325	aTrång 1 C©y H¹t Gièng	HiÖp Kh¸ch Hµnh	1	3627	4	1								
+326	aVËn Tiªu	HiÖp Kh¸ch Hµnh	1	3627	5	1								
+327	a§o¹t Tiªu	HiÖp Kh¸ch Hµnh	1	3627	6	1								
+328	aSö dông 50 Ph¸o ChiÕn Th¾ng	HiÖp Kh¸ch Hµnh	1	3627	7	1								
+329	aThÇn Du Th¸i H­	HiÖp Kh¸ch Hµnh	1	3627	8	1								
+330	aV­ît phã b¶n §Þa HuyÒn Cung 1 lÇn	HiÖp Kh¸ch Hµnh	1	3627	9	1								
+331	aV­ît phã b¶n L­¬ng S¬n 1 lÇn	HiÖp Kh¸ch Hµnh	1	3627	10	1								
+332	aV­ît phã b¶n V¹n KiÕm Tròng 1 lÇn	HiÖp Kh¸ch Hµnh	1	3627	11	1								
+333	aHoµn thµnh 1 lÇn KiÕm §·ng YÕn V©n-LËt Bµi Tr¶ PhÝ	HiÖp Kh¸ch Hµnh	1	3627	12	1								
+334	a§¹i ChiÕn Nh¹n M«n Quan	HiÖp Kh¸ch Hµnh	1	3627	13	1								
+335	aChiÕn tr­êng liªn ®Êu	HiÖp Kh¸ch Hµnh	1	3627	14	1								
+336	aKÝch ho¹t danh hiÖu bang héi cao cÊp	HiÖp Kh¸ch Hµnh	1	3627	15	1								
+337	aLËp Bang	HiÖp Kh¸ch Hµnh	1	3627	16	1								
+338	aHoµn thµnh nhiÖm vô Khiªu ChiÕn L­¬ng S¬n §o¹t Qu©n	HiÖp Kh¸ch Hµnh	1	3628	1	1								
+339	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-CËp Thêi Vò Tèng Giang	HiÖp Kh¸ch Hµnh	1	3628	2	1								
+340	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Tri §a Tinh Ng« Dông	HiÖp Kh¸ch Hµnh	1	3628	3	1								
+341	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Cöu V¨n Long Sö TiÕn	HiÖp Kh¸ch Hµnh	1	3628	4	1								
+342	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-TiÓu TuyÒn Phong Sµi TiÕn	HiÖp Kh¸ch Hµnh	1	3628	5	1								
+343	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-§¹i §ao Quan Th¾ng	HiÖp Kh¸ch Hµnh	1	3628	6	1								
+344	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-NhËp V©n Long C«ng T«n Th¾ng	HiÖp Kh¸ch Hµnh	1	3628	7	1								
+345	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-B¸o Tö §Çu L©m Xung	HiÖp Kh¸ch Hµnh	1	3628	8	1								
+346	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Hoa Hßa Th­îng Lç TrÝ Th©m	HiÖp Kh¸ch Hµnh	1	3628	9	1								
+347	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-H¾c Toµn Phong Lý Quú	HiÖp Kh¸ch Hµnh	1	3628	10	1								
+348	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Hµnh Gi¶ Vâ Tßng	HiÖp Kh¸ch Hµnh	1	3628	11	1								
+349	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-BÖnh Quan S¸c D­¬ng Hïng	HiÖp Kh¸ch Hµnh	1	3628	12	1								
+350	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Phanh MÖnh Tam Lang Th¹ch Tó	HiÖp Kh¸ch Hµnh	1	3628	13	1								
+351	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-NhÊt Tr­îng Thanh Hæ Tam N­¬ng	HiÖp Kh¸ch Hµnh	1	3628	14	1								
+352	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Song Th­¬ng T­íng §æng B×nh	HiÖp Kh¸ch Hµnh	1	3628	15	1								
+353	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Thanh DiÖn Thó D­¬ng TrÝ	HiÖp Kh¸ch Hµnh	1	3628	16	1								
+354	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-TÝch LÞch Háa TÇn Minh	HiÖp Kh¸ch Hµnh	1	3628	17	1								
+355	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Tóy B¸n Tiªn Phong NhÊt Phµm	HiÖp Kh¸ch Hµnh	1	3628	18	1								
+356	aKhiªu ChiÕn Anh Hïng L­¬ng S¬n-Song Tiªn H« Diªn Ch­íc	HiÖp Kh¸ch Hµnh	1	3628	19	1								
+357	aKhiªu ChiÕn QuÇn Hïng L­¬ng S¬n	HiÖp Kh¸ch Hµnh	1	3628	20	1								
+358	aDiÖt S¸t Thñ Tinh Anh	HiÖp Kh¸ch Hµnh	1	3628	21	1								
+359	aDiÖt ThÝch Kh¸ch Tinh Anh	HiÖp Kh¸ch Hµnh	1	3628	22	1								
+360	aDiÖt TÝn Sø Tinh Anh	HiÖp Kh¸ch Hµnh	1	3628	23	1								
+361	aDiÖt MËt Th¸m Tinh Anh	HiÖp Kh¸ch Hµnh	1	3628	24	1								
+362	aDiÖt B¹ch Kú Tinh Anh	HiÖp Kh¸ch Hµnh	1	3628	25	1								
+363	aDiÖt Hång Kú Chñ-Hång Tr­êng Tinh	HiÖp Kh¸ch Hµnh	1	3628	26	1								
+364	aDiÖt H¾c Kú Chñ-¤ Mai Vò	HiÖp Kh¸ch Hµnh	1	3628	27	1								
+365	aDiÖt Lam Kú Chñ-Lam Ân H¹c	HiÖp Kh¸ch Hµnh	1	3628	28	1								
+366	aDiÖt Hoµng Siªu	HiÖp Kh¸ch Hµnh	1	3628	29	1								
+367	aDiÖt B¹ch Kú Chñ-B¹ch L¨ng Tiªu	HiÖp Kh¸ch Hµnh	1	3628	30	1								
+368	aDiÖt L«i §­êng Chñ-Ph­¬ng §øc Ch©u	HiÖp Kh¸ch Hµnh	1	3629	1	1								
+369	aDiÖt Háa §­êng Chñ-TiÒn Ch¸	HiÖp Kh¸ch Hµnh	1	3629	2	1								
+370	aDiÖt Phong §­êng Chñ	HiÖp Kh¸ch Hµnh	1	3629	3	1								
+371	aDiÖt UyÓn Nhu V©n	HiÖp Kh¸ch Hµnh	1	3629	4	1								
+372	aDiÖt UyÓn Thanh Nhi	HiÖp Kh¸ch Hµnh	1	3629	5	1								
+373	a§¹i Ph¸ §Þa HuyÒn Cung	HiÖp Kh¸ch Hµnh	1	3629	6	1								
+374	aNhiÖm vô tuÇn V¹n KiÕm Tròng	HiÖp Kh¸ch Hµnh	1	3629	7	1								
+375	aKiÕm Tròng Ma nh	HiÖp Kh¸ch Hµnh	1	3629	8	1								
+376	aHoµn thµnh KiÕm §·ng YÕn V©n-LËt Bµi Tr¶ PhÝ	HiÖp Kh¸ch Hµnh	1	3629	9	1								
+377	aTh¸i NhÊt Th¸p	HiÖp Kh¸ch Hµnh	1	3629	10	1								
+378	aLiªn Server 1v1	HiÖp Kh¸ch Hµnh	1	3629	11	1								
+379	aLiªn Server 3v3-Thiªn Xu	HiÖp Kh¸ch Hµnh	1	3629	12	1								
+380	aLiªn Server 3v3-Thiªn Toµn	HiÖp Kh¸ch Hµnh	1	3629	13	1								
+381	aLiªn Server 3v3-Thiªn C¬	HiÖp Kh¸ch Hµnh	1	3629	14	1								
+382	aLuyÖn Linh Ph¸ch §¬n	HiÖp Kh¸ch Hµnh	1	3629	15	1								
+383	aXu ThÇn Kú	HiÖp Kh¸ch Hµnh	1	3629	16	1								
+384	aHiÖp Lé T­¬ng Phïng-10 B­íc DiÖt 1	HiÖp Kh¸ch Hµnh	1	3629	17	1								
+385	"aHiÖp Lé T­¬ng Phïng-KÎ Trém §øng L¹i!"	HiÖp Kh¸ch Hµnh	1	3629	18	1								
+386	aHiÖp Lé T­¬ng Phïng-T­íng DiÖt PhØ	HiÖp Kh¸ch Hµnh	1	3629	19	1								
+387	aHiÖp Lé T­¬ng Phïng-Cao Thñ Hñy Th¸p	HiÖp Kh¸ch Hµnh	1	3629	20	1								
+388	aUÈn Linh	HiÖp Kh¸ch Hµnh	1	3629	21	1								
+389	aRót th­ëng Tô B¶o Trai	HiÖp Kh¸ch Hµnh	1	3629	22	1								
+390	aSö dông 15 Huy Hoµng Ch­¬ng	HiÖp Kh¸ch Hµnh	1	3629	23	1								
+391	aKÝch ho¹t thÎ th¸ng	HiÖp Kh¸ch Hµnh	1	3629	24	1								
+392	a§¨ng nhËp mçi ngµy	HiÖp Kh¸ch Hµnh	1	3629	25	1								
+393	aKinh ThÕ ThiÕt TÆc	HiÖp Kh¸ch Hµnh	1	3629	26	1								
+394	aT¨ng thuéc tÝnh Th­¬ng H¶i Ch©u 1 lÇn	HiÖp Kh¸ch Hµnh	1	3629	27	1								
+395	aC­êng hãa tèi ®a 1 Th­¬ng H¶i Ch©u	HiÖp Kh¸ch Hµnh	1	3629	28	1								
+396	aC­êng hãa tèi ®a 10 Th­¬ng H¶i Ch©u	HiÖp Kh¸ch Hµnh	1	3629	29	1								
+397	aDiÖt BOSS Ngoµi Thµnh [NhËm Ng· Hµnh]	HiÖp Kh¸ch Hµnh	1	3629	30	1								
+398	aDiÖt BOSS Ngoµi Thµnh [Th­¬ng ThÇn Doanh Thiªn]	HiÖp Kh¸ch Hµnh	1	3630	1	1								
+399	aDiÖt BOSS Ngoµi Thµnh [B¾c Lôc L©m Minh Chñ]	HiÖp Kh¸ch Hµnh	1	3630	2	1								
+400	aDiÖt BOSS Ngoµi Thµnh [L·nh H­¬ng L¨ng]	HiÖp Kh¸ch Hµnh	1	3630	3	1								
+401	aDiÖt BOSS Ngoµi Thµnh [§µo Hoa §¶o Chñ Hoµng Long]	HiÖp Kh¸ch Hµnh	1	3630	4	1								
+402	aDiÖt BOSS Ngoµi Thµnh [T©y Vùc Th­¬ng Lang B¸ V­¬ng]	HiÖp Kh¸ch Hµnh	1	3630	5	1								
+403	aDiÖt BOSS Ngoµi Thµnh [Ngäc S¬n Chi Linh Thiªn Cöu]	HiÖp Kh¸ch Hµnh	1	3630	6	1								
+404	aDiÖt BOSS Ngoµi Thµnh [U Tr¹ch Chi nh Minh Vâ]	HiÖp Kh¸ch Hµnh	1	3630	7	1								
+405	aDiÖt BOSS Bang [Bé Phi Yªn]	HiÖp Kh¸ch Hµnh	1	3630	8	1								
+406	aDiÖt BOSS Bang [H¹ C¶nh Th¾ng]	HiÖp Kh¸ch Hµnh	1	3630	9	1								
+407	aDiÖt BOSS Bang [NhiÕp §¹i Chïy]	HiÖp Kh¸ch Hµnh	1	3630	10	1								
+408	aDiÖt BOSS Bang [C«n L«n N«]	HiÖp Kh¸ch Hµnh	1	3630	11	1								
+409	aDiÖt BOSS Bang [Bïi Hµng]	HiÖp Kh¸ch Hµnh	1	3630	12	1								
+410	aDiÖt BOSS Bang [L­u NghÞ]	HiÖp Kh¸ch Hµnh	1	3630	13	1								
+411	aDiÖt BOSS Bang [Hång TuyÕn]	HiÖp Kh¸ch Hµnh	1	3630	14	1								
+412	aDiÖt BOSS Ma Vùc [TrÇn Lçi]	HiÖp Kh¸ch Hµnh	1	3630	15	1								
+413	aDiÖt BOSS Ma Vùc [Thiªn ¢m Gi¸o-Ma Vùc Chuyªn Sø]	HiÖp Kh¸ch Hµnh	1	3630	16	1								
+414	aDiÖt BOSS Ma Vùc [Thiªn ¢m Gi¸o §å Träng Th­¬ng]	HiÖp Kh¸ch Hµnh	1	3630	17	1								
+415	§iÓm RÌn LuyÖn ®¹t ®Õn %d/50	HiÖp Kh¸ch Hµnh	0	3609	1	50								
+416	§iÓm RÌn LuyÖn ®¹t ®Õn %d/100	HiÖp Kh¸ch Hµnh	0	3609	1	100								
+417	§iÓm RÌn LuyÖn ®¹t ®Õn %d/200	HiÖp Kh¸ch Hµnh	0	3609	1	200								
+418	§iÓm RÌn LuyÖn ®¹t ®Õn %d/300	HiÖp Kh¸ch Hµnh	0	3609	1	300								
+419	§iÓm RÌn LuyÖn ®¹t ®Õn %d/400	HiÖp Kh¸ch Hµnh	0	3609	1	400								
+420	§iÓm RÌn LuyÖn ®¹t ®Õn %d/500	HiÖp Kh¸ch Hµnh	0	3609	1	500								
+421	§iÓm RÌn LuyÖn ®¹t ®Õn %d/600	HiÖp Kh¸ch Hµnh	0	3609	1	600								
+422	§iÓm RÌn LuyÖn ®¹t ®Õn %d/700	HiÖp Kh¸ch Hµnh	0	3609	1	700								
+423	§iÓm RÌn LuyÖn ®¹t ®Õn %d/800	HiÖp Kh¸ch Hµnh	0	3609	1	800								
+424	§iÓm RÌn LuyÖn ®¹t ®Õn %d/900	HiÖp Kh¸ch Hµnh	0	3609	1	900								
+425	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1000	HiÖp Kh¸ch Hµnh	0	3609	1	1000								
+426	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1100	HiÖp Kh¸ch Hµnh	0	3609	1	1100								
+427	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1200	HiÖp Kh¸ch Hµnh	0	3609	1	1200								
+428	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1300	HiÖp Kh¸ch Hµnh	0	3609	1	1300								
+429	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1400	HiÖp Kh¸ch Hµnh	0	3609	1	1400								
+430	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1500	HiÖp Kh¸ch Hµnh	0	3609	1	1500								
+431	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1600	HiÖp Kh¸ch Hµnh	0	3609	1	1600								
+432	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1700	HiÖp Kh¸ch Hµnh	0	3609	1	1700								
+433	§iÓm RÌn LuyÖn ®¹t ®Õn %d/50	HiÖp Kh¸ch Hµnh	0	3609	1	50								
+434	§iÓm RÌn LuyÖn ®¹t ®Õn %d/100	HiÖp Kh¸ch Hµnh	0	3609	1	100								
+435	§iÓm RÌn LuyÖn ®¹t ®Õn %d/200	HiÖp Kh¸ch Hµnh	0	3609	1	200								
+436	§iÓm RÌn LuyÖn ®¹t ®Õn %d/300	HiÖp Kh¸ch Hµnh	0	3609	1	300								
+437	§iÓm RÌn LuyÖn ®¹t ®Õn %d/400	HiÖp Kh¸ch Hµnh	0	3609	1	400								
+438	§iÓm RÌn LuyÖn ®¹t ®Õn %d/500	HiÖp Kh¸ch Hµnh	0	3609	1	500								
+439	§iÓm RÌn LuyÖn ®¹t ®Õn %d/600	HiÖp Kh¸ch Hµnh	0	3609	1	600								
+440	§iÓm RÌn LuyÖn ®¹t ®Õn %d/700	HiÖp Kh¸ch Hµnh	0	3609	1	700								
+441	§iÓm RÌn LuyÖn ®¹t ®Õn %d/800	HiÖp Kh¸ch Hµnh	0	3609	1	800								
+442	§iÓm RÌn LuyÖn ®¹t ®Õn %d/900	HiÖp Kh¸ch Hµnh	0	3609	1	900								
+443	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1000	HiÖp Kh¸ch Hµnh	0	3609	1	1000								
+444	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1100	HiÖp Kh¸ch Hµnh	0	3609	1	1100								
+445	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1200	HiÖp Kh¸ch Hµnh	0	3609	1	1200								
+446	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1300	HiÖp Kh¸ch Hµnh	0	3609	1	1300								
+447	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1400	HiÖp Kh¸ch Hµnh	0	3609	1	1400								
+448	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1500	HiÖp Kh¸ch Hµnh	0	3609	1	1500								
+449	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1600	HiÖp Kh¸ch Hµnh	0	3609	1	1600								
+450	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1700	HiÖp Kh¸ch Hµnh	0	3609	1	1700								
+451	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1800	HiÖp Kh¸ch Hµnh	0	3609	1	1800								
+452	§iÓm RÌn LuyÖn ®¹t ®Õn %d/1900	HiÖp Kh¸ch Hµnh	0	3609	1	1900								
+453	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/50	HiÖp Kh¸ch Hµnh	1	3631	1	1								
+454	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/100	HiÖp Kh¸ch Hµnh	1	3631	2	1								
+455	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/200	HiÖp Kh¸ch Hµnh	1	3631	3	1								
+456	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/300	HiÖp Kh¸ch Hµnh	1	3631	4	1								
+457	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/400	HiÖp Kh¸ch Hµnh	1	3631	5	1								
+458	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/500	HiÖp Kh¸ch Hµnh	1	3631	6	1								
+459	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/600	HiÖp Kh¸ch Hµnh	1	3631	7	1								
+460	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/700	HiÖp Kh¸ch Hµnh	1	3631	8	1								
+461	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/800	HiÖp Kh¸ch Hµnh	1	3631	9	1								
+462	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/900	HiÖp Kh¸ch Hµnh	1	3631	10	1								
+463	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1000	HiÖp Kh¸ch Hµnh	1	3631	11	1								
+464	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1100	HiÖp Kh¸ch Hµnh	1	3631	12	1								
+465	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1200	HiÖp Kh¸ch Hµnh	1	3631	13	1								
+466	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1300	HiÖp Kh¸ch Hµnh	1	3631	14	1								
+467	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1400	HiÖp Kh¸ch Hµnh	1	3631	15	1								
+468	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1500	HiÖp Kh¸ch Hµnh	1	3631	16	1								
+469	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1600	HiÖp Kh¸ch Hµnh	1	3631	17	1								
+470	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1700	HiÖp Kh¸ch Hµnh	1	3631	18	1								
+471	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/50	HiÖp Kh¸ch Hµnh	1	3631	19	1								
+472	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/100	HiÖp Kh¸ch Hµnh	1	3631	20	1								
+473	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/200	HiÖp Kh¸ch Hµnh	1	3631	21	1								
+474	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/300	HiÖp Kh¸ch Hµnh	1	3631	22	1								
+475	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/400	HiÖp Kh¸ch Hµnh	1	3631	23	1								
+476	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/500	HiÖp Kh¸ch Hµnh	1	3631	24	1								
+477	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/600	HiÖp Kh¸ch Hµnh	1	3631	25	1								
+478	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/700	HiÖp Kh¸ch Hµnh	1	3631	26	1								
+479	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/800	HiÖp Kh¸ch Hµnh	1	3631	27	1								
+480	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/900	HiÖp Kh¸ch Hµnh	1	3631	28	1								
+481	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1000	HiÖp Kh¸ch Hµnh	1	3631	29	1								
+482	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1100	HiÖp Kh¸ch Hµnh	1	3631	30	1								
+483	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1200	HiÖp Kh¸ch Hµnh	1	3632	1	1								
+484	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1300	HiÖp Kh¸ch Hµnh	1	3632	2	1								
+485	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1400	HiÖp Kh¸ch Hµnh	1	3632	3	1								
+486	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1500	HiÖp Kh¸ch Hµnh	1	3632	4	1								
+487	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1600	HiÖp Kh¸ch Hµnh	1	3632	5	1								
+488	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1700	HiÖp Kh¸ch Hµnh	1	3632	6	1								
+489	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1800	HiÖp Kh¸ch Hµnh	1	3632	7	1								
+490	a§iÓm RÌn LuyÖn ®¹t ®Õn %d/1900	HiÖp Kh¸ch Hµnh	1	3632	8	1								
+491	§¨ng nhËp mçi ngµy	HiÖp Kh¸ch Hµnh	4	1	0	1								
+492	Trång 1 C©y H¹t Gièng	HiÖp Kh¸ch Hµnh	1	3610	15	1								
+493	Hoµn thµnh 1 lÇn §o¹t Tiªu	HiÖp Kh¸ch Hµnh	1	3610	16	1								
+494	V­ît phã b¶n L­¬ng S¬n-i 3	HiÖp Kh¸ch Hµnh	1	3610	17	1								
+495	V­ît phã b¶n V¹n KiÕm Tròng-i 3	HiÖp Kh¸ch Hµnh	1	3610	18	1								
+496	NhËn th­ëng Tèng Liªu Tµi Nguyªn ChiÕn (Ngµy)	HiÖp Kh¸ch Hµnh	1	3610	19	1								
+497	aTèng Liªu Tµi Nguyªn ChiÕn (Ngµy)	HiÖp Kh¸ch Hµnh	1	3627	17	1								
+498	Trång vµ thu ho¹ch %d/4 C©y B¸t Nh· Lín	HiÖp Kh¸ch Hµnh	0	3633	1	4								
+499	Dïng %d/16 Ng«i Sao May M¾n	HiÖp Kh¸ch Hµnh	0	3635	1	16								
+500	Dïng %d/100 N÷ Oa B¶o H¹p	HiÖp Kh¸ch Hµnh	0	3634	1	100								
+501	NhËn th­ëng chiÕn tr­êng Tµi Nguyªn ChiÕn %d/40 lÇn	HiÖp Kh¸ch Hµnh	0	3636	1	40								
+502	aTu LuyÖn MËt TÞch	HiÖp Kh¸ch Hµnh	1	3630	18	1								
+503	aTrång C©y B¸t Nh· Lín	HiÖp Kh¸ch Hµnh	1	3630	19	1								
+504	aSö dông Ng«i Sao May M¾n	HiÖp Kh¸ch Hµnh	1	3630	20	1								
+505	aSö dông N÷ Oa B¶o H¹p	HiÖp Kh¸ch Hµnh	1	3630	21	1								
+506	aTèng Liªu Tµi Nguyªn ChiÕn	HiÖp Kh¸ch Hµnh	1	3630	22	1								
+507	KÝch ho¹t th­ëng tiÕn cÊp HiÖp Kh¸ch Hµnh	HiÖp Kh¸ch Hµnh	1	3615	10	1								
+508	aKÝch ho¹t th­ëng tiÕn cÊp HiÖp Kh¸ch Hµnh	HiÖp Kh¸ch Hµnh	1	3630	23	1								
+509	§Õn chç Qu¶n Gia Bang Héi, hoµn thµnh %d/100 lÇn nhiÖm vô ngµy	HiÖp Kh¸ch Hµnh	0	3637	1	100								
+510	aLËp Bang	HiÖp Kh¸ch Hµnh	1	3630	24	1								
+511	Before the 28th	HiÖp Kh¸ch Hµnh	9	4	3	28								
+512	gH«m nay trång 1 C©y B¸t Nh· Lín	cdkey	1	2853	8	1								
+513	H«m nay trång 1 C©y B¸t Nh· Lín	cdkey	1	2853	9	1								
+514	aH«m nay trång 1 C©y B¸t Nh· Lín	cdkey	1	2853	10	1								
+515	gNh¹n M«n LiÖt Háa	cdkey	1	2853	11	1								
+516	NhËn th­ëng chiÕn tr­êng Nh¹n M«n LiÖt Háa	cdkey	1	2853	12	1								
+517	aNh¹n M«n LiÖt Háa	cdkey	1	2853	13	1								
+518	gTèng Liªu Tµi Nguyªn ChiÕn (Ngµy)	cdkey	1	2853	14	1								
+519	H«m nay tham gia Tèng Liªu Tµi Nguyªn ChiÕn vµ nhËn th­ëng 1 lÇn	cdkey	1	2853	15	1								
+520	aTèng Liªu Tµi Nguyªn ChiÕn (Ngµy)	cdkey	1	2853	16	1								
+521	Tèng Liªu Tµi Nguyªn ChiÕn	cdkey	1	3057	27	1								
+522	aTèng Liªu Tµi Nguyªn ChiÕn	cdkey	1	3057	28	1								
+523	§iÓm n¨ng ®éng ®¹t ®Õn 21000	cdkey	0	3053	1	21000								
+524	§iÓm n¨ng ®éng ®¹t ®Õn 23000	cdkey	0	3053	1	23000								
+525	§iÓm n¨ng ®éng ®¹t ®Õn 25000	cdkey	0	3053	1	25000								
+526	a§iÓm n¨ng ®éng ®¹t ®Õn 21000	cdkey	1	3054	29	1								
+527	a§iÓm n¨ng ®éng ®¹t ®Õn 23000	cdkey	1	3054	30	1								
+528	a§iÓm n¨ng ®éng ®¹t ®Õn 25000	cdkey	1	3054	31	1								
+600	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 1600	0	3052	1	1600
+601	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 2000	0	3052	1	2000
+602	Tiªu phÝ Thiªn Kiªu LÖnh t¹i phã b¶n hoÆc Tô B¶o Trai ®¹t 3000	0	3052	1	3000
+603	aTµi Nguyªn Cuån Cuén	1	3051	19	1
+604	aKim Ngäc M·n §­êng	1	3051	20	1
+605	a§¹i Doanh Gia	1	3051	21	1

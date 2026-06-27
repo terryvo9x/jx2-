@@ -1,0 +1,17 @@
+ID	EFFECT_PATH	EFFECT_TYPE	SIZE	OFFSET	COLOR	FRAME	LOOP	REMARK
+唯一ID	特效路径	0为spr 1为位图 默认为0	特效大小,默认为物品图标大小	绘制偏移,相对于物品的左上角,默认为0;0	偏色	SPR帧数	是否循环播放,1为循环0为不循环,默认不循环	备注
+1	\UImage\第三版\w五行天仪\流光.spr		100;110	0;0	0xFFFFFFFF		1	测试用
+2	\UImage\第三版\t通用\t图素\七雄\无.png	1	40;40	68;0	0xFFFFFFFF			
+3	\UImage\第三版\t通用\t图素\七雄\韩.png	1	40;40	68;0	0xFFFFFFFF			
+4	\UImage\第三版\t通用\t图素\七雄\魏.png	1	40;40	68;0	0xFFFFFFFF			
+5	\UImage\第三版\t通用\t图素\七雄\秦.png	1	40;40	68;0	0xFFFFFFFF			
+6	\UImage\第三版\t通用\t图素\七雄\燕.png	1	40;40	68;0	0xFFFFFFFF			
+7	\UImage\第三版\t通用\t图素\七雄\楚.png	1	40;40	68;0	0xFFFFFFFF			
+8	\UImage\五行图标\金.spr	0	40;40	68;68	0xFFFFFFFF			
+9	\UImage\五行图标\木.spr	0	40;40	68;68	0xFFFFFFFF			
+10	\UImage\五行图标\水.spr	0	40;40	68;68	0xFFFFFFFF			
+11	\UImage\五行图标\火.spr	0	40;40	68;68	0xFFFFFFFF			
+12	\UImage\五行图标\土.spr	0	40;40	68;68	0xFFFFFFFF			
+13	\UImage\第三版\z主界面\t图素\S圣光图标\六芒星绿.spr	0	40;40	68;68	0xFFFFFFFF			
+14	\UImage\五行图标\穿.spr	0	40;40	68;68	0xFFFFFFFF			
+15	\UImage\五行图标\免.spr	0	40;40	68;68	0xFFFFFFFF			

@@ -1,0 +1,7 @@
+ID	Switch	Name	G	D	P	StartTime	EndTime	Time
+H­íng dÉn	§ãng më	Tªn	G	D	P	Thêi gian b¾t ®Çu kÝch ho¹t	Thêi gian kÕt thóc kÝch ho¹t	H¹n sö dông (Ngµy)
+1	1	ThÎ Song Tö	2	1	30659	20140610	20140701	30
+2	1	ThÎ cù gi¶i	2	1	30704	20140721	20140821	30
+3	1	ThÎ S­ Tö	2	1	30713	20140822	20140921	30
+4	1	ThÎ Xö N÷	2	1	30734	20141004	20141103	30
+5	1	ThÎ Thiªn H¹t	2	1	30740	20200101	20241231	120

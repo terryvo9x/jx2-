@@ -1,0 +1,10 @@
+EnhanceID	SuccessRate	Item_Count	Item_GDP	Stuff_1_Need	Stuff_1_Count	Stuff_1_GDP	SampleItem_1	StuffName_1	
+1	100	1	0;0;1	1	1	2;1;30521	2;1;30521	C p 1 T»y T©m Thπch	
+2	100	1	0;0;2	1	1	2;1;30522	2;1;30522	C p 2 T»y T©m Thπch	
+3	100	1	0;0;3	1	1	2;1;30523	2;1;30523	C p 3 T»y T©m Thπch	
+4	100	1	0;0;4	1	1	2;1;30524	2;1;30524	T»y T©m Thπch c p 4	
+5	100	1	0;0;5	1	1	2;1;30525	2;1;30525	T»y T©m Thπch c p 5	
+6	100	1	0;0;6	1	1	2;1;30526	2;1;30526	T»y T©m Thπch c p 6	
+7	100	1	0;0;7	1	1	2;1;31402	2;1;31402	T»y T©m Thπch Lv7	
+8	100	1	0;0;8	1	1	2;1;31615	2;1;31615	T»y T©m Thπch Lv8	
+9	100	1	0;0;9	1	1	2;1;31762	2;1;31762	T»y T©m Thπch Lv9	

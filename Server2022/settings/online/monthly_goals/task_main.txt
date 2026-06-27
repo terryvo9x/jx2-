@@ -1,0 +1,130 @@
+TaskIndex	TaskType	Title	TaskDes	IsGet	IsFinished	IsAwarded	NeedRoom	Award1	ExpireTime1	GlobalMsg1	Award2	ExpireTime2	GlobalMsg2	Award3	ExpireTime3	GlobalMsg3	Award4	ExpireTime4	GlobalMsg4	Award5	ExpireTime5	GlobalMsg5	Award6	ExpireTime6	GlobalMsg6	Award7	ExpireTime7	GlobalMsg7	Award8	ExpireTime8	GlobalMsg8
+ID NhiÖm vô	1: NhiÖm vô ngµy	Tiªu ®Ò nhiÖm vô	Miªu t¶ NhiÖm vô	NhËn nhiÖm vô nµy kh«ng? ID t­¬ng øng activity_interface_condition.txt	§iÒu kiÖn hoµn thµnh, ID t­¬ng øng activity_interface_condition.txt	§· nhËn th­ëng nhiÖm vô nµy? ID t­¬ng øngactivity_interface_condition.txt	Ph¸n ®o¸n « trèng trong tói, ®¹o cô gi¶ sÏ ®­îc ®iÒn tïy theo t×nh h×nh thùc tÕ	Th­ëng 1 (G,D,P,Count,Bind)	Thêi h¹n 1 	Th«ng b¸o nhËn th­ëng 1																					
+	2: NhiÖm vô th¸ng			Hç trî nhiÒu:	Hç trî nhiÒu:	T¹m thêi giíi h¹n ë condition d¹ng 1 bit		2;95;555;100;1	§¬n vŞ giê	1:yes 0:no																					
+	3: PhÇn th­ëng miÔn phİ			&: §¹t tÊt c¶	&: §¹t tÊt c¶																										
+	4: Tr¶ phİ nhËn th­ëng			|: §¹t 1 trong nh÷ng	|: §¹t 1 trong nh÷ng																										
+				T¹m kh«ng hç trî ( ), ®Ó hiÓn thŞ miªu t¶ ®iÒu kiÖn, tİnh '|' tr­íc råi tİnh '&'	T¹m kh«ng hç trî ( ), ®Ó hiÓn thŞ miªu t¶ ®iÒu kiÖn, tİnh '|' tr­íc råi tİnh '&'																										
+																															
+				 0: CÊm dïng	0: CÊm xong																										
+				-1: HiÖn																											
+																															
+1	1	§¨ng NhËp Mçi Ngµy	<color=Green>L¹i mét ngµy míi trong cuéc ®êi giang hå	-1	491	322	2	2;1;31506;1;4																							
+2	1	Trång 1 C©y B¸t Nh·-Nhá	<color=White>Trång vµ thu ho¹ch 1 <color=Green>C©y B¸t Nh·-Nhá	-1	232	323	2	2;1;31506;1;4																							
+3	1	Trång 1 C©y Tø Linh	<color=White>Trång vµ thu ho¹ch 1 <color=Green>C©y Tø Linh	-1	231	324	2	2;1;31506;1;4																							
+4	1	Trång 1 C©y H¹t Gièng	<color=White>Trång vµ thu ho¹ch 1 <color=Green>C©y H¹t Gièng	-1	492	325	2	2;1;31506;1;4																							
+5	1	VËn tiªu	<color=White>§Õn khu vùc ThÕ Lùc Ba Phe, hoµn thµnh 1 lÇn <color=Green>VËn Tiªu	-1	233	326	2	2;1;31506;2;4																							
+6	1	C­íp tiªu	<color=White>§Õn khu vùc ThÕ Lùc Ba Phe, <color=Green>®o¹t Tiªu Xa 1 lÇn	-1	493	327	2	2;1;31506;2;4																							
+7	1	Ph¸o ChiÕn Th¾ng	<color=White>Sö dông <color=Green>50 Ph¸o ChiÕn Th¾ng	-1	225	328	2	2;1;31506;5;4																							
+8	1	ThÇn Du Th¸i H­	<color=White>Tæ ®éi ®Õn Th¸i H­, <color=Green>v­ît ¶i 25	-1	230	329	2	2;1;31506;3;4																							
+9	1	§Şa HuyÒn Cung	<color=White>V­ît phã b¶n §Şa HuyÒn Cung 1 lÇn, <color=Green>v­ît qua ¶i 3	-1	224	330	2	2;1;31506;1;4																							
+10	1	L­¬ng S¬n	<color=White>V­ît phã b¶n L­¬ng S¬n 1 lÇn, <color=Green>v­ît qua ¶i 3	-1	494	331	2	2;1;31506;1;4																							
+11	1	V¹n KiÕm Tròng	<color=White>V­ît phã b¶nV¹n KiÕm Tròng 1 lÇn, <color=Green>v­ît qua ¶i 3	-1	495	332	2	2;1;31506;1;4																							
+12	1	KiÕm §·ng YÕn V©n	<color=White>§Õn KiÕm §·ng YÕn V©n, <color=Green>sö dông Thiªn Kiªu LÖnh lËt bµi 1 lÇn (i Th­êng, i Anh Hïng ®Òu ®­îc)	-1	229	333	2	2;1;31506;3;4																							
+13	1	§¹i ChiÕn Nh¹n M«n Quan	<color=White>Tham dù ®Çy ®ñ 1 lÇn <color=Green>ChiÕn Tr­êng Nh¹n M«n Quan vµ nhËn th­ëng	-1	234	334	2	2;1;31506;2;4																							
+14	1	ChiÕn tr­êng liªn ®Êu	<color=White>Tham dù 1 lÇn <color=Green>Thiªn M«n TrËn Liªn Server vµ nhËn th­ëng (Dï th¾ng hay b¹i còng hoµn thµnh)	-1	235	335	2	2;1;31506;2;4																							
+15	1	Kİch ho¹t danh hiÖu bang héi	<color=White>Kİch ho¹t vµ sö dông <color=Green>danh hiÖu bang héi Lv7 trë lªn	-1	236|237|238|239	336	2	2;1;31506;2;4																							
+16	1	NhiÖm vô Bang	<color=White>§Õn chç Qu¶n Gia Bang Héi, hoµn thµnh <color=Green>10 lÇn nhiÖm vô ngµy bang héi	-1	240	337	2	2;1;31506;5;4																							
+17	1	Tèng Liªu Tµi Nguyªn ChiÕn	<color=White>Tham dù <color=Green>Tèng Liªu Tµi Nguyªn ChiÕn vµ nhËn th­ëng	-1	496	497	2	2;1;31506;2;4																							
+18	2	Khiªu ChiÕn L­¬ng S¬n §o¹t Qu©n	<color=White>Hoµn thµnh nhiÖm vô <color=Green>Khiªu ChiÕn L­¬ng S¬n §o¹t Qu©n	-1	242	338	2	2;1;31506;1;4																							
+19	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-CËp Thêi Vò Tèng Giang	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>CËp Thêi Vò Tèng Giang	-1	243	339	2	2;1;31506;4;4																							
+20	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Tri §a Tinh Ng« Dông	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Tri §a Tinh Ng« Dông	-1	244	340	2	2;1;31506;4;4																							
+21	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Cöu V¨n Long Sö TiÕn	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Cöu V¨n Long Sö TiÕn	-1	245	341	2	2;1;31506;3;4																							
+22	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-TiÓu TuyÒn Phong Sµi TiÕn	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>TiÓu TuyÒn Phong Sµi TiÕn	-1	246	342	2	2;1;31506;3;4																							
+23	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-§¹i §ao Quan Th¾ng	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>§¹i §ao Quan Th¾ng	-1	247	343	2	2;1;31506;2;4																							
+24	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-NhËp V©n Long C«ng T«n Th¾ng	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>NhËp V©n Long C«ng T«n Th¾ng	-1	248	344	2	2;1;31506;2;4																							
+25	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-B¸o Tö §Çu L©m Xung	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>B¸o Tö §Çu L©m Xung	-1	249	345	2	2;1;31506;1;4																							
+26	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Hoa Hßa Th­îng Lç Trİ Th©m	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Hoa Hßa Th­îng Lç Trİ Th©m	-1	250	346	2	2;1;31506;1;4																							
+27	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-H¾c Toµn Phong Lı Quú	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>H¾c Toµn Phong Lı Quú	-1	251	347	2	2;1;31506;1;4																							
+28	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Hµnh Gi¶ Vâ Tßng	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Hµnh Gi¶ Vâ Tßng	-1	252	348	2	2;1;31506;1;4																							
+29	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-BÖnh Quan S¸c D­¬ng Hïng	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>BÖnh Quan S¸c D­¬ng Hïng	-1	253	349	2	2;1;31506;1;4																							
+30	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Phanh MÖnh Tam Lang Th¹ch Tó	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Phanh MÖnh Tam Lang Th¹ch Tó	-1	254	350	2	2;1;31506;1;4																							
+31	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-NhÊt Tr­îng Thanh Hæ Tam N­¬ng	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>NhÊt Tr­îng Thanh Hæ Tam N­¬ng	-1	255	351	2	2;1;31506;1;4																							
+32	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Song Th­¬ng T­íng §æng B×nh	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Song Th­¬ng T­íng §æng B×nh	-1	256	352	2	2;1;31506;1;4																							
+33	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Thanh DiÖn Thó D­¬ng Trİ	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Thanh DiÖn Thó D­¬ng Trİ	-1	257	353	2	2;1;31506;1;4																							
+34	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Tİch LŞch Háa TÇn Minh	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Tİch LŞch Háa TÇn Minh	-1	258	354	2	2;1;31506;1;4																							
+35	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Tóy B¸n Tiªn Phong NhÊt Phµm	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Tóy B¸n Tiªn Phong NhÊt Phµm	-1	259	355	2	2;1;31506;1;4																							
+36	2	Khiªu ChiÕn Anh Hïng L­¬ng S¬n-Song Tiªn H« Diªn Ch­íc	<color=White>§Õn L­¬ng S¬n, diÖt <color=Green>Song Tiªn H« Diªn Ch­íc	-1	260	356	2	2;1;31506;1;4																							
+37	2	Khiªu ChiÕn QuÇn Hïng L­¬ng S¬n	<color=White>Hoµn thµnh tÊt c¶ nhiÖm vô <color=Green>Khiªu ChiÕn Anh Hïng L­¬ng S¬n	-1	261	357	2	2;1;31506;30;4																							
+38	2	Vµo §Şa HuyÒn Cung-DiÖt S¸t Thñ Tinh Anh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-S¸t Thñ Tinh Anh	-1	262	358	2	2;1;31506;1;4																							
+39	2	Vµo §Şa HuyÒn Cung-DiÖt Thİch Kh¸ch Tinh Anh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Thİch Kh¸ch Tinh Anh	-1	263	359	2	2;1;31506;1;4																							
+40	2	Vµo §Şa HuyÒn Cung-DiÖt Tİn Sø Tinh Anh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Tİn Sø Tinh Anh	-1	264	360	2	2;1;31506;1;4																							
+41	2	Vµo §Şa HuyÒn Cung-DiÖt MËt Th¸m Tinh Anh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-MËt Th¸m Tinh Anh	-1	265	361	2	2;1;31506;1;4																							
+42	2	Vµo §Şa HuyÒn Cung-DiÖt B¹ch Kú Tinh Anh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-B¹ch Kú Tinh Anh	-1	266	362	2	2;1;31506;1;4																							
+43	2	Vµo §Şa HuyÒn Cung-DiÖt Hång Kú Chñ-Hång Tr­êng Tinh	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Hång Kú Chñ-Hång Tr­êng Tinh	-1	267	363	2	2;1;31506;2;4																							
+44	2	Vµo §Şa HuyÒn Cung-DiÖt H¾c Kú Chñ-¤ Mai Vò	<color=White>DiÖt <color=Green>§Şa HuyÒn Cung-H¾c Kú Chñ-¤ Mai Vò	-1	268	364	2	2;1;31506;2;4																							
+45	2	Vµo §Şa HuyÒn Cung-DiÖt Lam Kú Chñ-Lam Ân H¹c	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Lam Kú Chñ-Lam Ân H¹c	-1	269	365	2	2;1;31506;2;4																							
+46	2	Vµo §Şa HuyÒn Cung-DiÖt Hoµng Siªu	<color=White>DiÖt <color=Green>§Şa HuyÒn Cung Chñ-Hoµng Siªu	-1	270	366	2	2;1;31506;2;4																							
+47	2	Vµo §Şa HuyÒn Cung-DiÖt B¹ch Kú Chñ-B¹ch L¨ng Tiªu	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-B¹ch Kú Chñ-B¹ch L¨ng Tiªu	-1	271	367	2	2;1;31506;2;4																							
+48	2	Vµo §Şa HuyÒn Cung-DiÖt L«i §­êng Chñ-Ph­¬ng §øc Ch©u	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-L«i §­êng Chñ-Ph­¬ng §øc Ch©u	-1	272	368	2	2;1;31506;2;4																							
+49	2	Vµo §Şa HuyÒn Cung-DiÖt Háa §­êng Chñ-TiÒn Ch¸	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Háa §­êng Chñ-TiÒn Ch¸	-1	273	369	2	2;1;31506;2;4																							
+50	2	Vµo §Şa HuyÒn Cung-DiÖt Phong §­êng Chñ	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-Phong §­êng Chñ-Phong M·n TrÇn	-1	274	370	2	2;1;31506;2;4																							
+51	2	Vµo §Şa HuyÒn Cung-DiÖt UyÓn Nhu V©n	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-UyÓn Nhu V©n	-1	275	371	2	2;1;31506;3;4																							
+52	2	Vµo §Şa HuyÒn Cung-DiÖt UyÓn Thanh Nhi	<color=White>§Õn §Şa HuyÒn Cung, t×m diÖt <color=Green>§Şa HuyÒn Cung-UyÓn Thanh Nhi	-1	276	372	2	2;1;31506;3;4																							
+53	2	§¹i ph¸ §Şa HuyÒn Cung	<color=White>Hoµn thµnh tÊt c¶ nhiÖm vô <color=Green>DiÖt §Şch §Şa HuyÒn Cung	-1	277	373	2	2;1;31506;30;4																							
+54	2	NhiÖm vô tuÇn V¹n KiÕm Tròng	<color=White>Hoµn thµnh <color=Green>nhiÖm vô tuÇn V¹n KiÕm Tròng	-1	278	374	2	2;1;31506;1;4																							
+55	2	KiÕm Tròng Ma ¶nh	<color=White>Hoµn thµnh nhiÖm vô <color=Green>KiÕm Tròng Ma nh	-1	279	375	2	2;1;31506;4;4																							
+56	2	Th¸m HiÓm KiÕm §·ng YÕn V©n	<color=White>Sö dông <color=Green>Thiªn Kiªu LÖnh <color=White>®Ó LËt Bµi trong phã b¶n KiÕm §·ng YÕn V©n <color=Green>30 lÇn	-1	280	376	2	2;1;31506;30;4																							
+57	2	Th¸m HiÓm Th¸i NhÊt Th¸p	<color=White>V­ît <color=Green>Th¸i NhÊt Th¸p-i 6 30 lÇn	-1	281	377	2	2;1;31506;20;4																							
+62	2	B­íc ®Çu tu luyÖn Hãa C¶nh	<color=White>LuyÖn 1 <color=Green>Linh Ph¸ch §¬n	-1	289	382	2	2;1;31506;10;4																							
+69	2	Tô B¶o Trai	<color=White>Rót th­ëng Tô B¶o Trai <color=Green>bÊt kú 50 lÇn	-1	296	389	2	2;1;31506;50;4																							
+71	2	Kİch ho¹t thÎ th¸ng	<color=White>Kİch ho¹t <color=Green>ThÎ Th¸ng 1 lÇn	-1	298	391	2	2;1;31506;20;4																							
+74	2	T¨ng thuéc tİnh Th­¬ng H¶i Ch©u 1 lÇn	<color=White>T¨ng cÊp <color=Green>thµnh c«ng <color=White><color=Green>Th­¬ng H¶i Ch©u<color=White> 1 lÇn	-1	301	394	2	2;1;31506;1;4																							
+75	2	C­êng hãa max 1 Th­¬ng H¶i Ch©u	<color=White>C­êng hãa 1 Th­¬ng H¶i Ch©u <color=Green>20 lÇn	-1	302	395	2	2;1;31506;10;4																							
+76	2	C­êng hãa max 10 Th­¬ng H¶i Ch©u	<color=White>C­êng hãa <color=Green>10<color=White> Th­¬ng H¶i Ch©u<color=Green> 20 lÇn	-1	303	396	2	2;1;31506;100;4																							
+77	2	C©y B¸t Nh· Lín	<color=White>Trång vµ thu ho¹ch <color=Green>4 C©y B¸t Nh· Lín	-1	498	503	1	2;1;31506;40;4																							
+78	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [NhËm Ng· Hµnh]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[NhËm Ng· Hµnh]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	304	397	2	2;1;31506;5;4																							
+79	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [Th­¬ng ThÇn Doanh Thiªn]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[Th­¬ng ThÇn Doanh Thiªn]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	305	398	2	2;1;31506;5;4																							
+80	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [B¾c Lôc L©m Minh Chñ]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[B¾c Lôc L©m Minh Chñ]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	306	399	2	2;1;31506;5;4																							
+81	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [L·nh H­¬ng L¨ng]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[L·nh H­¬ng L¨ng]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	307	400	2	2;1;31506;5;4																							
+82	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [§µo Hoa §¶o Chñ Hoµng Long]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[§µo Hoa §¶o Chñ Hoµng Long]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	308	401	2	2;1;31506;5;4																							
+83	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [T©y Vùc Th­¬ng Lang B¸ V­¬ng]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[T©y Vùc Th­¬ng Lang B¸ V­¬ng]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	309	402	2	2;1;31506;5;4																							
+84	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [Ngäc S¬n Chi Linh Thiªn Cöu]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[Ngäc S¬n Chi Linh Thiªn Cöu]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	310	403	2	2;1;31506;5;4																							
+85	2	Khiªu ChiÕn-BOSS Ngoµi Thµnh [U Tr¹ch Chi nh Minh Vâ]	<color=White>DiÖt BOSS Ngoµi Thµnh <color=Green>[U Tr¹ch Chi nh Minh Vâ]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	311	404	2	2;1;31506;5;4																							
+86	2	Khiªu ChiÕn-BOSS Bang [Bé Phi Yªn]	<color=White>DiÖt BOSS Bang <color=Green>[Bé Phi Yªn]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	312	405	2	2;1;31506;5;4																							
+87	2	Khiªu ChiÕn-BOSS Bang [H¹ C¶nh Th¾ng]	<color=White>DiÖt BOSS Bang <color=Green>[H¹ C¶nh Th¾ng]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	313	406	2	2;1;31506;5;4																							
+88	2	Khiªu ChiÕn-BOSS Bang [NhiÕp §¹i Chïy]	<color=White>DiÖt BOSS Bang <color=Green>[NhiÕp §¹i Chïy]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	314	407	2	2;1;31506;5;4																							
+89	2	Khiªu ChiÕn-BOSS Bang [C«n L«n N«]	<color=White>DiÖt BOSS Bang <color=Green>[C«n L«n N«]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	315	408	2	2;1;31506;5;4																							
+90	2	Khiªu ChiÕn-BOSS Bang [Bïi Hµng]	<color=White>DiÖt BOSS Bang <color=Green>[Bïi Hµng]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	316	409	2	2;1;31506;5;4																							
+91	2	Khiªu ChiÕn-BOSS Bang [L­u NghŞ]	<color=White>DiÖt BOSS Bang <color=Green>[L­u NghŞ]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	317	410	2	2;1;31506;5;4																							
+92	2	Khiªu ChiÕn-BOSS Bang [Hång TuyÕn]	<color=White>DiÖt BOSS Bang <color=Green>[Hång TuyÕn]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	318	411	2	2;1;31506;5;4																							
+93	2	Khiªu ChiÕn-BOSS Ma Vùc [TrÇn Lçi]	<color=White>DiÖt BOSS Ma Vùc <color=Green>[TrÇn Lçi]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	319	412	2	2;1;31506;10;4																							
+94	2	Khiªu ChiÕn-BOSS Ma Vùc [Thiªn ¢m Gi¸o-Ma Vùc Chuyªn Sø]	<color=White>DiÖt BOSS Ma Vùc <color=Green>[Thiªn ¢m Gi¸o-Ma Vùc Chuyªn Sø]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	320	413	2	2;1;31506;5;4																							
+95	2	Khiªu ChiÕn-BOSS Ma Vùc [Thiªn ¢m Gi¸o §å Träng Th­¬ng]	<color=White>DiÖt BOSS Ma Vùc <color=Green>[Thiªn ¢m Gi¸o §å Träng Th­¬ng]<color=White> (ChØ ®éi hoÆc c¸ nh©n kÕt liÔu BOSS míi tİnh lµ hoµn thµnh nhiÖm vô)	-1	321	414	2	2;1;31506;5;4																							
+96	2	X©y Dùng Bang Héi	<color=White>§Õn chç Qu¶n Gia Bang Héi, hoµn thµnh 100 lÇn nhiÖm vô ngµy	-1	509	510	2	2;1;31506;20;4																							
+97	2	TiÕn CÊp MËt TŞch	<color=White>Tu luyÖn <color=Green>Ch©n Vâ MËt TŞch 1 lÇn<color=White> (BÊt kÓ thµnh b¹i)	-1	241	502	2	2;1;31506;20;4																							
+98	2	Sö dông Ng«i Sao May M¾n	<color=White>Dïng <color=Green>16 Ng«i Sao May M¾n	-1	499	504	2	2;1;31506;35;4																							
+99	2	Sö dông N÷ Oa B¶o H¹p	<color=White>Dïng <color=Green>100 N÷ Oa B¶o H¹p	-1	500	505	2	2;1;31506;35;4																							
+100	2	Tèng Liªu Tµi Nguyªn ChiÕn	<color=White>Hoµn thµnh <color=Green>40 lÇn Tµi Nguyªn ChiÕn <color=White>(Tİnh khi nhËn th­ëng)	-1	501	506	2	2;1;31506;40;4																							
+101	3	NhËn Th­ëng Tİch Lòy 50	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>50<color=White> sÏ ®­îc nhËn th­ëng	-1	415	453	2	2;1;31000;1;4																							
+102	3	NhËn Th­ëng Tİch Lòy 100	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>100<color=White> sÏ ®­îc nhËn th­ëng	-1	416	454	2	2;1;31001;1;4																							
+103	3	NhËn Th­ëng Tİch Lòy 200	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>200<color=White> sÏ ®­îc nhËn th­ëng	-1	417	455	2	2;1;31507;1;4		1																					
+104	3	NhËn Th­ëng Tİch Lòy 300	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>300<color=White> sÏ ®­îc nhËn th­ëng	-1	418	456	2	2;102;215;100;4																							
+105	3	NhËn Th­ëng Tİch Lòy 400	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>400<color=White> sÏ ®­îc nhËn th­ëng	-1	419	457	2	2;1;31024;1;4																							
+106	3	NhËn Th­ëng Tİch Lòy 500	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>500<color=White> sÏ ®­îc nhËn th­ëng	-1	420	458	2	2;1;30914;1;4																							
+107	3	NhËn Th­ëng Tİch Lòy 600	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>600<color=White> sÏ ®­îc nhËn th­ëng	-1	421	459	2	2;1;9977;1;4	168	1																					
+108	3	NhËn Th­ëng Tİch Lòy 700	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>700<color=White> sÏ ®­îc nhËn th­ëng	-1	422	460	2	2;1;31507;1;4		1																					
+109	3	NhËn Th­ëng Tİch Lòy 800	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>800<color=White> sÏ ®­îc nhËn th­ëng	-1	423	461	2	2;1;30914;1;4																							
+110	3	NhËn Th­ëng Tİch Lòy 900	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>900<color=White> sÏ ®­îc nhËn th­ëng	-1	424	462	2	2;1;31123;1;4		1																					
+111	3	NhËn Th­ëng Tİch Lòy 1000	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1000<color=White> sÏ ®­îc nhËn th­ëng	-1	425	463	2	2;1;31386;50;4																							
+112	3	NhËn Th­ëng Tİch Lòy 1100	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1100<color=White> sÏ ®­îc nhËn th­ëng	-1	426	464	2	2;1;31239;1;4		1																					
+113	3	NhËn Th­ëng Tİch Lòy 1200	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1200<color=White> sÏ ®­îc nhËn th­ëng	-1	427	465	2	2;1;31507;1;4		1																					
+114	3	NhËn Th­ëng Tİch Lòy 1300	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1300<color=White> sÏ ®­îc nhËn th­ëng	-1	428	466	2	2;1;31505;1;4		1																					
+115	3	NhËn Th­ëng Tİch Lòy 1400	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1400<color=White> sÏ ®­îc nhËn th­ëng	-1	429	467	2	2;1;31508;1;4		1																					
+116	3	NhËn Th­ëng Tİch Lòy 1500	<color=White>Hoµn thµnh <color=Green>nhiÖm vô hµng ngµy vµ hµng th¸ng<color=White>, nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1500<color=White> sÏ ®­îc nhËn th­ëng	-1	430	468	2	2;95;204;1;4		1																					
+117	4	Kİch ho¹t th­ëng tiÕn cÊp	<color=White>Sö dông <color=Green>50 Thiªn Kiªu LÖnh ®Ó kİch ho¹t th­ëng tiÕn cÊp, <color=White>nhËn ngay <color=Green>300 §iÓm RÌn LuyÖn<color=White>. Khi §iÓm RÌn LuyÖn ®¹t møc nhÊt ®Şnh, ®­îc nhËn Th­ëng TiÕn CÊp.	-1	507	508	2	2;1;31506;300;4																							
+118	4	NhËn Th­ëng TiÕn CÊp 50	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>50<color=White> sÏ ®­îc nhËn th­ëng	-1	507&433	471	2	2;1;31507;1;4																							
+119	4	NhËn Th­ëng TiÕn CÊp 100	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>100<color=White> sÏ ®­îc nhËn th­ëng	-1	507&434	472	2	2;1;31509;1;4																							
+120	4	NhËn Th­ëng TiÕn CÊp 200	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>200<color=White> sÏ ®­îc nhËn th­ëng	-1	507&435	473	2	2;1;31004;50;4																							
+121	4	NhËn Th­ëng TiÕn CÊp 300	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>300<color=White> sÏ ®­îc nhËn th­ëng	-1	507&436	474	2	2;1;31386;50;4																							
+122	4	NhËn Th­ëng TiÕn CÊp 400	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>400<color=White> sÏ ®­îc nhËn th­ëng	-1	507&437	475	2	2;1;9977;1;4	168	1																					
+123	4	NhËn Th­ëng TiÕn CÊp 500	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>500<color=White> sÏ ®­îc nhËn th­ëng	-1	507&438	476	2	2;1;30914;5;4																							
+124	4	NhËn Th­ëng TiÕn CÊp 600	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>600<color=White> sÏ ®­îc nhËn th­ëng	-1	507&439	477	2	2;1;31509;2;4																							
+125	4	NhËn Th­ëng TiÕn CÊp 700	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>700<color=White> sÏ ®­îc nhËn th­ëng	-1	507&440	478	2	2;1;9977;2;4	168	1																					
+126	4	NhËn Th­ëng TiÕn CÊp 800	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>800<color=White> sÏ ®­îc nhËn th­ëng	-1	507&441	479	2	2;1;31239;1;4		1																					
+127	4	NhËn Th­ëng TiÕn CÊp 900	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>900<color=White> sÏ ®­îc nhËn th­ëng	-1	507&442	480	2	2;1;31123;2;4		1																					
+128	4	NhËn Th­ëng TiÕn CÊp 1000	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1000<color=White> sÏ ®­îc nhËn th­ëng	-1	507&443	481	2	2;1;31510;1;4		1																					
+129	4	NhËn Th­ëng TiÕn CÊp 1100	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1100<color=White> sÏ ®­îc nhËn th­ëng	-1	507&444	482	2	2;1;30914;5;4																							
+130	4	NhËn Th­ëng TiÕn CÊp 1200	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1200<color=White> sÏ ®­îc nhËn th­ëng	-1	507&445	483	2	2;1;31505;1;4		1																					
+131	4	NhËn Th­ëng TiÕn CÊp 1300	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1300<color=White> sÏ ®­îc nhËn th­ëng	-1	507&446	484	2	2;1;31239;2;4		1																					
+132	4	NhËn Th­ëng TiÕn CÊp 1400	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1400<color=White> sÏ ®­îc nhËn th­ëng	-1	507&447	485	2	2;1;30370;1;4		1																					
+133	4	NhËn Th­ëng TiÕn CÊp 1500	<color=Green>Kİch ho¹t th­ëng tiÕn cÊp sÏ <color=White> nhËn ®­îc §iÓm RÌn LuyÖn. Khi §iÓm RÌn LuyÖn ®¹t ®Õn <color=Green>1500<color=White> sÏ ®­îc nhËn th­ëng	-1	507&448	486	2	2;1;31508;1;4		1																					

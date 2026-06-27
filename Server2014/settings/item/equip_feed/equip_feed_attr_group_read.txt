@@ -1,0 +1,2882 @@
+LineId	Name	GroupID	AttrId	AttrLv	Rate	AttrWorth	ConflictGroupID		Mở khóa:  đặc trưng=8:2		D:C:B=4:3:3
+ID duy nhất	unuse line(2~10)	ID được tham chiếu									
+	unuse line(2~10)	Có thể trùng lặp									
+	unuse line(2~10)										
+	unuse line(2~10)										
+	unuse line(2~10)										
+	unuse line(2~10)										
+	unuse line(2~10)										
+	unuse line(2~10)										
+	unuse line(2~10)										
+1	Phát triển D-C	0									
+2	Phát triển nhóm điền vào D	1									3	Hao mòn vũ khí giảm: /1% 	1	13141	1	192	200	21				
+4	Sức lực+/1	1	13142	1	184	200	22				
+5	Tăng giới hạn trọng lượng/1%	1	13143	1	184	200	23				
+6	Thể lực	1	13144	1	184	200	24				
+7	Thể lực 1%	1	13145	1	184	200	25				
+8	Điểm kinh nghiệm nhận được tăng: /1% 	1	13146	1	184	200	26				
+9	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	1	13147	1	184	200	27				
+10	Tọa thiền mỗi 10 giây hồi phục nội lực/1	1	13148	1	184	200	28				
+11	Tọa thiền mỗi 10 giây hồi phục thể lực/1	1	13149	1	184	200	29				
+12	Hiệu quả dược phẩm hồi nội/1%	1	13150	1	184	200	30				
+13	yêu cầu đẳng cấp giảm /1	1	13151	1	184	200	31				
+14	Tiêu diệt địch nhân khôi phục sinh lực	1	13152	1	184	200	32				
+15	Tiêu diệt địch nhân khôi phục nội lực	1	13153	1	184	200	33				
+16	Phát triển thuộc tính chính D	1									
+17	Sức mạnh	1	13081	1	266	300	1				
+18	Thân pháp	1	13082	1	266	300	2				
+19	Nội công 	1	13083	1	266	300	3				
+20	Linh hoạt	1	13084	1	266	300	4				
+21	Gân cốt	1	13085	1	266	300	5				
+22	Nội lực 	1	13086	1	266	300	6				
+23	Nội lực %	1	13087	1	266	300	7				
+24	Điểm sinh lực	1	13088	1	266	300	8				
+25	Sinh mệnh %	1	13089	1	272	300	9				
+26	Phát triển nhóm công kích D	1									
+27	Ngọai công lớn nhất trên vũ khí tăng 1	1	13108	1	200	400	10				
+28	Ngoại công nhỏ nhất trên vũ khí tăng /1	1	13109	1	200	400	11				
+29	Nội công lớn nhất trên vũ khí tăng /1	1	13110	1	200	400	12				
+30	Nội công nhỏ nhất trên vũ khí tăng /1	1	13111	1	200	400	13				
+31	Tăng điểm số tổng lực công kích ngoại công	1	13112	1	200	400	14				
+32	Tăng điểm số tổng lực công kích nội công	1	13113	1	200	400	15				
+33	Sát thương tăng /1	1	13114	1	0	400	16				
+34	Sát thương độc	1	13115	1	0	400	17				
+35	Độc sát tăng /1	1	13116	1	0	400	18				
+36	Ngoại công tăng: /1% 	1	13117	1	0	400	19				
+37	Nội công tăng /1% 	1	13118	1	0	400	20				
+38	Phát triển nhóm điền vào C	1									
+39	Hao mòn vũ khí giảm: /1% 	1	13154	1	124	300	21				
+40	Sức lực+/1	1	13155	1	123	300	22				
+41	Tăng giới hạn trọng lượng/1%	1	13156	1	123	300	23				
+42	Thể lực	1	13157	1	123	300	24				
+43	Thể lực 1%	1	13158	1	123	300	25				
+44	Điểm kinh nghiệm nhận được tăng: /1% 	1	13159	1	123	300	26				
+45	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	1	13160	1	123	300	27				
+46	Tọa thiền mỗi 10 giây hồi phục nội lực/1	1	13161	1	123	300	28				
+47	Tọa thiền mỗi 10 giây hồi phục thể lực/1	1	13162	1	123	300	29				
+48	Hiệu quả dược phẩm hồi nội/1%	1	13163	1	123	300	30				
+49	yêu cầu đẳng cấp giảm /1	1	13164	1	123	300	31				
+50	Tiêu diệt địch nhân khôi phục sinh lực	1	13165	1	123	300	32				
+51	Tiêu diệt địch nhân khôi phục nội lực	1	13166	1	123	300	33				
+52	Phát triển thuộc tính chính C	1									
+53	Sức mạnh	1	13090	1	177	400	1				
+54	Thân pháp	1	13091	1	177	400	2				
+55	Nội công 	1	13092	1	177	400	3				
+56	Linh hoạt	1	13093	1	177	400	4				
+57	Gân cốt	1	13094	1	177	400	5				
+58	Nội lực 	1	13095	1	177	400	6				
+59	Nội lực %	1	13096	1	177	400	7				
+60	Điểm sinh lực	1	13097	1	177	400	8				
+61	Sinh mệnh %	1	13098	1	184	400	9				
+62	Phát triển nhóm công kích C	1									
+63	Ngọai công lớn nhất trên vũ khí tăng 1	1	13119	1	90	500	10				
+64	Ngoại công nhỏ nhất trên vũ khí tăng /1	1	13120	1	90	500	11				
+65	Nội công lớn nhất trên vũ khí tăng /1	1	13121	1	90	500	12				
+66	Nội công nhỏ nhất trên vũ khí tăng /1	1	13122	1	90	500	13				
+67	Tăng điểm số tổng lực công kích ngoại công	1	13123	1	88	500	14				
+68	Tăng điểm số tổng lực công kích nội công	1	13124	1	88	500	15				
+69	Sát thương tăng /1	1	13125	1	88	500	16				
+70	Sát thương độc	1	13126	1	88	500	17				
+71	Độc sát tăng /1	1	13127	1	88	500	18				
+72	Ngoại công tăng: /1% 	1	13128	1	0	500	19				
+73	Nội công tăng /1% 	1	13129	1	0	500	20				
+74	Phát triển D-B	0									
+75	Phát triển nhóm điền vào D	2									
+76	Hao mòn vũ khí giảm: /1% 	2	13141	1	164	200	21				
+77	Sức lực+/1	2	13142	1	153	200	22				
+78	Tăng giới hạn trọng lượng/1%	2	13143	1	153	200	23				
+79	Thể lực	2	13144	1	153	200	24				
+80	Thể lực 1%	2	13145	1	153	200	25				
+81	Điểm kinh nghiệm nhận được tăng: /1% 	2	13146	1	153	200	26				
+82	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	2	13147	1	153	200	27				
+83	Tọa thiền mỗi 10 giây hồi phục nội lực/1	2	13148	1	153	200	28				
+84	Tọa thiền mỗi 10 giây hồi phục thể lực/1	2	13149	1	153	200	29				
+85	Hiệu quả dược phẩm hồi nội/1%	2	13150	1	153	200	30				
+86	yêu cầu đẳng cấp giảm /1	2	13151	1	153	200	31				
+87	Tiêu diệt địch nhân khôi phục sinh lực	2	13152	1	153	200	32				
+88	Tiêu diệt địch nhân khôi phục nội lực	2	13153	1	153	200	33				
+89	Phát triển thuộc tính chính D	2									
+90	Sức mạnh	2	13081	1	222	300	1				
+91	Thân pháp	2	13082	1	222	300	2				
+92	Nội công 	2	13083	1	222	300	3				
+93	Linh hoạt	2	13084	1	222	300	4				
+94	Gân cốt	2	13085	1	222	300	5				
+95	Nội lực 	2	13086	1	222	300	6				
+96	Nội lực %	2	13087	1	222	300	7				
+97	Điểm sinh lực	2	13088	1	222	300	8				
+98	Sinh mệnh %	2	13089	1	224	300	9				
+99	Phát triển nhóm công kích D	2									
+100	Ngọai công lớn nhất trên vũ khí tăng 1	2	13108	1	170	400	10				
+101	Ngoại công nhỏ nhất trên vũ khí tăng /1	2	13109	1	166	400	11				
+102	Nội công lớn nhất trên vũ khí tăng /1	2	13110	1	166	400	12				
+103	Nội công nhỏ nhất trên vũ khí tăng /1	2	13111	1	166	400	13				
+104	Tăng điểm số tổng lực công kích ngoại công	2	13112	1	166	400	14				
+105	Tăng điểm số tổng lực công kích nội công	2	13113	1	166	400	15				
+106	Sát thương tăng /1	2	13114	1	0	400	16				
+107	Sát thương độc	2	13115	1	0	400	17				
+108	Độc sát tăng /1	2	13116	1	0	400	18				
+109	Ngoại công tăng: /1% 	2	13117	1	0	400	19				
+110	Nội công tăng /1% 	2	13118	1	0	400	20				
+111	Phát triển nhóm điền vào C	2	0	0							
+112	Hao mòn vũ khí giảm: /1% 	2	13154	1	96	300	21				
+113	Sức lực+/1	2	13155	1	92	300	22				
+114	Tăng giới hạn trọng lượng/1%	2	13156	1	92	300	23				
+115	Thể lực	2	13157	1	92	300	24				
+116	Thể lực 1%	2	13158	1	92	300	25				
+117	Điểm kinh nghiệm nhận được tăng: /1% 	2	13159	1	92	300	26				
+118	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	2	13160	1	92	300	27				
+119	Tọa thiền mỗi 10 giây hồi phục nội lực/1	2	13161	1	92	300	28				
+120	Tọa thiền mỗi 10 giây hồi phục thể lực/1	2	13162	1	92	300	29				
+121	Hiệu quả dược phẩm hồi nội/1%	2	13163	1	92	300	30				
+122	yêu cầu đẳng cấp giảm /1	2	13164	1	92	300	31				
+123	Tiêu diệt địch nhân khôi phục sinh lực	2	13165	1	92	300	32				
+124	Tiêu diệt địch nhân khôi phục nội lực	2	13166	1	92	300	33				
+125	Phát triển thuộc tính chính C	2									
+126	Sức mạnh	2	13090	1	133	400	1				
+127	Thân pháp	2	13091	1	133	400	2				
+128	Nội công 	2	13092	1	133	400	3				
+129	Linh hoạt	2	13093	1	133	400	4				
+130	Gân cốt	2	13094	1	133	400	5				
+131	Nội lực 	2	13095	1	133	400	6				
+132	Nội lực %	2	13096	1	133	400	7				
+133	Điểm sinh lực	2	13097	1	133	400	8				
+134	Sinh mệnh %	2	13098	1	136	400	9				
+135	Phát triển nhóm công kích C	2									
+136	Ngọai công lớn nhất trên vũ khí tăng 1	2	13119	1	69	500	10				
+137	Ngoại công nhỏ nhất trên vũ khí tăng /1	2	13120	1	69	500	11				
+138	Nội công lớn nhất trên vũ khí tăng /1	2	13121	1	66	500	12				
+139	Nội công nhỏ nhất trên vũ khí tăng /1	2	13122	1	66	500	13				
+140	Tăng điểm số tổng lực công kích ngoại công	2	13123	1	66	500	14				
+141	Tăng điểm số tổng lực công kích nội công	2	13124	1	66	500	15				
+142	Sát thương tăng /1	2	13125	1	66	500	16				
+143	Sát thương độc	2	13126	1	66	500	17				
+144	Độc sát tăng /1	2	13127	1	66	500	18				
+145	Ngoại công tăng: /1% 	2	13128	1	0	500	19				
+146	Nội công tăng /1% 	2	13129	1	0	500	20				
+147	Phát triển nhóm điền vào B	2	0	0							
+148	Hao mòn vũ khí giảm: /1% 	2	13167	1	68	400	21				
+149	Sức lực+/1	2	13168	1	61	400	22				
+150	Tăng giới hạn trọng lượng/1%	2	13169	1	61	400	23				
+151	Thể lực	2	13170	1	61	400	24				
+152	Thể lực 1%	2	13171	1	61	400	25				
+153	Điểm kinh nghiệm nhận được tăng: /1% 	2	13172	1	61	400	26				
+154	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	2	13173	1	61	400	27				
+155	Tọa thiền mỗi 10 giây hồi phục nội lực/1	2	13174	1	61	400	28				
+156	Tọa thiền mỗi 10 giây hồi phục thể lực/1	2	13175	1	61	400	29				
+157	Hiệu quả dược phẩm hồi nội/1%	2	13176	1	61	400	30				
+158	yêu cầu đẳng cấp giảm /1	2	13177	1	61	400	31				
+159	Tiêu diệt địch nhân khôi phục sinh lực	2	13178	1	61	400	32				
+160	Tiêu diệt địch nhân khôi phục nội lực	2	13179	1	61	400	33				
+161	Phát triển thuộc tính chính B	2									
+162	Sức mạnh	2	13099	1	88	500	1				
+163	Thân pháp	2	13100	1	88	500	2				
+164	Nội công 	2	13101	1	88	500	3				
+165	Linh hoạt	2	13102	1	88	500	4				
+166	Gân cốt	2	13103	1	88	500	5				
+167	Nội lực 	2	13104	1	88	500	6				
+168	Nội lực %	2	13105	1	88	500	7				
+169	Điểm sinh lực	2	13106	1	88	500	8				
+170	Sinh mệnh %	2	13107	1	96	500	9				
+171	Phát triển nhóm công kích B	2									
+172	Ngọai công lớn nhất trên vũ khí tăng 1	2	13130	1	38	600	10				
+173	Ngoại công nhỏ nhất trên vũ khí tăng /1	2	13131	1	38	600	11				
+174	Nội công lớn nhất trên vũ khí tăng /1	2	13132	1	36	600	12				
+175	Nội công nhỏ nhất trên vũ khí tăng /1	2	13133	1	36	600	13				
+176	Tăng điểm số tổng lực công kích ngoại công	2	13134	1	36	600	14				
+177	Tăng điểm số tổng lực công kích nội công	2	13135	1	36	600	15				
+178	Sát thương tăng /1	2	13136	1	36	600	16				
+179	Sát thương độc	2	13137	1	36	600	17				
+180	Độc sát tăng /1	2	13138	1	36	600	18				
+181	Ngoại công tăng: /1% 	2	13139	1	36	600	19				
+182	Nội công tăng /1% 	2	13140	1	36	600	20				
+183	Sức mạnh B	3	13099	1	10000	600	1				
+184	Thân pháp B	4	13100	1	10000	600	2				
+185	Nội lực B	5	13101	1	10000	600	3				
+186	Linh hoạt B	6	13102	1	10000	600	4				
+187	Gân cốt B	7	13103	1	10000	600	5				
+188	Sinh mệnh % B	8	13107	1	10000	600	9				
+189	Mở khóa D-C										
+190	Nhóm mở khóa D	9	0	0							
+191	Hao mòn vũ khí giảm: /1% 	9	13180	1	120	200	34				
+192	Sức lực+/1	9	13181	1	120	200	35				
+193	Tăng giới hạn trọng lượng/1%	9	13182	1	120	200	36				
+194	Thể lực	9	13183	1	120	200	37				
+195	Thể lực 1%	9	13184	1	120	200	38				
+196	Điểm kinh nghiệm nhận được tăng: /1% 	9	13185	1	120	200	39				
+197	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	9	13186	1	120	200	40				
+198	Tọa thiền mỗi 10 giây hồi phục nội lực/1	9	13187	1	120	200	41				
+199	Tọa thiền mỗi 10 giây hồi phục thể lực/1	9	13188	1	120	200	42				
+200	Hiệu quả dược phẩm hồi nội/1%	9	13189	1	120	200	43				
+201	yêu cầu đẳng cấp giảm /1	9	13190	1	120	200	44				
+202	Nội công nhỏ nhất trên vũ khí tăng /1	9	13191	1	120	200	45				
+203	Nội công lớn nhất trên vũ khí tăng /1	9	13192	1	120	200	46				
+204	Ngoại công nhỏ nhất trên vũ khí tăng /1	9	13193	1	120	200	47				
+205	Ngọai công lớn nhất trên vũ khí tăng 1	9	13194	1	120	200	48				
+206	Tăng điểm số nội công	9	13195	1	120	200	49				
+207	Tăng điểm số ngoại công	9	13196	1	120	200	50				
+208	Sát thương tăng /1	9	13197	1	120	200	51				
+209	Tăng sát thương độc	9	13198	1	120	200	52				
+210	Độc sát tăng /1	9	13199	1	120	200	53				
+211	Sức mạnh	9	13200	1	120	200	54				
+212	Thân pháp	9	13201	1	120	200	55				
+213	Nội công 	9	13202	1	120	200	56				
+214	Linh hoạt	9	13203	1	120	200	57				
+215	Gân cốt	9	13204	1	120	200	58				
+216	Điểm số triệt tiêu sát thương ngoại công	9	13205	1	120	200	59				
+217	Điểm số triệt tiêu sát thương nội công	9	13206	1	120	200	60				
+218	Giảm độc sát /1	9	13207	1	120	200	61				
+219	Thời gian hỗ trợ tấn công tăng: /1% 	9	13208	1	120	200	62				
+220	Thời gian hỗ trợ phòng thủ tăng: /1% 	9	13209	1	120	200	63				
+221	Dược hiệu kéo dài	9	13210	1	120	200	64				
+222	Tiêu diệt địch nhân khôi phục sinh lực	9	13211	1	120	200	65				
+223	Tiêu diệt địch nhân khôi phục nội lực	9	13212	1	120	200	66				
+224	Ngoại công tăng: /1% 	9	13213	1	120	200	67				
+225	Nội công tăng /1% 	9	13214	1	120	200	68				
+226	Tỷ lệ sát thương tuyệt đối /1%	9	13215	1	120	200	69				
+227	Nội lực 	9	13216	1	120	200	70				
+228	Nội lực %	9	13217	1	120	200	71				
+229	Điểm sinh lực	9	13218	1	120	200	72				
+230	Điểm số phản đòn sát thương ngoại công	9	13219	1	120	200	73				
+231	Điểm số phản đòn sát thương nội công	9	13220	1	120	200	74				
+232	Sinh mệnh %	9	13221	1	120	200	75				
+233	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	9	13222	1	0	200	76				
+234	Tốc độ đánh tăng: /1% 	9	13223	1	240	200	77				
+235	Xác suất tấn công trong phạm vi: /1% 	9	13224	1	120	200	78				
+236	Xác suất tần công chí mạng: /1% 	9	13225	1	120	200	79				
+237	Dùng kỹ năng không tính tỷ lệ giản cách/1%	9	13226	1	120	200	80				
+238	Phản đòn sát thương độc	9	13227	1	120	200	81				
+239	Tỉ lệ phản đòn sát thương ngoại thương	9	13228	1	120	200	82				
+240	Tỉ lệ phản đòn sát thương nội thương	9	13229	1	120	200	83				
+241	Nhóm mở khóa C	9									
+242	Hao mòn vũ khí giảm: /1% 	9	13180	2	80	400	34				
+243	Sức lực+/1	9	13181	2	80	400	35				
+244	Tăng giới hạn trọng lượng/1%	9	13182	2	80	400	36				
+245	Thể lực	9	13183	2	80	400	37				
+246	Thể lực 1%	9	13184	2	80	400	38				
+247	Điểm kinh nghiệm nhận được tăng: /1% 	9	13185	2	80	400	39				
+248	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	9	13186	2	80	400	40				
+249	Tọa thiền mỗi 10 giây hồi phục nội lực/1	9	13187	2	80	400	41				
+250	Tọa thiền mỗi 10 giây hồi phục thể lực/1	9	13188	2	80	400	42				
+251	Hiệu quả dược phẩm hồi nội/1%	9	13189	2	80	400	43				
+252	yêu cầu đẳng cấp giảm /1	9	13190	2	80	400	44				
+253	Nội công nhỏ nhất trên vũ khí tăng /1	9	13191	2	80	400	45				
+254	Nội công lớn nhất trên vũ khí tăng /1	9	13192	2	80	400	46				
+255	Ngoại công nhỏ nhất trên vũ khí tăng /1	9	13193	2	80	400	47				
+256	Ngọai công lớn nhất trên vũ khí tăng 1	9	13194	2	80	400	48				
+257	Tăng điểm số nội công	9	13195	2	80	400	49				
+258	Tăng điểm số ngoại công	9	13196	2	80	400	50				
+259	Sát thương tăng /1	9	13197	2	80	400	51				
+260	Tăng sát thương độc	9	13198	2	80	400	52				
+261	Độc sát tăng /1	9	13199	2	80	400	53				
+262	Sức mạnh	9	13200	2	80	400	54				
+263	Thân pháp	9	13201	2	80	400	55				
+264	Nội công 	9	13202	2	80	400	56				
+265	Linh hoạt	9	13203	2	80	400	57				
+266	Gân cốt	9	13204	2	80	400	58				
+267	Điểm số triệt tiêu sát thương ngoại công	9	13205	2	80	400	59				
+268	Điểm số triệt tiêu sát thương nội công	9	13206	2	80	400	60				
+269	Giảm độc sát /1	9	13207	2	80	400	61				
+270	Thời gian hỗ trợ tấn công tăng: /1% 	9	13208	2	80	400	62				
+271	Thời gian hỗ trợ phòng thủ tăng: /1% 	9	13209	2	80	400	63				
+272	Dược hiệu kéo dài	9	13210	2	80	400	64				
+273	Tiêu diệt địch nhân khôi phục sinh lực	9	13211	2	80	400	65				
+274	Tiêu diệt địch nhân khôi phục nội lực	9	13212	2	80	400	66				
+275	Ngoại công tăng: /1% 	9	13213	2	80	400	67				
+276	Nội công tăng /1% 	9	13214	2	80	400	68				
+277	Tỷ lệ sát thương tuyệt đối /1%	9	13215	2	80	400	69				
+278	Nội lực 	9	13216	2	80	400	70				
+279	Nội lực %	9	13217	2	80	400	71				
+280	Điểm sinh lực	9	13218	2	80	400	72				
+281	Điểm số phản đòn sát thương ngoại công	9	13219	2	80	400	73				
+282	Điểm số phản đòn sát thương nội công	9	13220	2	80	400	74				
+283	Sinh mệnh %	9	13221	2	80	400	75				
+284	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	9	13222	2	0	400	76				
+285	Tốc độ đánh tăng: /1% 	9	13223	2	160	400	77				
+286	Xác suất tấn công trong phạm vi: /1% 	9	13224	2	80	400	78				
+287	Xác suất tần công chí mạng: /1% 	9	13225	2	80	400	79				
+288	Dùng kỹ năng không tính tỷ lệ giản cách/1%	9	13226	2	80	400	80				
+289	Phản đòn sát thương độc	9	13227	2	80	400	81				
+290	Tỉ lệ phản đòn sát thương ngoại thương	9	13228	2	80	400	82				
+291	Tỉ lệ phản đòn sát thương nội thương	9	13229	2	80	400	83				
+292	Mở khóa D-B	0									
+293	Nhóm mở khóa D	10									
+294	Hao mòn vũ khí giảm: /1% 	10	13180	1	80	200	34				
+295	Sức lực+/1	10	13181	1	80	200	35				
+296	Tăng giới hạn trọng lượng/1%	10	13182	1	80	200	36				
+297	Thể lực	10	13183	1	80	200	37				
+298	Thể lực 1%	10	13184	1	80	200	38				
+299	Điểm kinh nghiệm nhận được tăng: /1% 	10	13185	1	80	200	39				
+300	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	10	13186	1	80	200	40				
+301	Tọa thiền mỗi 10 giây hồi phục nội lực/1	10	13187	1	80	200	41				
+302	Tọa thiền mỗi 10 giây hồi phục thể lực/1	10	13188	1	80	200	42				
+303	Hiệu quả dược phẩm hồi nội/1%	10	13189	1	80	200	43				
+304	yêu cầu đẳng cấp giảm /1	10	13190	1	80	200	44				
+305	Nội công nhỏ nhất trên vũ khí tăng /1	10	13191	1	80	200	45				
+306	Nội công lớn nhất trên vũ khí tăng /1	10	13192	1	80	200	46				
+307	Ngoại công nhỏ nhất trên vũ khí tăng /1	10	13193	1	80	200	47				
+308	Ngọai công lớn nhất trên vũ khí tăng 1	10	13194	1	80	200	48				
+309	Tăng điểm số nội công	10	13195	1	80	200	49				
+310	Tăng điểm số ngoại công	10	13196	1	80	200	50				
+311	Sát thương tăng /1	10	13197	1	80	200	51				
+312	Tăng sát thương độc	10	13198	1	80	200	52				
+313	Độc sát tăng /1	10	13199	1	80	200	53				
+314	Sức mạnh	10	13200	1	80	200	54				
+315	Thân pháp	10	13201	1	80	200	55				
+316	Nội công 	10	13202	1	80	200	56				
+317	Linh hoạt	10	13203	1	80	200	57				
+318	Gân cốt	10	13204	1	80	200	58				
+319	Điểm số triệt tiêu sát thương ngoại công	10	13205	1	80	200	59				
+320	Điểm số triệt tiêu sát thương nội công	10	13206	1	80	200	60				
+321	Giảm độc sát /1	10	13207	1	80	200	61				
+322	Thời gian hỗ trợ tấn công tăng: /1% 	10	13208	1	80	200	62				
+323	Thời gian hỗ trợ phòng thủ tăng: /1% 	10	13209	1	80	200	63				
+324	Dược hiệu kéo dài	10	13210	1	80	200	64				
+325	Tiêu diệt địch nhân khôi phục sinh lực	10	13211	1	80	200	65				
+326	Tiêu diệt địch nhân khôi phục nội lực	10	13212	1	80	200	66				
+327	Ngoại công tăng: /1% 	10	13213	1	80	200	67				
+328	Nội công tăng /1% 	10	13214	1	80	200	68				
+329	Tỷ lệ sát thương tuyệt đối /1%	10	13215	1	80	200	69				
+330	Nội lực 	10	13216	1	80	200	70				
+331	Nội lực %	10	13217	1	80	200	71				
+332	Điểm sinh lực	10	13218	1	80	200	72				
+333	Điểm số phản đòn sát thương ngoại công	10	13219	1	80	200	73				
+334	Điểm số phản đòn sát thương nội công	10	13220	1	80	200	74				
+335	Sinh mệnh %	10	13221	1	80	200	75				
+336	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	10	13222	1	0	200	76				
+337	Tốc độ đánh tăng: /1% 	10	13223	1	160	200	77				
+338	Xác suất tấn công trong phạm vi: /1% 	10	13224	1	80	200	78				
+339	Xác suất tần công chí mạng: /1% 	10	13225	1	80	200	79				
+340	Dùng kỹ năng không tính tỷ lệ giản cách/1%	10	13226	1	80	200	80				
+341	Phản đòn sát thương độc	10	13227	1	80	200	81				
+342	Tỉ lệ phản đòn sát thương ngoại thương	10	13228	1	80	200	82				
+343	Tỉ lệ phản đòn sát thương nội thương	10	13229	1	80	200	83				
+344	Nhóm mở khóa C	10									
+345	Hao mòn vũ khí giảm: /1% 	10	13180	2	60	400	34				
+346	Sức lực+/1	10	13181	2	60	400	35				
+347	Tăng giới hạn trọng lượng/1%	10	13182	2	60	400	36				
+348	Thể lực	10	13183	2	60	400	37				
+349	Thể lực 1%	10	13184	2	60	400	38				
+350	Điểm kinh nghiệm nhận được tăng: /1% 	10	13185	2	60	400	39				
+351	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	10	13186	2	60	400	40				
+352	Tọa thiền mỗi 10 giây hồi phục nội lực/1	10	13187	2	60	400	41				
+353	Tọa thiền mỗi 10 giây hồi phục thể lực/1	10	13188	2	60	400	42				
+354	Hiệu quả dược phẩm hồi nội/1%	10	13189	2	60	400	43				
+355	yêu cầu đẳng cấp giảm /1	10	13190	2	60	400	44				
+356	Nội công nhỏ nhất trên vũ khí tăng /1	10	13191	2	60	400	45				
+357	Nội công lớn nhất trên vũ khí tăng /1	10	13192	2	60	400	46				
+358	Ngoại công nhỏ nhất trên vũ khí tăng /1	10	13193	2	60	400	47				
+359	Ngọai công lớn nhất trên vũ khí tăng 1	10	13194	2	60	400	48				
+360	Tăng điểm số nội công	10	13195	2	60	400	49				
+361	Tăng điểm số ngoại công	10	13196	2	60	400	50				
+362	Sát thương tăng /1	10	13197	2	60	400	51				
+363	Tăng sát thương độc	10	13198	2	60	400	52				
+364	Độc sát tăng /1	10	13199	2	60	400	53				
+365	Sức mạnh	10	13200	2	60	400	54				
+366	Thân pháp	10	13201	2	60	400	55				
+367	Nội công 	10	13202	2	60	400	56				
+368	Linh hoạt	10	13203	2	60	400	57				
+369	Gân cốt	10	13204	2	60	400	58				
+370	Điểm số triệt tiêu sát thương ngoại công	10	13205	2	60	400	59				
+371	Điểm số triệt tiêu sát thương nội công	10	13206	2	60	400	60				
+372	Giảm độc sát /1	10	13207	2	60	400	61				
+373	Thời gian hỗ trợ tấn công tăng: /1% 	10	13208	2	60	400	62				
+374	Thời gian hỗ trợ phòng thủ tăng: /1% 	10	13209	2	60	400	63				
+375	Dược hiệu kéo dài	10	13210	2	60	400	64				
+376	Tiêu diệt địch nhân khôi phục sinh lực	10	13211	2	60	400	65				
+377	Tiêu diệt địch nhân khôi phục nội lực	10	13212	2	60	400	66				
+378	Ngoại công tăng: /1% 	10	13213	2	60	400	67				
+379	Nội công tăng /1% 	10	13214	2	60	400	68				
+380	Tỷ lệ sát thương tuyệt đối /1%	10	13215	2	60	400	69				
+381	Nội lực 	10	13216	2	60	400	70				
+382	Nội lực %	10	13217	2	60	400	71				
+383	Điểm sinh lực	10	13218	2	60	400	72				
+384	Điểm số phản đòn sát thương ngoại công	10	13219	2	60	400	73				
+385	Điểm số phản đòn sát thương nội công	10	13220	2	60	400	74				
+386	Sinh mệnh %	10	13221	2	60	400	75				
+387	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	10	13222	2	0	400	76				
+388	Tốc độ đánh tăng: /1% 	10	13223	2	120	400	77				
+389	Xác suất tấn công trong phạm vi: /1% 	10	13224	2	60	400	78				
+390	Xác suất tần công chí mạng: /1% 	10	13225	2	60	400	79				
+391	Dùng kỹ năng không tính tỷ lệ giản cách/1%	10	13226	2	60	400	80				
+392	Phản đòn sát thương độc	10	13227	2	60	400	81				
+393	Tỉ lệ phản đòn sát thương ngoại thương	10	13228	2	60	400	82				
+394	Tỉ lệ phản đòn sát thương nội thương	10	13229	2	60	400	83				
+395	Nhóm mở khóa B	10									
+396	Hao mòn vũ khí giảm: /1% 	10	13180	3	60	600	34				
+397	Sức lực+/1	10	13181	3	60	600	35				
+398	Tăng giới hạn trọng lượng/1%	10	13182	3	60	600	36				
+399	Thể lực	10	13183	3	60	600	37				
+400	Thể lực 1%	10	13184	3	60	600	38				
+401	Điểm kinh nghiệm nhận được tăng: /1% 	10	13185	3	60	600	39				
+402	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	10	13186	3	60	600	40				
+403	Tọa thiền mỗi 10 giây hồi phục nội lực/1	10	13187	3	60	600	41				
+404	Tọa thiền mỗi 10 giây hồi phục thể lực/1	10	13188	3	60	600	42				
+405	Hiệu quả dược phẩm hồi nội/1%	10	13189	3	60	600	43				
+406	yêu cầu đẳng cấp giảm /1	10	13190	3	60	600	44				
+407	Nội công nhỏ nhất trên vũ khí tăng /1	10	13191	3	60	600	45				
+408	Nội công lớn nhất trên vũ khí tăng /1	10	13192	3	60	600	46				
+409	Ngoại công nhỏ nhất trên vũ khí tăng /1	10	13193	3	60	600	47				
+410	Ngọai công lớn nhất trên vũ khí tăng 1	10	13194	3	60	600	48				
+411	Tăng điểm số nội công	10	13195	3	60	600	49				
+412	Tăng điểm số ngoại công	10	13196	3	60	600	50				
+413	Sát thương tăng /1	10	13197	3	60	600	51				
+414	Tăng sát thương độc	10	13198	3	60	600	52				
+415	Độc sát tăng /1	10	13199	3	60	600	53				
+416	Sức mạnh	10	13200	3	60	600	54				
+417	Thân pháp	10	13201	3	60	600	55				
+418	Nội công 	10	13202	3	60	600	56				
+419	Linh hoạt	10	13203	3	60	600	57				
+420	Gân cốt	10	13204	3	60	600	58				
+421	Điểm số triệt tiêu sát thương ngoại công	10	13205	3	60	600	59				
+422	Điểm số triệt tiêu sát thương nội công	10	13206	3	60	600	60				
+423	Giảm độc sát /1	10	13207	3	60	600	61				
+424	Thời gian hỗ trợ tấn công tăng: /1% 	10	13208	3	60	600	62				
+425	Thời gian hỗ trợ phòng thủ tăng: /1% 	10	13209	3	60	600	63				
+426	Dược hiệu kéo dài	10	13210	3	60	600	64				
+427	Tiêu diệt địch nhân khôi phục sinh lực	10	13211	3	60	600	65				
+428	Tiêu diệt địch nhân khôi phục nội lực	10	13212	3	60	600	66				
+429	Ngoại công tăng: /1% 	10	13213	3	60	600	67				
+430	Nội công tăng /1% 	10	13214	3	60	600	68				
+431	Tỷ lệ sát thương tuyệt đối /1%	10	13215	3	60	600	69				
+432	Nội lực 	10	13216	3	60	600	70				
+433	Nội lực %	10	13217	3	60	600	71				
+434	Điểm sinh lực	10	13218	3	60	600	72				
+435	Điểm số phản đòn sát thương ngoại công	10	13219	3	60	600	73				
+436	Điểm số phản đòn sát thương nội công	10	13220	3	60	600	74				
+437	Sinh mệnh %	10	13221	3	60	600	75				
+438	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	10	13222	3	0	600	76				
+439	Tốc độ đánh tăng: /1% 	10	13223	3	120	600	77				
+440	Xác suất tấn công trong phạm vi: /1% 	10	13224	3	60	600	78				
+441	Xác suất tần công chí mạng: /1% 	10	13225	3	60	600	79				
+442	Dùng kỹ năng không tính tỷ lệ giản cách/1%	10	13226	3	60	600	80				
+443	Phản đòn sát thương độc	10	13227	3	60	600	81				
+444	Tỉ lệ phản đòn sát thương ngoại thương	10	13228	3	60	600	82				
+445	Tỉ lệ phản đòn sát thương nội thương	10	13229	3	60	600	83				
+446	Mở khóa + Huy chương đặc trưng D-B										
+447	Nhóm mở khóa D	11									
+448	Hao mòn vũ khí giảm: /1% 	11	13180	1	64	200	34				
+449	Sức lực+/1	11	13181	1	64	200	35				
+450	Tăng giới hạn trọng lượng/1%	11	13182	1	64	200	36				
+451	Thể lực	11	13183	1	64	200	37				
+452	Thể lực 1%	11	13184	1	64	200	38				
+453	Điểm kinh nghiệm nhận được tăng: /1% 	11	13185	1	64	200	39				
+454	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	11	13186	1	64	200	40				
+455	Tọa thiền mỗi 10 giây hồi phục nội lực/1	11	13187	1	64	200	41				
+456	Tọa thiền mỗi 10 giây hồi phục thể lực/1	11	13188	1	64	200	42				
+457	Hiệu quả dược phẩm hồi nội/1%	11	13189	1	64	200	43				
+458	yêu cầu đẳng cấp giảm /1	11	13190	1	64	200	44				
+459	Nội công nhỏ nhất trên vũ khí tăng /1	11	13191	1	64	200	45				
+460	Nội công lớn nhất trên vũ khí tăng /1	11	13192	1	64	200	46				
+461	Ngoại công nhỏ nhất trên vũ khí tăng /1	11	13193	1	64	200	47				
+462	Ngọai công lớn nhất trên vũ khí tăng 1	11	13194	1	64	200	48				
+463	Tăng điểm số nội công	11	13195	1	64	200	49				
+464	Tăng điểm số ngoại công	11	13196	1	64	200	50				
+465	Sát thương tăng /1	11	13197	1	64	200	51				
+466	Tăng sát thương độc	11	13198	1	64	200	52				
+467	Độc sát tăng /1	11	13199	1	64	200	53				
+468	Sức mạnh	11	13200	1	64	200	54				
+469	Thân pháp	11	13201	1	64	200	55				
+470	Nội công 	11	13202	1	64	200	56				
+471	Linh hoạt	11	13203	1	64	200	57				
+472	Gân cốt	11	13204	1	64	200	58				
+473	Điểm số triệt tiêu sát thương ngoại công	11	13205	1	64	200	59				
+474	Điểm số triệt tiêu sát thương nội công	11	13206	1	64	200	60				
+475	Giảm độc sát /1	11	13207	1	64	200	61				
+476	Thời gian hỗ trợ tấn công tăng: /1% 	11	13208	1	64	200	62				
+477	Thời gian hỗ trợ phòng thủ tăng: /1% 	11	13209	1	64	200	63				
+478	Dược hiệu kéo dài	11	13210	1	64	200	64				
+479	Tiêu diệt địch nhân khôi phục sinh lực	11	13211	1	64	200	65				
+480	Tiêu diệt địch nhân khôi phục nội lực	11	13212	1	64	200	66				
+481	Ngoại công tăng: /1% 	11	13213	1	64	200	67				
+482	Nội công tăng /1% 	11	13214	1	64	200	68				
+483	Tỷ lệ sát thương tuyệt đối /1%	11	13215	1	64	200	69				
+484	Nội lực 	11	13216	1	64	200	70				
+485	Nội lực %	11	13217	1	64	200	71				
+486	Điểm sinh lực	11	13218	1	64	200	72				
+487	Điểm số phản đòn sát thương ngoại công	11	13219	1	64	200	73				
+488	Điểm số phản đòn sát thương nội công	11	13220	1	64	200	74				
+489	Sinh mệnh %	11	13221	1	64	200	75				
+490	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	11	13222	1	0	200	76				
+491	Tốc độ đánh tăng: /1% 	11	13223	1	128	200	77				
+492	Xác suất tấn công trong phạm vi: /1% 	11	13224	1	64	200	78				
+493	Xác suất tần công chí mạng: /1% 	11	13225	1	64	200	79				
+494	Dùng kỹ năng không tính tỷ lệ giản cách/1%	11	13226	1	64	200	80				
+495	Phản đòn sát thương độc	11	13227	1	64	200	81				
+496	Tỉ lệ phản đòn sát thương ngoại thương	11	13228	1	64	200	82				
+497	Tỉ lệ phản đòn sát thương nội thương	11	13229	1	64	200	83				
+498	Nhóm mở khóa C	11	0	0							
+499	Hao mòn vũ khí giảm: /1% 	11	13180	2	48	400	34				
+500	Sức lực+/1	11	13181	2	48	400	35				
+501	Tăng giới hạn trọng lượng/1%	11	13182	2	48	400	36				
+502	Thể lực	11	13183	2	48	400	37				
+503	Thể lực 1%	11	13184	2	48	400	38				
+504	Điểm kinh nghiệm nhận được tăng: /1% 	11	13185	2	48	400	39				
+505	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	11	13186	2	48	400	40				
+506	Tọa thiền mỗi 10 giây hồi phục nội lực/1	11	13187	2	48	400	41				
+507	Tọa thiền mỗi 10 giây hồi phục thể lực/1	11	13188	2	48	400	42				
+508	Hiệu quả dược phẩm hồi nội/1%	11	13189	2	48	400	43				
+509	yêu cầu đẳng cấp giảm /1	11	13190	2	48	400	44				
+510	Nội công nhỏ nhất trên vũ khí tăng /1	11	13191	2	48	400	45				
+511	Nội công lớn nhất trên vũ khí tăng /1	11	13192	2	48	400	46				
+512	Ngoại công nhỏ nhất trên vũ khí tăng /1	11	13193	2	48	400	47				
+513	Ngọai công lớn nhất trên vũ khí tăng 1	11	13194	2	48	400	48				
+514	Tăng điểm số nội công	11	13195	2	48	400	49				
+515	Tăng điểm số ngoại công	11	13196	2	48	400	50				
+516	Sát thương tăng /1	11	13197	2	48	400	51				
+517	Tăng sát thương độc	11	13198	2	48	400	52				
+518	Độc sát tăng /1	11	13199	2	48	400	53				
+519	Sức mạnh	11	13200	2	48	400	54				
+520	Thân pháp	11	13201	2	48	400	55				
+521	Nội công 	11	13202	2	48	400	56				
+522	Linh hoạt	11	13203	2	48	400	57				
+523	Gân cốt	11	13204	2	48	400	58				
+524	Điểm số triệt tiêu sát thương ngoại công	11	13205	2	48	400	59				
+525	Điểm số triệt tiêu sát thương nội công	11	13206	2	48	400	60				
+526	Giảm độc sát /1	11	13207	2	48	400	61				
+527	Thời gian hỗ trợ tấn công tăng: /1% 	11	13208	2	48	400	62				
+528	Thời gian hỗ trợ phòng thủ tăng: /1% 	11	13209	2	48	400	63				
+529	Dược hiệu kéo dài	11	13210	2	48	400	64				
+530	Tiêu diệt địch nhân khôi phục sinh lực	11	13211	2	48	400	65				
+531	Tiêu diệt địch nhân khôi phục nội lực	11	13212	2	48	400	66				
+532	Ngoại công tăng: /1% 	11	13213	2	48	400	67				
+533	Nội công tăng /1% 	11	13214	2	48	400	68				
+534	Tỷ lệ sát thương tuyệt đối /1%	11	13215	2	48	400	69				
+535	Nội lực 	11	13216	2	48	400	70				
+536	Nội lực %	11	13217	2	48	400	71				
+537	Điểm sinh lực	11	13218	2	48	400	72				
+538	Điểm số phản đòn sát thương ngoại công	11	13219	2	48	400	73				
+539	Điểm số phản đòn sát thương nội công	11	13220	2	48	400	74				
+540	Sinh mệnh %	11	13221	2	48	400	75				
+541	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	11	13222	2	0	400	76				
+542	Tốc độ đánh tăng: /1% 	11	13223	2	96	400	77				
+543	Xác suất tấn công trong phạm vi: /1% 	11	13224	2	48	400	78				
+544	Xác suất tần công chí mạng: /1% 	11	13225	2	48	400	79				
+545	Dùng kỹ năng không tính tỷ lệ giản cách/1%	11	13226	2	48	400	80				
+546	Phản đòn sát thương độc	11	13227	2	48	400	81				
+547	Tỉ lệ phản đòn sát thương ngoại thương	11	13228	2	48	400	82				
+548	Tỉ lệ phản đòn sát thương nội thương	11	13229	2	48	400	83				
+549	Nhóm mở khóa B	11	0	0							
+550	Hao mòn vũ khí giảm: /1% 	11	13180	3	48	600	34				
+551	Sức lực+/1	11	13181	3	48	600	35				
+552	Tăng giới hạn trọng lượng/1%	11	13182	3	48	600	36				
+553	Thể lực	11	13183	3	48	600	37				
+554	Thể lực 1%	11	13184	3	48	600	38				
+555	Điểm kinh nghiệm nhận được tăng: /1% 	11	13185	3	48	600	39				
+556	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	11	13186	3	48	600	40				
+557	Tọa thiền mỗi 10 giây hồi phục nội lực/1	11	13187	3	48	600	41				
+558	Tọa thiền mỗi 10 giây hồi phục thể lực/1	11	13188	3	48	600	42				
+559	Hiệu quả dược phẩm hồi nội/1%	11	13189	3	48	600	43				
+560	yêu cầu đẳng cấp giảm /1	11	13190	3	48	600	44				
+561	Nội công nhỏ nhất trên vũ khí tăng /1	11	13191	3	48	600	45				
+562	Nội công lớn nhất trên vũ khí tăng /1	11	13192	3	48	600	46				
+563	Ngoại công nhỏ nhất trên vũ khí tăng /1	11	13193	3	48	600	47				
+564	Ngọai công lớn nhất trên vũ khí tăng 1	11	13194	3	48	600	48				
+565	Tăng điểm số nội công	11	13195	3	48	600	49				
+566	Tăng điểm số ngoại công	11	13196	3	48	600	50				
+567	Sát thương tăng /1	11	13197	3	48	600	51				
+568	Tăng sát thương độc	11	13198	3	48	600	52				
+569	Độc sát tăng /1	11	13199	3	48	600	53				
+570	Sức mạnh	11	13200	3	48	600	54				
+571	Thân pháp	11	13201	3	48	600	55				
+572	Nội công 	11	13202	3	48	600	56				
+573	Linh hoạt	11	13203	3	48	600	57				
+574	Gân cốt	11	13204	3	48	600	58				
+575	Điểm số triệt tiêu sát thương ngoại công	11	13205	3	48	600	59				
+576	Điểm số triệt tiêu sát thương nội công	11	13206	3	48	600	60				
+577	Giảm độc sát /1	11	13207	3	48	600	61				
+578	Thời gian hỗ trợ tấn công tăng: /1% 	11	13208	3	48	600	62				
+579	Thời gian hỗ trợ phòng thủ tăng: /1% 	11	13209	3	48	600	63				
+580	Dược hiệu kéo dài	11	13210	3	48	600	64				
+581	Tiêu diệt địch nhân khôi phục sinh lực	11	13211	3	48	600	65				
+582	Tiêu diệt địch nhân khôi phục nội lực	11	13212	3	48	600	66				
+583	Ngoại công tăng: /1% 	11	13213	3	48	600	67				
+584	Nội công tăng /1% 	11	13214	3	48	600	68				
+585	Tỷ lệ sát thương tuyệt đối /1%	11	13215	3	48	600	69				
+586	Nội lực 	11	13216	3	48	600	70				
+587	Nội lực %	11	13217	3	48	600	71				
+588	Điểm sinh lực	11	13218	3	48	600	72				
+589	Điểm số phản đòn sát thương ngoại công	11	13219	3	48	600	73				
+590	Điểm số phản đòn sát thương nội công	11	13220	3	48	600	74				
+591	Sinh mệnh %	11	13221	3	48	600	75				
+592	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	11	13222	3	0	600	76				
+593	Tốc độ đánh tăng: /1% 	11	13223	3	96	600	77				
+594	Xác suất tấn công trong phạm vi: /1% 	11	13224	3	48	600	78				
+595	Xác suất tần công chí mạng: /1% 	11	13225	3	48	600	79				
+596	Dùng kỹ năng không tính tỷ lệ giản cách/1%	11	13226	3	48	600	80				
+597	Phản đòn sát thương độc	11	13227	3	48	600	81				
+598	Tỉ lệ phản đòn sát thương ngoại thương	11	13228	3	48	600	82				
+599	Tỉ lệ phản đòn sát thương nội thương	11	13229	3	48	600	83				
+600	Nhóm huy chương đặc trưng D	11									
+601	Hút thể lực/1	11	13284	1	80	500	84				
+602	Hút Nội lực /1	11	13285	1	80	500	85				
+603	Khi công kích có tỉ lệ 1% khiến cho địch nhân giảm tốc/2 giây	11	13276	1	80	500	86				
+604	Khi công kích có tỉ lệ 1% khiến cho địch nhân chậm/2 giây	11	13277	1	80	500	87				
+605	Khi công kích có tỉ lệ 1% khiến cho địch nhân định thân/2 giây	11	13278	1	80	500	88				
+606	Khi công kích có tỉ lệ 1% khiến cho địch nhân tê liệt/2 giây	11	13279	1	80	500	89				
+607	Khi công kích có tỉ lệ 1% khiến cho địch nhân ngủ/2 giây	11	13280	1	80	500	90				
+608	Hút Sinh lực /1	11	13286	1	80	500	91				
+609	Khi công kích có tỉ lệ 1% khiến cho địch nhân choáng/ 3 giây	11	13281	1	80	500	92				
+610	Khi công kích có tỉ lệ 1% khiến cho địch nhân loạn/ 3 giây	11	13282	1	80	500	93				
+611	Nhóm huy chương đặc trưng C	11									
+612	Hút thể lực/1	11	13284	2	60	700	84				
+613	Hút Nội lực /1	11	13285	2	60	700	85				
+614	Khi công kích có tỉ lệ 2% khiến cho địch nhân giảm tốc/2 giây	11	13276	2	60	700	86				
+615	Khi công kích có tỉ lệ 2% khiến cho địch nhân chậm/2 giây	11	13277	2	60	700	87				
+616	Khi công kích có tỉ lệ 2% khiến cho địch nhân định thân/2 giây	11	13278	2	60	700	88				
+617	Khi công kích có tỉ lệ 2% khiến cho địch nhân tê liệt/2 giây	11	13279	2	60	700	89				
+618	Khi công kích có tỉ lệ 2% khiến cho địch nhân ngủ/2 giây	11	13280	2	60	700	90				
+619	Hút Sinh lực /1	11	13286	2	60	700	91				
+620	Khi công kích có tỉ lệ 1% khiến cho địch nhân choáng/ 3 giây	11	13281	2	60	700	92				
+621	Khi công kích có tỉ lệ 1% khiến cho địch nhân loạn/ 3 giây	11	13282	2	60	700	93				
+622	Nhóm huy chương đặc trưng B	11									
+623	Hút thể lực/1	11	13284	3	60	900	84				
+624	Hút Nội lực /1	11	13285	3	60	900	85				
+625	Khi công kích có tỉ lệ 3% khiến cho địch nhân giảm tốc/2 giây	11	13276	3	60	900	86				
+626	Khi công kích có tỉ lệ 3% khiến cho địch nhân chậm/2 giây	11	13277	3	60	900	87				
+627	Khi công kích có tỉ lệ 3% khiến cho địch nhân định thân/2 giây	11	13278	3	60	900	88				
+628	Khi công kích có tỉ lệ 3% khiến cho địch nhân tê liệt/2 giây	11	13279	3	60	900	89				
+629	Khi công kích có tỉ lệ 3% khiến cho địch nhân ngủ/2 giây	11	13280	3	60	900	90				
+630	Hút Sinh lực /1	11	13286	3	60	900	91				
+631	Khi công kích có tỉ lệ 3% khiến cho địch nhân choáng/2 giây	11	13281	3	60	900	92				
+632	Khi công kích có tỉ lệ 3% khiến cho địch nhân loạn/2 giây	11	13282	3	60	900	93				
+633	Mở khóa + nhóm áo choàng đặc sắc D-B	0									
+634	Nhóm mở khóa D	12									
+635	Hao mòn vũ khí giảm: /1% 	12	13180	1	64	200	34				
+636	Sức lực+/1	12	13181	1	64	200	35				
+637	Tăng giới hạn trọng lượng/1%	12	13182	1	64	200	36				
+638	Thể lực	12	13183	1	64	200	37				
+639	Thể lực 1%	12	13184	1	64	200	38				
+640	Điểm kinh nghiệm nhận được tăng: /1% 	12	13185	1	64	200	39				
+641	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	12	13186	1	64	200	40				
+642	Tọa thiền mỗi 10 giây hồi phục nội lực/1	12	13187	1	64	200	41				
+643	Tọa thiền mỗi 10 giây hồi phục thể lực/1	12	13188	1	64	200	42				
+644	Hiệu quả dược phẩm hồi nội/1%	12	13189	1	64	200	43				
+645	yêu cầu đẳng cấp giảm /1	12	13190	1	64	200	44				
+646	Nội công nhỏ nhất trên vũ khí tăng /1	12	13191	1	64	200	45				
+647	Nội công lớn nhất trên vũ khí tăng /1	12	13192	1	64	200	46				
+648	Ngoại công nhỏ nhất trên vũ khí tăng /1	12	13193	1	64	200	47				
+649	Ngọai công lớn nhất trên vũ khí tăng 1	12	13194	1	64	200	48				
+650	Tăng điểm số nội công	12	13195	1	64	200	49				
+651	Tăng điểm số ngoại công	12	13196	1	64	200	50				
+652	Sát thương tăng /1	12	13197	1	64	200	51				
+653	Tăng sát thương độc	12	13198	1	64	200	52				
+654	Độc sát tăng /1	12	13199	1	64	200	53				
+655	Sức mạnh	12	13200	1	64	200	54				
+656	Thân pháp	12	13201	1	64	200	55				
+657	Nội công 	12	13202	1	64	200	56				
+658	Linh hoạt	12	13203	1	64	200	57				
+659	Gân cốt	12	13204	1	64	200	58				
+660	Điểm số triệt tiêu sát thương ngoại công	12	13205	1	64	200	59				
+661	Điểm số triệt tiêu sát thương nội công	12	13206	1	64	200	60				
+662	Giảm độc sát /1	12	13207	1	64	200	61				
+663	Thời gian hỗ trợ tấn công tăng: /1% 	12	13208	1	64	200	62				
+664	Thời gian hỗ trợ phòng thủ tăng: /1% 	12	13209	1	64	200	63				
+665	Dược hiệu kéo dài	12	13210	1	64	200	64				
+666	Tiêu diệt địch nhân khôi phục sinh lực	12	13211	1	64	200	65				
+667	Tiêu diệt địch nhân khôi phục nội lực	12	13212	1	64	200	66				
+668	Ngoại công tăng: /1% 	12	13213	1	64	200	67				
+669	Nội công tăng /1% 	12	13214	1	64	200	68				
+670	Tỷ lệ sát thương tuyệt đối /1%	12	13215	1	64	200	69				
+671	Nội lực 	12	13216	1	64	200	70				
+672	Nội lực %	12	13217	1	64	200	71				
+673	Điểm sinh lực	12	13218	1	64	200	72				
+674	Điểm số phản đòn sát thương ngoại công	12	13219	1	64	200	73				
+675	Điểm số phản đòn sát thương nội công	12	13220	1	64	200	74				
+676	Sinh mệnh %	12	13221	1	64	200	75				
+677	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	12	13222	1	0	200	76				
+678	Tốc độ đánh tăng: /1% 	12	13223	1	128	200	77				
+679	Xác suất tấn công trong phạm vi: /1% 	12	13224	1	64	200	78				
+680	Xác suất tần công chí mạng: /1% 	12	13225	1	64	200	79				
+681	Dùng kỹ năng không tính tỷ lệ giản cách/1%	12	13226	1	64	200	80				
+682	Phản đòn sát thương độc	12	13227	1	64	200	81				
+683	Tỉ lệ phản đòn sát thương ngoại thương	12	13228	1	64	200	82				
+684	Tỉ lệ phản đòn sát thương nội thương	12	13229	1	64	200	83				
+685	Nhóm mở khóa C	12									
+686	Hao mòn vũ khí giảm: /1% 	12	13180	2	48	400	34				
+687	Sức lực+/1	12	13181	2	48	400	35				
+688	Tăng giới hạn trọng lượng/1%	12	13182	2	48	400	36				
+689	Thể lực	12	13183	2	48	400	37				
+690	Thể lực 1%	12	13184	2	48	400	38				
+691	Điểm kinh nghiệm nhận được tăng: /1% 	12	13185	2	48	400	39				
+692	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	12	13186	2	48	400	40				
+693	Tọa thiền mỗi 10 giây hồi phục nội lực/1	12	13187	2	48	400	41				
+694	Tọa thiền mỗi 10 giây hồi phục thể lực/1	12	13188	2	48	400	42				
+695	Hiệu quả dược phẩm hồi nội/1%	12	13189	2	48	400	43				
+696	yêu cầu đẳng cấp giảm /1	12	13190	2	48	400	44				
+697	Nội công nhỏ nhất trên vũ khí tăng /1	12	13191	2	48	400	45				
+698	Nội công lớn nhất trên vũ khí tăng /1	12	13192	2	48	400	46				
+699	Ngoại công nhỏ nhất trên vũ khí tăng /1	12	13193	2	48	400	47				
+700	Ngọai công lớn nhất trên vũ khí tăng 1	12	13194	2	48	400	48				
+701	Tăng điểm số nội công	12	13195	2	48	400	49				
+702	Tăng điểm số ngoại công	12	13196	2	48	400	50				
+703	Sát thương tăng /1	12	13197	2	48	400	51				
+704	Tăng sát thương độc	12	13198	2	48	400	52				
+705	Độc sát tăng /1	12	13199	2	48	400	53				
+706	Sức mạnh	12	13200	2	48	400	54				
+707	Thân pháp	12	13201	2	48	400	55				
+708	Nội công 	12	13202	2	48	400	56				
+709	Linh hoạt	12	13203	2	48	400	57				
+710	Gân cốt	12	13204	2	48	400	58				
+711	Điểm số triệt tiêu sát thương ngoại công	12	13205	2	48	400	59				
+712	Điểm số triệt tiêu sát thương nội công	12	13206	2	48	400	60				
+713	Giảm độc sát /1	12	13207	2	48	400	61				
+714	Thời gian hỗ trợ tấn công tăng: /1% 	12	13208	2	48	400	62				
+715	Thời gian hỗ trợ phòng thủ tăng: /1% 	12	13209	2	48	400	63				
+716	Dược hiệu kéo dài	12	13210	2	48	400	64				
+717	Tiêu diệt địch nhân khôi phục sinh lực	12	13211	2	48	400	65				
+718	Tiêu diệt địch nhân khôi phục nội lực	12	13212	2	48	400	66				
+719	Ngoại công tăng: /1% 	12	13213	2	48	400	67				
+720	Nội công tăng /1% 	12	13214	2	48	400	68				
+721	Tỷ lệ sát thương tuyệt đối /1%	12	13215	2	48	400	69				
+722	Nội lực 	12	13216	2	48	400	70				
+723	Nội lực %	12	13217	2	48	400	71				
+724	Điểm sinh lực	12	13218	2	48	400	72				
+725	Điểm số phản đòn sát thương ngoại công	12	13219	2	48	400	73				
+726	Điểm số phản đòn sát thương nội công	12	13220	2	48	400	74				
+727	Sinh mệnh %	12	13221	2	48	400	75				
+728	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	12	13222	2	0	400	76				
+729	Tốc độ đánh tăng: /1% 	12	13223	2	96	400	77				
+730	Xác suất tấn công trong phạm vi: /1% 	12	13224	2	48	400	78				
+731	Xác suất tần công chí mạng: /1% 	12	13225	2	48	400	79				
+732	Dùng kỹ năng không tính tỷ lệ giản cách/1%	12	13226	2	48	400	80				
+733	Phản đòn sát thương độc	12	13227	2	48	400	81				
+734	Tỉ lệ phản đòn sát thương ngoại thương	12	13228	2	48	400	82				
+735	Tỉ lệ phản đòn sát thương nội thương	12	13229	2	48	400	83				
+736	Nhóm mở khóa B	12									
+737	Hao mòn vũ khí giảm: /1% 	12	13180	3	48	600	34				
+738	Sức lực+/1	12	13181	3	48	600	35				
+739	Tăng giới hạn trọng lượng/1%	12	13182	3	48	600	36				
+740	Thể lực	12	13183	3	48	600	37				
+741	Thể lực 1%	12	13184	3	48	600	38				
+742	Điểm kinh nghiệm nhận được tăng: /1% 	12	13185	3	48	600	39				
+743	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	12	13186	3	48	600	40				
+744	Tọa thiền mỗi 10 giây hồi phục nội lực/1	12	13187	3	48	600	41				
+745	Tọa thiền mỗi 10 giây hồi phục thể lực/1	12	13188	3	48	600	42				
+746	Hiệu quả dược phẩm hồi nội/1%	12	13189	3	48	600	43				
+747	yêu cầu đẳng cấp giảm /1	12	13190	3	48	600	44				
+748	Nội công nhỏ nhất trên vũ khí tăng /1	12	13191	3	48	600	45				
+749	Nội công lớn nhất trên vũ khí tăng /1	12	13192	3	48	600	46				
+750	Ngoại công nhỏ nhất trên vũ khí tăng /1	12	13193	3	48	600	47				
+751	Ngọai công lớn nhất trên vũ khí tăng 1	12	13194	3	48	600	48				
+752	Tăng điểm số nội công	12	13195	3	48	600	49				
+753	Tăng điểm số ngoại công	12	13196	3	48	600	50				
+754	Sát thương tăng /1	12	13197	3	48	600	51				
+755	Tăng sát thương độc	12	13198	3	48	600	52				
+756	Độc sát tăng /1	12	13199	3	48	600	53				
+757	Sức mạnh	12	13200	3	48	600	54				
+758	Thân pháp	12	13201	3	48	600	55				
+759	Nội công 	12	13202	3	48	600	56				
+760	Linh hoạt	12	13203	3	48	600	57				
+761	Gân cốt	12	13204	3	48	600	58				
+762	Điểm số triệt tiêu sát thương ngoại công	12	13205	3	48	600	59				
+763	Điểm số triệt tiêu sát thương nội công	12	13206	3	48	600	60				
+764	Giảm độc sát /1	12	13207	3	48	600	61				
+765	Thời gian hỗ trợ tấn công tăng: /1% 	12	13208	3	48	600	62				
+766	Thời gian hỗ trợ phòng thủ tăng: /1% 	12	13209	3	48	600	63				
+767	Dược hiệu kéo dài	12	13210	3	48	600	64				
+768	Tiêu diệt địch nhân khôi phục sinh lực	12	13211	3	48	600	65				
+769	Tiêu diệt địch nhân khôi phục nội lực	12	13212	3	48	600	66				
+770	Ngoại công tăng: /1% 	12	13213	3	48	600	67				
+771	Nội công tăng /1% 	12	13214	3	48	600	68				
+772	Tỷ lệ sát thương tuyệt đối /1%	12	13215	3	48	600	69				
+773	Nội lực 	12	13216	3	48	600	70				
+774	Nội lực %	12	13217	3	48	600	71				
+775	Điểm sinh lực	12	13218	3	48	600	72				
+776	Điểm số phản đòn sát thương ngoại công	12	13219	3	48	600	73				
+777	Điểm số phản đòn sát thương nội công	12	13220	3	48	600	74				
+778	Sinh mệnh %	12	13221	3	48	600	75				
+779	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	12	13222	3	0	600	76				
+780	Tốc độ đánh tăng: /1% 	12	13223	3	96	600	77				
+781	Xác suất tấn công trong phạm vi: /1% 	12	13224	3	48	600	78				
+782	Xác suất tần công chí mạng: /1% 	12	13225	3	48	600	79				
+783	Dùng kỹ năng không tính tỷ lệ giản cách/1%	12	13226	3	48	600	80				
+784	Phản đòn sát thương độc	12	13227	3	48	600	81				
+785	Tỉ lệ phản đòn sát thương ngoại thương	12	13228	3	48	600	82				
+786	Tỉ lệ phản đòn sát thương nội thương	12	13229	3	48	600	83				
+787	Nhóm áo Choàng đặc sắc D	12									
+788	Kháng độc/1%	12	13240	1	66	400	94				
+789	Xác suất chống chậm/1%	12	13241	1	66	400	95				
+790	Xác suất chống làm chậm/1%	12	13242	1	66	400	96				
+791	Phá phòng thủ của đối phương/1%	12	13243	1	66	400	97				
+792	Xác suất chống tê liệt/1%	12	13244	1	66	400	98				
+793	Xác suất chống định thân/1%	12	13245	1	66	400	99				
+794	Xác suất chống ngủ mê/1%	12	13246	1	66	400	100				
+795	Xác suất chống đánh lùi/1%	12	13247	1	66	400	101				
+796	Xác suất chống đánh ngã/1%	12	13248	1	66	400	102				
+797	Xác suất chống choáng/1%	12	13249	1	66	400	103				
+798	Xác suất chống hỗn loạn/1%	12	13250	1	66	400	104				
+799	Tránh mọi trạng thái phụ/1%	12	13251	1	74	400	105				
+800	Nhóm áo Choàng đặc sắc C	12									
+801	Kháng độc/1%	12	13240	2	50	600	94				
+802	Xác suất chống chậm/1%	12	13241	2	50	600	95				
+803	Xác suất chống làm chậm/1%	12	13242	2	50	600	96				
+804	Phá phòng thủ của đối phương/1%	12	13243	2	50	600	97				
+805	Xác suất chống tê liệt/1%	12	13244	2	50	600	98				
+806	Xác suất chống định thân/1%	12	13245	2	50	600	99				
+807	Xác suất chống ngủ mê/1%	12	13246	2	50	600	100				
+808	Xác suất chống đánh lùi/1%	12	13247	2	50	600	101				
+809	Xác suất chống đánh ngã/1%	12	13248	2	50	600	102				
+810	Xác suất chống choáng/1%	12	13249	2	50	600	103				
+811	Xác suất chống hỗn loạn/1%	12	13250	2	50	600	104				
+812	Tránh mọi trạng thái phụ/1%	12	13251	2	50	600	105				
+813	Nhóm áo Choàng đặc sắc B	12									
+814	Kháng độc/1%	12	13240	3	50	800	94				
+815	Xác suất chống chậm/1%	12	13241	3	50	800	95				
+816	Xác suất chống làm chậm/1%	12	13242	3	50	800	96				
+817	Phá phòng thủ của đối phương/1%	12	13243	3	50	800	97				
+818	Xác suất chống tê liệt/1%	12	13244	3	50	800	98				
+819	Xác suất chống định thân/1%	12	13245	3	50	800	99				
+820	Xác suất chống ngủ mê/1%	12	13246	3	50	800	100				
+821	Xác suất chống đánh lùi/1%	12	13247	3	50	800	101				
+822	Xác suất chống đánh ngã/1%	12	13248	3	50	800	102				
+823	Xác suất chống choáng/1%	12	13249	3	50	800	103				
+824	Xác suất chống hỗn loạn/1%	12	13250	3	50	800	104				
+825	Tránh mọi trạng thái phụ/1%	12	13251	3	50	800	105				
+826	Mở khóa + nhóm giày đặc trưng D-B	0									
+827	Nhóm mở khóa D	13									
+828	Hao mòn vũ khí giảm: /1% 	13	13180	1	64	200	34				
+829	Sức lực+/1	13	13181	1	64	200	35				
+830	Tăng giới hạn trọng lượng/1%	13	13182	1	64	200	36				
+831	Thể lực	13	13183	1	64	200	37				
+832	Thể lực 1%	13	13184	1	64	200	38				
+833	Điểm kinh nghiệm nhận được tăng: /1% 	13	13185	1	64	200	39				
+834	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	13	13186	1	64	200	40				
+835	Tọa thiền mỗi 10 giây hồi phục nội lực/1	13	13187	1	64	200	41				
+836	Tọa thiền mỗi 10 giây hồi phục thể lực/1	13	13188	1	64	200	42				
+837	Hiệu quả dược phẩm hồi nội/1%	13	13189	1	64	200	43				
+838	yêu cầu đẳng cấp giảm /1	13	13190	1	64	200	44				
+839	Nội công nhỏ nhất trên vũ khí tăng /1	13	13191	1	64	200	45				
+840	Nội công lớn nhất trên vũ khí tăng /1	13	13192	1	64	200	46				
+841	Ngoại công nhỏ nhất trên vũ khí tăng /1	13	13193	1	64	200	47				
+842	Ngọai công lớn nhất trên vũ khí tăng 1	13	13194	1	64	200	48				
+843	Tăng điểm số nội công	13	13195	1	64	200	49				
+844	Tăng điểm số ngoại công	13	13196	1	64	200	50				
+845	Sát thương tăng /1	13	13197	1	64	200	51				
+846	Tăng sát thương độc	13	13198	1	64	200	52				
+847	Độc sát tăng /1	13	13199	1	64	200	53				
+848	Sức mạnh	13	13200	1	64	200	54				
+849	Thân pháp	13	13201	1	64	200	55				
+850	Nội công 	13	13202	1	64	200	56				
+851	Linh hoạt	13	13203	1	64	200	57				
+852	Gân cốt	13	13204	1	64	200	58				
+853	Điểm số triệt tiêu sát thương ngoại công	13	13205	1	64	200	59				
+854	Điểm số triệt tiêu sát thương nội công	13	13206	1	64	200	60				
+855	Giảm độc sát /1	13	13207	1	64	200	61				
+856	Thời gian hỗ trợ tấn công tăng: /1% 	13	13208	1	64	200	62				
+857	Thời gian hỗ trợ phòng thủ tăng: /1% 	13	13209	1	64	200	63				
+858	Dược hiệu kéo dài	13	13210	1	64	200	64				
+859	Tiêu diệt địch nhân khôi phục sinh lực	13	13211	1	64	200	65				
+860	Tiêu diệt địch nhân khôi phục nội lực	13	13212	1	64	200	66				
+861	Ngoại công tăng: /1% 	13	13213	1	64	200	67				
+862	Nội công tăng /1% 	13	13214	1	64	200	68				
+863	Tỷ lệ sát thương tuyệt đối /1%	13	13215	1	64	200	69				
+864	Nội lực 	13	13216	1	64	200	70				
+865	Nội lực %	13	13217	1	64	200	71				
+866	Điểm sinh lực	13	13218	1	64	200	72				
+867	Điểm số phản đòn sát thương ngoại công	13	13219	1	64	200	73				
+868	Điểm số phản đòn sát thương nội công	13	13220	1	64	200	74				
+869	Sinh mệnh %	13	13221	1	64	200	75				
+870	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	13	13222	1	0	200	76				
+871	Tốc độ đánh tăng: /1% 	13	13223	1	128	200	77				
+872	Xác suất tấn công trong phạm vi: /1% 	13	13224	1	64	200	78				
+873	Xác suất tần công chí mạng: /1% 	13	13225	1	64	200	79				
+874	Dùng kỹ năng không tính tỷ lệ giản cách/1%	13	13226	1	64	200	80				
+875	Phản đòn sát thương độc	13	13227	1	64	200	81				
+876	Tỉ lệ phản đòn sát thương ngoại thương	13	13228	1	64	200	82				
+877	Tỉ lệ phản đòn sát thương nội thương	13	13229	1	64	200	83				
+878	Nhóm mở khóa C	13									
+879	Hao mòn vũ khí giảm: /1% 	13	13180	2	48	400	34				
+880	Sức lực+/1	13	13181	2	48	400	35				
+881	Tăng giới hạn trọng lượng/1%	13	13182	2	48	400	36				
+882	Thể lực	13	13183	2	48	400	37				
+883	Thể lực 1%	13	13184	2	48	400	38				
+884	Điểm kinh nghiệm nhận được tăng: /1% 	13	13185	2	48	400	39				
+885	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	13	13186	2	48	400	40				
+886	Tọa thiền mỗi 10 giây hồi phục nội lực/1	13	13187	2	48	400	41				
+887	Tọa thiền mỗi 10 giây hồi phục thể lực/1	13	13188	2	48	400	42				
+888	Hiệu quả dược phẩm hồi nội/1%	13	13189	2	48	400	43				
+889	yêu cầu đẳng cấp giảm /1	13	13190	2	48	400	44				
+890	Nội công nhỏ nhất trên vũ khí tăng /1	13	13191	2	48	400	45				
+891	Nội công lớn nhất trên vũ khí tăng /1	13	13192	2	48	400	46				
+892	Ngoại công nhỏ nhất trên vũ khí tăng /1	13	13193	2	48	400	47				
+893	Ngọai công lớn nhất trên vũ khí tăng 1	13	13194	2	48	400	48				
+894	Tăng điểm số nội công	13	13195	2	48	400	49				
+895	Tăng điểm số ngoại công	13	13196	2	48	400	50				
+896	Sát thương tăng /1	13	13197	2	48	400	51				
+897	Tăng sát thương độc	13	13198	2	48	400	52				
+898	Độc sát tăng /1	13	13199	2	48	400	53				
+899	Sức mạnh	13	13200	2	48	400	54				
+900	Thân pháp	13	13201	2	48	400	55				
+901	Nội công 	13	13202	2	48	400	56				
+902	Linh hoạt	13	13203	2	48	400	57				
+903	Gân cốt	13	13204	2	48	400	58				
+904	Điểm số triệt tiêu sát thương ngoại công	13	13205	2	48	400	59				
+905	Điểm số triệt tiêu sát thương nội công	13	13206	2	48	400	60				
+906	Giảm độc sát /1	13	13207	2	48	400	61				
+907	Thời gian hỗ trợ tấn công tăng: /1% 	13	13208	2	48	400	62				
+908	Thời gian hỗ trợ phòng thủ tăng: /1% 	13	13209	2	48	400	63				
+909	Dược hiệu kéo dài	13	13210	2	48	400	64				
+910	Tiêu diệt địch nhân khôi phục sinh lực	13	13211	2	48	400	65				
+911	Tiêu diệt địch nhân khôi phục nội lực	13	13212	2	48	400	66				
+912	Ngoại công tăng: /1% 	13	13213	2	48	400	67				
+913	Nội công tăng /1% 	13	13214	2	48	400	68				
+914	Tỷ lệ sát thương tuyệt đối /1%	13	13215	2	48	400	69				
+915	Nội lực 	13	13216	2	48	400	70				
+916	Nội lực %	13	13217	2	48	400	71				
+917	Điểm sinh lực	13	13218	2	48	400	72				
+918	Điểm số phản đòn sát thương ngoại công	13	13219	2	48	400	73				
+919	Điểm số phản đòn sát thương nội công	13	13220	2	48	400	74				
+920	Sinh mệnh %	13	13221	2	48	400	75				
+921	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	13	13222	2	0	400	76				
+922	Tốc độ đánh tăng: /1% 	13	13223	2	96	400	77				
+923	Xác suất tấn công trong phạm vi: /1% 	13	13224	2	48	400	78				
+924	Xác suất tần công chí mạng: /1% 	13	13225	2	48	400	79				
+925	Dùng kỹ năng không tính tỷ lệ giản cách/1%	13	13226	2	48	400	80				
+926	Phản đòn sát thương độc	13	13227	2	48	400	81				
+927	Tỉ lệ phản đòn sát thương ngoại thương	13	13228	2	48	400	82				
+928	Tỉ lệ phản đòn sát thương nội thương	13	13229	2	48	400	83				
+929	Nhóm mở khóa B	13									
+930	Hao mòn vũ khí giảm: /1% 	13	13180	3	48	600	34				
+931	Sức lực+/1	13	13181	3	48	600	35				
+932	Tăng giới hạn trọng lượng/1%	13	13182	3	48	600	36				
+933	Thể lực	13	13183	3	48	600	37				
+934	Thể lực 1%	13	13184	3	48	600	38				
+935	Điểm kinh nghiệm nhận được tăng: /1% 	13	13185	3	48	600	39				
+936	Tọa thiền mỗi 10 giây hồi phục sinh lực/1	13	13186	3	48	600	40				
+937	Tọa thiền mỗi 10 giây hồi phục nội lực/1	13	13187	3	48	600	41				
+938	Tọa thiền mỗi 10 giây hồi phục thể lực/1	13	13188	3	48	600	42				
+939	Hiệu quả dược phẩm hồi nội/1%	13	13189	3	48	600	43				
+940	yêu cầu đẳng cấp giảm /1	13	13190	3	48	600	44				
+941	Nội công nhỏ nhất trên vũ khí tăng /1	13	13191	3	48	600	45				
+942	Nội công lớn nhất trên vũ khí tăng /1	13	13192	3	48	600	46				
+943	Ngoại công nhỏ nhất trên vũ khí tăng /1	13	13193	3	48	600	47				
+944	Ngọai công lớn nhất trên vũ khí tăng 1	13	13194	3	48	600	48				
+945	Tăng điểm số nội công	13	13195	3	48	600	49				
+946	Tăng điểm số ngoại công	13	13196	3	48	600	50				
+947	Sát thương tăng /1	13	13197	3	48	600	51				
+948	Tăng sát thương độc	13	13198	3	48	600	52				
+949	Độc sát tăng /1	13	13199	3	48	600	53				
+950	Sức mạnh	13	13200	3	48	600	54				
+951	Thân pháp	13	13201	3	48	600	55				
+952	Nội công 	13	13202	3	48	600	56				
+953	Linh hoạt	13	13203	3	48	600	57				
+954	Gân cốt	13	13204	3	48	600	58				
+955	Điểm số triệt tiêu sát thương ngoại công	13	13205	3	48	600	59				
+956	Điểm số triệt tiêu sát thương nội công	13	13206	3	48	600	60				
+957	Giảm độc sát /1	13	13207	3	48	600	61				
+958	Thời gian hỗ trợ tấn công tăng: /1% 	13	13208	3	48	600	62				
+959	Thời gian hỗ trợ phòng thủ tăng: /1% 	13	13209	3	48	600	63				
+960	Dược hiệu kéo dài	13	13210	3	48	600	64				
+961	Tiêu diệt địch nhân khôi phục sinh lực	13	13211	3	48	600	65				
+962	Tiêu diệt địch nhân khôi phục nội lực	13	13212	3	48	600	66				
+963	Ngoại công tăng: /1% 	13	13213	3	48	600	67				
+964	Nội công tăng /1% 	13	13214	3	48	600	68				
+965	Tỷ lệ sát thương tuyệt đối /1%	13	13215	3	48	600	69				
+966	Nội lực 	13	13216	3	48	600	70				
+967	Nội lực %	13	13217	3	48	600	71				
+968	Điểm sinh lực	13	13218	3	48	600	72				
+969	Điểm số phản đòn sát thương ngoại công	13	13219	3	48	600	73				
+970	Điểm số phản đòn sát thương nội công	13	13220	3	48	600	74				
+971	Sinh mệnh %	13	13221	3	48	600	75				
+972	Hoàn toàn bỏ qua tỷ lệ tiêu hao kỹ năng/1%	13	13222	3	0	600	76				
+973	Tốc độ đánh tăng: /1% 	13	13223	3	96	600	77				
+974	Xác suất tấn công trong phạm vi: /1% 	13	13224	3	48	600	78				
+975	Xác suất tần công chí mạng: /1% 	13	13225	3	48	600	79				
+976	Dùng kỹ năng không tính tỷ lệ giản cách/1%	13	13226	3	48	600	80				
+977	Phản đòn sát thương độc	13	13227	3	48	600	81				
+978	Tỉ lệ phản đòn sát thương ngoại thương	13	13228	3	48	600	82				
+979	Tỉ lệ phản đòn sát thương nội thương	13	13229	3	48	600	83				
+980	Nhóm giày đặc trưng D	13									
+981	Tăng tốc độ lên ngựa	13	13252	1	80	400	106				
+982	Tốc độ di chuyển 	13	13253	1	80	400	107				
+983	Tăng tỉ lệ tốc độ thu hồi và triệu hồi	13	13254	1	80	400	108				
+984	Rút ngắn thời gian tê liệt %	13	13255	1	80	400	109				
+985	Rút ngắn thời gian choáng %	13	13256	1	80	400	110				
+986	Rút ngắn thời gian định thân %	13	13257	1	80	400	111				
+987	Rút ngắn thời gian loạn %	13	13258	1	80	400	112				
+988	Rút ngắn thời gian ngủ %	13	13259	1	80	400	113				
+989	Rút ngắn thời gian làm chậm %	13	13260	1	80	400	114				
+990	Rút ngắn thời gian giảm tốc %	13	13261	1	80	400	115				
+991	Nhóm giày đặc trưng C	13									
+992	Tăng tốc độ lên ngựa	13	13252	2	60	600	106				
+993	Tốc độ di chuyển 	13	13253	2	60	600	107				
+994	Tăng tỉ lệ tốc độ thu hồi và triệu hồi	13	13254	2	60	600	108				
+995	Rút ngắn thời gian tê liệt %	13	13255	2	60	600	109				
+996	Rút ngắn thời gian choáng %	13	13256	2	60	600	110				
+997	Rút ngắn thời gian định thân %	13	13257	2	60	600	111				
+998	Rút ngắn thời gian loạn %	13	13258	2	60	600	112				
+999	Rút ngắn thời gian ngủ %	13	13259	2	60	600	113				
+1000	Rút ngắn thời gian làm chậm %	13	13260	2	60	600	114				
+1001	Rút ngắn thời gian giảm tốc %	13	13261	2	60	600	115				
+1002	Nhóm giày đặc trưng B	13									
+1003	Tăng tốc độ lên ngựa	13	13252	3	60	800	106				
+1004	Tốc độ di chuyển 	13	13253	3	60	800	107				
+1005	Tăng tỉ lệ tốc độ thu hồi và triệu hồi	13	13254	3	60	800	108				
+1006	Rút ngắn thời gian tê liệt %	13	13255	3	60	800	109				
+1007	Rút ngắn thời gian choáng %	13	13256	3	60	800	110				
+1008	Rút ngắn thời gian định thân %	13	13257	3	60	800	111				
+1009	Rút ngắn thời gian loạn %	13	13258	3	60	800	112				
+1010	Rút ngắn thời gian ngủ %	13	13259	3	60	800	113				
+1011	Rút ngắn thời gian làm chậm %	13	13260	3	60	800	114				
+1012	Rút ngắn thời gian giảm tốc %	13	13261	3	60	800	115				
+1013	Nhóm phát triển Tướng Quân										
+1014	Sức mạnh	14	13290	1	2000	1000	54				
+1015	Thân pháp	14	13291	1	2000	1000	55				
+1016	Nội công 	14	13292	1	2000	1000	56				
+1017	Linh hoạt	14	13293	1	2000	1000	57				
+1018	Gân cốt	14	13294	1	2000	1000	58				
+1019	Nhóm phát triển Nguyên Soái										
+1020	Sức mạnh	15	13296	1	2000	1000	54				
+1021	Thân pháp	15	13297	1	2000	1000	55				
+1022	Nội công 	15	13298	1	2000	1000	56				
+1023	Linh hoạt	15	13299	1	2000	1000	57				
+1024	Gân cốt	15	13300	1	2000	1000	58				
+1025	Nhóm mở khóa Tướng Quân										
+1026	Hút Sinh lực /1	16	13286	3	10000	1000	91				
+1027	Công kích +/1%	17	13295	1	10000	1000	116				
+1028	Tránh mọi trạng thái phụ/1%	18	13301	1	10000	1000	105				
+1029	Tốc độ di chuyển 	19	13302	1	10000	1000	107				
+1030	Nhóm mở khóa Nguyên Soái										
+1031	Hút Sinh lực /1	20	13286	4	10000	1000	91				
+1032	Công kích +/1%	21	13295	2	10000	1000	116				
+1033	Tránh mọi trạng thái phụ/1%	22	13301	2	10000	1000	105				
+1034	Tốc độ di chuyển 	23	13302	2	10000	1000	107				
+1035	Thiên Hạ Vô Song nhóm cố định										
+1036	Thi triển%	24	13342	2	10000	1000	117				
+1037	Dược hiệu kéo dài	25	13356	2	10000	1000	64				
+1038	Giảm thọ thương	26	13344	3	10000	1000	118				
+1039	Sinh mệnh %	27	13343	2	10000	1000	9				
+1040	Thiên Hạ Vô Song Nhóm dưỡng thành										
+1041	Nội công tăng /1% 	28	13350	2	2500	1000	20				
+1042	Ngoại công tăng: /1% 	28	13351	3	2500	1000	19				
+1043	Sát thương tăng /1	28	13352	3	2500	1000	16				
+1044	Sát thương độc	28	13353	3	2500	1000	17				
+1045	Thiên Hạ Vô Song nhóm mở khóa										
+1046	Sức mạnh	29	13345	3	2000	2000	54				
+1047	Thân pháp	29	13346	3	2000	2000	55				
+1048	Nội công 	29	13347	3	2000	2000	56				
+1049	Linh hoạt	29	13348	3	2000	2000	57				
+1050	Gân cốt	29	13349	3	2000	2000	58				
+1051	Dưỡng thành Du Hiệp 1										
+1052	Linh hoạt D	30	13360	1	2500	1000	61				
+1053	Thân pháp D	30	13358	1	2500	1000	62				
+1054	Linh hoạt C	30	13366	1	2000	1000	63				
+1055	Thân pháp C	30	13364	1	2000	1000	64				
+1056	Linh hoạt B	30	13372	1	500	1000	65				
+1057	Thân pháp B	30	13370	1	500	1000	66				
+1058	Dưỡng thành Du Hiệp 2										
+1059	Sức mạnh D	31	13357	1	1000	1000	67				
+1060	Gân cốt D	31	13361	1	1000	1000	68				
+1061	Nội công D	31	13359	1	1000	1000	69				
+1062	Sinh lực D	31	13362	1	1000	1000	70				
+1063	Tỷ lệ sinh lực D	31	13459	1	1000	1000	3				
+1064	Sức mạnh C	31	13363	1	800	1000	71				
+1065	Gân cốt C	31	13367	1	800	1000	72				
+1066	Nội công C	31	13365	1	800	1000	73				
+1067	Sinh lực C	31	13368	1	800	1000	74				
+1068	Tỷ lệ sinh lực C	31	13460	1	800	1000	2				
+1069	Sức mạnh B	31	13369	1	200	1000	75				
+1070	Gân cốt B	31	13373	1	200	1000	76				
+1071	Nội công B	31	13371	1	200	1000	77				
+1072	Sinh lực B	31	13374	1	200	1000	78				
+1073	Tỷ lệ sinh lực B	31	13461	1	200	1000	1				
+1074	Mở khóa Du Hiệp 1										
+1075	Linh hoạt D	32	13378	1	2500	1000	79				
+1076	Thân pháp D	32	13376	1	2500	1000	80				
+1077	Linh hoạt C	32	13401	1	2000	1000	81				
+1078	Thân pháp C	32	13399	1	2000	1000	82				
+1079	Linh hoạt B	32	13424	1	500	1000	83				
+1080	Thân pháp B	32	13422	1	500	1000	84				
+1081	Mở khóa áo Choàng Du Hiệp 2										
+1082	Phản đòn ngoại công/1%D	33	13391	1	1000	1000	85				
+1083	Phản đòn nội công/1%D	33	13392	1	1000	1000	86				
+1084	Tăng sát thương/1D	33	13380	1	1000	1000	87				
+1085	Kèm theo độc sát/1D	33	13381	1	1000	1000	88				
+1086	Tăng sát thương cổ độc/1D	33	13382	1	1000	1000	89				
+1087	Phản đòn ngoại công/1%C	33	13414	1	800	1000	90				
+1088	Phản đòn nội công/1%C	33	13415	1	800	1000	91				
+1089	Tăng sát thương/1C	33	13403	1	800	1000	92				
+1090	Kèm theo độc sát/1C	33	13404	1	800	1000	93				
+1091	Tăng sát thương cổ độc/1C	33	13405	1	800	1000	94				
+1092	Phản đòn ngoại công/1%B	33	13437	1	200	1000	95				
+1093	Phản đòn nội công/1%B	33	13438	1	200	1000	96				
+1094	Tăng sát thương/1B	33	13426	1	200	1000	97				
+1095	Kèm theo độc sát/1B	33	13427	1	200	1000	98				
+1096	Tăng sát thương cổ độc/1B	33	13428	1	200	1000	99				
+1097	Mở khóa Huy Chương Du Hiệp 2										
+1098	Phản đòn ngoại công/1%D	34	13391	1	1000	1000	100				
+1099	Phản đòn nội công/1%D	34	13392	1	1000	1000	101				
+1100	Tăng sát thương/1D	34	13380	1	1000	1000	102				
+1101	Kèm theo độc sát/1D	34	13381	1	1000	1000	103				
+1102	Tăng sát thương cổ độc/1D	34	13382	1	1000	1000	104				
+1103	Phản đòn ngoại công/1%C	34	13414	1	800	1000	105				
+1104	Phản đòn nội công/1%C	34	13415	1	800	1000	106				
+1105	Tăng sát thương/1C	34	13403	1	800	1000	107				
+1106	Kèm theo độc sát/1C	34	13404	1	800	1000	108				
+1107	Tăng sát thương cổ độc/1C	34	13405	1	800	1000	109				
+1108	Phản đòn ngoại công/1%B	34	13437	1	200	1000	110				
+1109	Phản đòn nội công/1%B	34	13438	1	200	1000	111				
+1110	Tăng sát thương/1B	34	13426	1	200	1000	112				
+1111	Kèm theo độc sát/1B	34	13427	1	200	1000	113				
+1112	Tăng sát thương cổ độc/1B	34	13428	1	200	1000	114				
+1113	Mở khóa Giày Du Hiệp 2										
+1114	Tốc độ di chuyển/1%D	35	13393	1	1250	1000	115				
+1115	Tăng tốc độ xuất chiêu/1%D	35	13395	1	1250	1000	116				
+1116	Kháng tất cả D	35	13444	1	1250	1000	117				
+1117	Tăng chí mệnh/1%D	35	13397	1	1250	1000	118				
+1118	Tốc độ di chuyển/1%C	35	13416	1	1000	1000	119				
+1119	Tăng tốc độ xuất chiêu/1%C	35	13418	1	1000	1000	120				
+1120	Kháng tất cả C	35	13445	1	1000	1000	121				
+1121	Tăng chí mệnh/1%C	35	13420	1	1000	1000	122				
+1122	Tốc độ di chuyển/1%D	35	13439	1	250	1000	123				
+1123	Tăng tốc độ xuất chiêu/1%B	35	13441	1	250	1000	124				
+1124	Kháng tất cả B	35	13446	1	250	1000	125				
+1125	Tăng chí mệnh/1%B	35	13443	1	250	1000	126				
+1126	Dưỡng thành Thiết Huyết 1										
+1127	Sức mạnh D	36	13357	1	5000	1000	127				
+1128	Sức mạnh C	36	13363	1	4000	1000	128				
+1129	Sức mạnh B	36	13369	1	1000	1000	129				
+1130	Dưỡng thành Thiết Huyết 2										
+1131	Linh hoạt D	37	13360	1	1000	1000	130				
+1132	Thân pháp D	37	13358	1	1000	1000	131				
+1133	Gân cốt D	37	13361	1	625	1000	132				
+1134	Nội công D	37	13359	1	1000	1000	133				
+1135	Sinh lực D	37	13362	1	750	1000	134				
+1136	Tỷ lệ sinh lực D	31	13459	1	625	1000	3				
+1137	Linh hoạt C	37	13366	1	800	1000	135				
+1138	Thân pháp C	37	13364	1	800	1000	136				
+1139	Gân cốt C	37	13367	1	500	1000	137				
+1140	Nội công C	37	13365	1	800	1000	138				
+1141	Sinh lực C	37	13368	1	600	1000	139				
+1142	Tỷ lệ sinh lực C	31	13460	1	500	1000	2				
+1143	Linh hoạt B	37	13372	1	200	1000	140				
+1144	Thân pháp B	37	13370	1	200	1000	141				
+1145	Gân cốt B	37	13373	1	125	1000	142				
+1146	Nội công B	37	13371	1	200	1000	143				
+1147	Sinh lực B	37	13374	1	150	1000	144				
+1148	Tỷ lệ sinh lực B	31	13461	1	125	1000	1				
+1149	Mở khóa Thiết Huyết 1										
+1150	Sức mạnh D	38	13375	1	1625	1000	145				
+1151	Gân cốt D	38	13379	1	1850	1000	146				
+1152	Sinh lực %D	38	13447	1	1525	1000	147				
+1153	Sức mạnh C	38	13398	1	1300	1000	148				
+1154	Gân cốt C	38	13402	1	1500	1000	149				
+1155	Sinh lực %C	38	13448	1	1200	1000	150				
+1156	Sức mạnh B	38	13421	1	325	1000	151				
+1157	Gân cốt B	38	13425	1	350	1000	152				
+1158	Sinh lực %B	38	13449	1	325	1000	153				
+1159	Mở khóa áo Choàng Thiết Huyết 2										
+1160	Phản đòn ngoại công/1D	39	13389	1	1250	1000	154				
+1161	Phản đòn nội công/1D	39	13390	1	1250	1000	155				
+1162	Tăng ngoại công/1%D	39	13387	1	1250	1000	156				
+1163	Tổng công kích ngoại công/1D	39	13385	1	1250	1000	157				
+1164	Phản đòn ngoại công/1C	39	13412	1	1000	1000	158				
+1165	Phản đòn nội công/1C	39	13413	1	1000	1000	159				
+1166	Tăng ngoại công/1%C	39	13410	1	1000	1000	160				
+1167	Tổng công kích ngoại công/1C	39	13408	1	1000	1000	161				
+1168	Phản đòn ngoại công/1B	39	13435	1	250	1000	162				
+1169	Phản đòn nội công/1B	39	13436	1	250	1000	163				
+1170	Tăng ngoại công/1%B	39	13433	1	250	1000	164				
+1171	Tổng công kích ngoại công/1B	39	13431	1	250	1000	165				
+1172	Mở khóa Huy Chương Thiết Huyết 2										
+1173	Phản đòn ngoại công/1D	40	13389	1	1250	1000	166				
+1174	Phản đòn nội công/1D	40	13390	1	1250	1000	167				
+1175	Tăng ngoại công/1%D	40	13387	1	1250	1000	168				
+1176	Tổng công kích ngoại công/1D	40	13385	1	1250	1000	169				
+1177	Phản đòn ngoại công/1C	40	13412	1	1000	1000	170				
+1178	Phản đòn nội công/1C	40	13413	1	1000	1000	171				
+1179	Tăng ngoại công/1%C	40	13410	1	1000	1000	172				
+1180	Tổng công kích ngoại công/1C	40	13408	1	1000	1000	173				
+1181	Phản đòn ngoại công/1B	40	13435	1	250	1000	174				
+1182	Phản đòn nội công/1B	40	13436	1	250	1000	175				
+1183	Tăng ngoại công/1%B	40	13433	1	250	1000	176				
+1184	Tổng công kích ngoại công/1B	40	13431	1	250	1000	177				
+1185	Mở khóa Giày Thiết Huyết 2										
+1186	Tốc độ di chuyển/1%D	41	13393	1	1250	1000	178				
+1187	Tăng tốc độ xuất chiêu/1%D	41	13395	1	1250	1000	179				
+1188	Hút sinh lực D	41	13394	1	1250	1000	180				
+1189	Giảm thọ thương/1%D	41	13396	1	1250	1000	181				
+1190	Tốc độ di chuyển/1%C	41	13416	1	1000	1000	182				
+1191	Tăng tốc độ xuất chiêu/1%C	41	13418	1	1000	1000	183				
+1192	Hút sinh lực C	41	13417	1	1000	1000	184				
+1193	Giảm thọ thương/1%C	41	13419	1	1000	1000	185				
+1194	Tốc độ di chuyển/1%B	41	13439	1	250	1000	186				
+1195	Tăng tốc độ xuất chiêu/1%B	41	13441	1	250	1000	187				
+1196	Hút sinh lực B	41	13440	1	250	1000	188				
+1197	Giảm thọ thương/1%B	41	13442	1	250	1000	189				
+1198	Dưỡng thành Vân Du 1										
+1199	Nội công 	42	13359	1	5000	1000	190				
+1200	Nội công 	42	13365	1	4000	1000	191				
+1201	Nội công 	42	13371	1	1000	1000	192				
+1202	Dưỡng thành Vân Du 2										
+1203	Linh hoạt D	43	13360	1	1000	1000	193				
+1204	Thân pháp D	43	13358	1	1000	1000	194				
+1205	Gân cốt D	43	13361	1	1000	1000	195				
+1206	Sinh lực D	43	13362	1	1000	1000	196				
+1207	Tỷ lệ sinh lực D	31	13459	1	1000	1000	3				
+1208	Linh hoạt C	43	13366	1	800	1000	197				
+1209	Thân pháp C	43	13364	1	800	1000	198				
+1210	Gân cốt C	43	13367	1	800	1000	199				
+1211	Sinh lực C	43	13368	1	800	1000	200				
+1212	Tỷ lệ sinh lực C	31	13460	1	800	1000	2				
+1213	Linh hoạt B	43	13372	1	200	1000	201				
+1214	Thân pháp B	43	13370	1	200	1000	202				
+1215	Gân cốt B	43	13373	1	200	1000	203				
+1216	Sinh lực B	43	13374	1	200	1000	204				
+1217	Tỷ lệ sinh lực B	31	13461	1	200	1000	1				
+1218	Mở khóa Vân Du 1										
+1219	Linh hoạt D	44	13378	1	1300	1000	205				
+1220	Thân pháp D	44	13376	1	1200	1000	206				
+1221	Nội công D	44	13377	1	1500	1000	207				
+1222	Linh hoạt C	44	13401	1	1300	1000	208				
+1223	Thân pháp C	44	13399	1	1200	1000	209				
+1224	Nội công C	44	13400	1	1500	1000	210				
+1225	Linh hoạt B	44	13424	1	650	1000	211				
+1226	Thân pháp B	44	13422	1	600	1000	212				
+1227	Nội công B	44	13423	1	750	1000	213				
+1228	Mở khóa áo Choàng Vân Du 2										
+1229	Tăng nội công/1%D	45	13388	1	1250	1000	214				
+1230	Tổng công kích nội công/1D	45	13386	1	1250	1000	215				
+1231	Nội công lớn nhất trên vũ khí tăng/1D	45	13383	1	1250	1000	216				
+1232	Nội công nhỏ nhất trên vũ khí tăng/1D	45	13384	1	1250	1000	217				
+1233	Tăng nội công/1%C	45	13411	1	1000	1000	218				
+1234	Tổng công kích nội công/1C	45	13409	1	1000	1000	219				
+1235	Nội công lớn nhất trên vũ khí tăng/1C	45	13406	1	1000	1000	220				
+1236	Nội công nhỏ nhất trên vũ khí tăng/1C	45	13407	1	1000	1000	221				
+1237	Tăng nội công/1%B	45	13434	1	250	1000	222				
+1238	Tổng công kích nội công/1B	45	13432	1	250	1000	223				
+1239	Nội công lớn nhất trên vũ khí tăng/1B	45	13429	1	250	1000	224				
+1240	Nội công nhỏ nhất trên vũ khí tăng/1B	45	13430	1	250	1000	225				
+1241	Mở khóa Huy Chương Vân Du 2										
+1242	Tăng nội công/1%D	46	13388	1	1250	1000	226				
+1243	Tổng công kích nội công/1D	46	13386	1	1250	1000	227				
+1244	Nội công lớn nhất trên vũ khí tăng/1D	46	13383	1	1250	1000	228				
+1245	Nội công nhỏ nhất trên vũ khí tăng/1D	46	13384	1	1250	1000	229				
+1246	Tăng nội công/1%C	46	13411	1	1000	1000	230				
+1247	Tổng công kích nội công/1C	46	13409	1	1000	1000	231				
+1248	Nội công lớn nhất trên vũ khí tăng/1C	46	13406	1	1000	1000	232				
+1249	Nội công nhỏ nhất trên vũ khí tăng/1C	46	13407	1	1000	1000	233				
+1250	Tăng nội công/1%B	46	13434	1	250	1000	234				
+1251	Tổng công kích nội công/1B	46	13432	1	250	1000	235				
+1252	Nội công lớn nhất trên vũ khí tăng/1B	46	13429	1	250	1000	236				
+1253	Nội công nhỏ nhất trên vũ khí tăng/1B	46	13430	1	250	1000	237				
+1254	Mở khóa Giày Vân Du 2										
+1255	Tốc độ di chuyển/1%D	47	13393	1	1250	1000	238				
+1256	Tăng tốc độ xuất chiêu/1%D	47	13395	1	1250	1000	239				
+1257	Giảm thọ thương/1%D	47	13396	1	1250	1000	240				
+1258	Tăng chí mệnh/1%D	47	13397	1	1250	1000	241				
+1259	Tốc độ di chuyển/1%C	47	13416	1	1000	1000	242				
+1260	Tăng tốc độ xuất chiêu/1%C	47	13418	1	1000	1000	243				
+1261	Giảm thọ thương/1%C	47	13419	1	1000	1000	244				
+1262	Tăng chí mệnh/1%C	47	13420	1	1000	1000	245				
+1263	Tốc độ di chuyển/1%B	47	13439	1	250	1000	246				
+1264	Tăng tốc độ xuất chiêu/1%B	47	13441	1	250	1000	247				
+1265	Giảm thọ thương/1%B	47	13442	1	250	1000	248				
+1266	Tăng chí mệnh/1%B	47	13443	1	250	1000	249				
+1267	---------------------Linh Đồ Đầu-----------------------------------------										
+1268	Xuất chiêu %D	48	13476	1	1000	1000	250				
+1269	Xuất chiêu %C	48	13476	2	3000	1000	251				
+1270	Xuất chiêu %B	48	13476	3	4500	1000	252				
+1271	Xuất chiêu %A	48	13476	4	1500	1000	253				
+1272	Dược hiệu kéo dài	49	305	4	10000	1000	254				
+1273	Sinh lực D	50	13491	1	3000	1000	255				
+1274	Sinh lực C	50	13491	2	4500	1000	256				
+1275	Sinh lực B	50	13491	3	2000	1000	257				
+1276	Điểm sinh lực A	50	13491	4	500	1000	258				
+1277	---------------------Linh Đồ Y-----------------------------------------										
+1278	Kháng tất cả D	51	13477	2	2500	1000	259				
+1279	Kháng tất cả C	51	13477	3	4000	1000	260				
+1280	Kháng tất cả B	51	13477	4	2500	1000	261				
+1281	Kháng tất cả A	51	13477	5	1000	1000	262				
+1282	Sinh lực %D	52	290	4	1000	1000	263				
+1283	Sinh lực %C	52	290	5	5000	1000	264				
+1284	Sinh mệnh % B	52	290	6	3000	1000	265				
+1285	Sinh lực %A	52	290	7	1000	1000	266				
+1286	---------------------Linh Đồ Khố (Sát thương)-----------------------------------										
+1287	Nửa sát thương C	53	302	2	3000	1000	267				
+1288	Nửa sát thương B	53	302	3	5500	1000	268				
+1289	Nửa sát thương A	53	302	4	1500	1000	269				
+1290	Sát thương D	54	563	1	3000	1000	270				
+1291	Sát thương C	54	563	2	4500	1000	271				
+1292	Sát thương B	54	563	3	2000	1000	272				
+1293	Sát thương A	54	563	4	500	1000	273				
+1294	---------------------Linh Đồ Khố  (Ngoại công)-----------------------------------										
+1295	Ngoại công %D	55	13478	1	3000	1000	274				
+1296	Ngoại công %C	55	13478	2	4500	1000	275				
+1297	Ngoại công %B	55	13478	3	2000	1000	276				
+1298	Ngoại công %A	55	13478	4	500	1000	277				
+1299	---------------------Linh Đồ Khố (Nội kích)-----------------------------------										
+1300	Nội kích %D	56	13479	1	3000	1000	278				
+1301	Nội kích %C	56	13479	2	4500	1000	279				
+1302	Nội kích %B	56	13479	3	2000	1000	280				
+1303	Nội kích %A	56	13479	4	500	1000	281				
+1304	---------------------Vũ Khí Linh Đồ (Sát thương)-------------------------------										
+1305	Thân pháp D	57	13480	2	1000	1000	282				
+1306	Thân pháp C	57	13480	3	2500	1000	283				
+1307	Thân pháp B	57	13480	4	1000	1000	284				
+1308	Thân pháp A	57	13480	5	500	1000	285				
+1309	Linh hoạt D	57	13481	2	1000	1000	286				
+1310	Linh hoạt C	57	13481	3	2500	1000	287				
+1311	Linh hoạt B	57	13481	4	1000	1000	288				
+1312	Linh hoạt A	57	13481	5	500	1000	289				
+1313	Sát thương D	58	13492	2	2000	1000	290				
+1314	Sát thương C	58	13492	3	4000	1000	291				
+1315	Sát thương B	58	13492	4	3500	1000	292				
+1316	Sát thương A	58	13492	5	500	1000	293				
+1317	---------------------Vũ Khí Linh Đồ  (Ngoại công)-------------------------------										
+1318	Sức mạnh D	59	13482	2	1500	1000	294				
+1319	Sức mạnh C	59	13482	3	5500	1000	295				
+1320	Sức mạnh B	59	13482	4	2500	1000	296				
+1321	Sức mạnh A	59	13482	5	500	1000	297				
+1322	Ngoại công %D	60	13484	2	2000	1000	298				
+1323	Ngoại công %C	60	13484	3	4000	1000	299				
+1324	Ngoại công %B	60	13484	4	3500	1000	300				
+1325	Ngoại công %A	60	13484	5	500	1000	301				
+1326	---------------------Vũ Khí Linh Đồ (Nội kích)-------------------------------										
+1327	Nội công D	61	13483	2	1500	1000	302				
+1328	Nội công C	61	13483	3	5500	1000	303				
+1329	Nội công B	61	13483	4	2500	1000	304				
+1330	Nội công A	61	13483	5	500	1000	305				
+1331	Nội kích %D	62	13485	2	2000	1000	306				
+1332	Nội kích %C	62	13485	3	4000	1000	307				
+1333	Nội kích %B	62	13485	4	3500	1000	308				
+1334	Nội kích %A	62	13485	5	500	1000	309				
+1335	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Đầu, Y, Khố công kích)-----------------										
+1336	Độc sát	63	251	2	700	1000	310				
+1337	Cổ sát	63	13199	6	700	1000	311				
+1338	Sát thương	63	394	4	500	1000	312				
+1339	Tỷ lệ ngoại công	63	261	3	600	1000	313				
+1340	Tỷ lệ nội kích	63	262	3	600	1000	314				
+1341	Tỷ lệ nội ngoại công	63	389	4	400	1000	315				
+1342	Sức mạnh	63	399	2	1300	1000	316				
+1343	Nội công 	63	402	2	1300	1000	317				
+1344	Gân cốt	63	398	2	1300	1000	318				
+1345	Thân pháp	63	400	2	1300	1000	319				
+1346	Linh hoạt	63	401	2	1300	1000	320				
+1347	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Vũ khí tấn công)-------------------										
+1348	Độc sát	64	251	2	2000	1000	321				
+1349	Cổ sát	64	13199	6	2000	1000	322				
+1350	Sát thương	64	394	4	1000	1000	323				
+1351	Tỷ lệ ngoại công	64	261	3	2000	1000	324				
+1352	Tỷ lệ nội kích	64	262	3	2000	1000	325				
+1353	Tỷ lệ nội ngoại công	64	389	4	1000	1000	326				
+1354	Giảm tỷ lệ ngoại phòng của mục tiêu	65	13320	2	1500	1000	327				
+1355	Giảm tỷ lệ nội phòng của mục tiêu	65	13322	2	1500	1000	328				
+1356	Giảm tỷ lệ nội ngoại phòng của mục tiêu	65	444	5	1000	1000	329				
+1357	Giảm điểm số ngoại phòng mục tiêu	65	13464	3	1500	1000	330				
+1358	Giảm điểm số nội phòng mục tiêu	65	13465	3	1500	1000	331				
+1359	Giảm điểm số nội ngoại phòng mục tiêu	65	13466	2	1000	1000	332				
+1360	Phá phòng thủ đối phương	65	252	2	0	1000	333				
+1361	Hút sinh lực	65	13237	1	1000	1000	334				
+1362	Chính xác	65	13564	1	1000	1000	335				
+1363	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Giới chỉ tấn công)-------------------										
+1364	Sức mạnh	66	399	2	1800	1000	336				
+1365	Nội công 	66	402	2	1800	1000	337				
+1366	Gân cốt	66	398	2	1800	1000	338				
+1367	Thân pháp	66	400	2	1800	1000	339				
+1368	Linh hoạt	66	401	2	1800	1000	340				
+1369	Phá phòng thủ đối phương	66	252	2	0	1000	341				
+1370	Hút sinh lực	66	13237	1	1000	1000	342				
+1371	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Đầu phòng ngự)---------------------										
+1372	Tỷ lệ sinh lực	67	277	5	1600	1000	343				
+1373	Tỷ lệ ngoại phòng	67	493	2	1200	1000	344				
+1374	Tỷ lệ nội phòng	67	494	2	1200	1000	345				
+1375	Tỷ lệ nội ngoại phòng	67	495	1	800	1000	346				
+1376	Điểm hộ giáp ngoại phòng	67	13486	1	1200	1000	347				
+1377	Điểm hộ giáp nội phòng	67	13487	1	1200	1000	348				
+1378	Điểm hộ giáp nội ngoại phòng	67	13488	1	800	1000	349				
+1379	Điểm độc sát giảm	67	13207	5	650	1000	350				
+1380	Kháng độc	67	13240	5	650	1000	351				
+1381	Tỷ lệ giảm thời gian độc	67	13471	1	700	1000	352				
+1382	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (áo phòng ngự)---------------------										
+1383	Tỷ lệ sinh lực	68	277	5	1600	1000	353				
+1384	Tỷ lệ ngoại phòng	68	493	2	1200	1000	354				
+1385	Tỷ lệ nội phòng	68	494	2	1200	1000	355				
+1386	Tỷ lệ nội ngoại phòng	68	495	1	800	1000	356				
+1387	Điểm hộ giáp ngoại phòng	68	13486	1	1200	1000	357				
+1388	Điểm hộ giáp nội phòng	68	13487	1	1200	1000	358				
+1389	Điểm hộ giáp nội ngoại phòng	68	13488	1	800	1000	359				
+1390	Điểm số triệt tiêu sát thương ngoại công	68	13205	5	800	1000	360				
+1391	Điểm số triệt tiêu sát thương nội công	68	13206	5	800	1000	361				
+1392	Điểm số triệt tiêu sát thương nội ngoại công	68	13468	6	400	1000	362				
+1393	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Khố phòng ngự)---------------------										
+1394	Tỷ lệ sinh lực	69	277	5	1600	1000	363				
+1395	Tỷ lệ ngoại phòng	69	493	2	1200	1000	364				
+1396	Tỷ lệ nội phòng	69	494	2	1200	1000	365				
+1397	Tỷ lệ nội ngoại phòng	69	495	1	800	1000	366				
+1398	Điểm hộ giáp ngoại phòng	69	13486	1	1200	1000	367				
+1399	Điểm hộ giáp nội phòng	69	13487	1	1200	1000	368				
+1400	Điểm hộ giáp nội ngoại phòng	69	13488	1	800	1000	369				
+1401	Điểm số phản đòn sát thương ngoại	69	13469	6	700	1000	370				
+1402	Điểm số phản đòn sát thương nội	69	13470	6	700	1000	371				
+1403	Điểm số phản đòn sát thương nội ngoại	69	13287	5	300	1000	372				
+1404	Tỷ lệ phản đòn sát thương độc	69	13227	1	300	1000	373				
+1405	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Giới chỉ phòng ngự)-------------------										
+1406	Tỷ lệ sinh lực	70	277	3	2000	1000	374				
+1407	Tỷ lệ ngoại phòng	70	493	2	1500	1000	375				
+1408	Tỷ lệ nội phòng	70	494	2	1500	1000	376				
+1409	Tỷ lệ nội ngoại phòng	70	495	1	1000	1000	377				
+1410	Điểm hộ giáp ngoại phòng	70	13486	1	1500	1000	378				
+1411	Điểm hộ giáp nội phòng	70	13487	1	1500	1000	379				
+1412	Điểm hộ giáp nội ngoại phòng	70	13488	1	1000	1000	380				
+1413	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Đầu, Y, Khố khác)-----------------										
+1414	Điểm sinh lực	71	408	4	800	1000	381				
+1415	Đẳng cấp cộng thêm sinh lực	71	13467	2	800	1000	382				
+1416	Chuyển sinh cộng thêm sinh lực	71	13490	3	800	1000	383				
+1417	Né tránh tất cả trạng thái phụ	71	13251	1	300	1000	384				
+1418	Khi bị tấn công, có tỷ lệ tăng né tránh 10 giây	71	13473	1	600	1000	385				
+1419	Khi bị tấn công, có tỷ lệ tăng tốc độ di chuyển 10 giây 	71	613	2	600	1000	386				
+1420	Tăng né tránh	71	13554	1	600	1000	387				
+1421	---------------------Trang bị Linh Đồ thuộc tính ngẫu nhiên (Giới chỉ khác)-------------------										
+1422	Tỷ lê 30% có Tục Mệnh Quyết 1 lần	72	614	7	0	1000	388				
+1423	Khi chạy có mang Tàn ảnh	72	13474	1	0	1000	389				
+1424	Khi thi triển kỹ năng có Tàn ảnh	72	13475	1	0	1000	390				
+1425	Sử dụng kỹ năng có tỷ lệ không có thời gian chờ	72	496	1	500	1000	391				
+1426	Tỷ lệ xuất chiêu tăng	72	491	4	500	1000	392				
+1427	Mật tịch cộng thêm tăng	72	564	4	100	1000	393				
+1428	Điểm thể lực	72	13183	3	500	1000	394				
+1429	Nội lực %	72	278	3	500	1000	395				
+1430	Sát thương chuyển hóa thành nội lực 	72	308	5	500	1000	396				
+1431	Sút ngắn động tác bị thương	72	89	2	500	1000	397				
+1432	Dược hiệu kéo dài	72	305	4	500	1000	398				
+1433	Giảm nội lực tiêu hao	72	304	3	500	1000	399				
+1434	---------------------Trang bị Hào Hiệp thuộc tính ngẫu nhiên (Nón)-------------------										
+1435	Xuất chiêu	73	13643	1;10	600	1000	400				
+1436	Độc sát	73	13644	1;20	400	1000	401				
+1437	Cổ sát	73	13645	1;20	400	1000	401				
+1438	Sát thương	73	13646	1;20	400	1000	401				
+1439	Tỷ lệ ngoại công	73	13647	1;12	400	1000	402				
+1440	Tỷ lệ nội kích	73	13648	1;12	400	1000	402				
+1441	Tỷ lệ nội ngoại công	73	13649	1;12	400	1000	402				
+1442	Sức mạnh	73	13650	1;10	240	1000	403				
+1443	Nội công 	73	13651	1;10	240	1000	403				
+1444	Gân cốt	73	13652	1;10	240	1000	403				
+1445	Thân pháp	73	13653	1;10	240	1000	403				
+1446	Linh hoạt	73	13654	1;10	240	1000	403				
+1447	Kháng tất cả	73	13655	1;10	700	1000	404				
+1448	Tỷ lệ sinh lực	73	13656	1;10	800	1000	405				
+1449	Né tránh	73	13657	1;15	700	1000	406				
+1450	Phòng thủ bạo kích	73	13658	1;10	700	1000	407				
+1451	Giảm sát thương bạo kích	73	13659	1;15	700	1000	408				
+1452	Tỷ lệ ngoại phòng	73	13660	1;4	200	1000	409				
+1453	Tỷ lệ nội phòng	73	13661	1;4	200	1000	409				
+1454	Tỷ lệ nội ngoại phòng	73	13662	1;2	200	1000	409				
+1455	Điểm hộ giáp ngoại phòng	73	13663	1;20	200	1000	409				
+1456	Điểm hộ giáp nội phòng	73	13664	1;20	200	1000	409				
+1457	Điểm hộ giáp nội ngoại phòng	73	13665	1;10	200	1000	409				
+1458	Dược hiệu kéo dài	73	13666	1;10	1000	1000	410				
+1459	---------------------Trang bị Hào Hiệp thuộc tính ngẫu nhiên (áo)-------------------										
+1460	Độc sát	74	13644	1;20	400	1000	411				
+1461	Cổ sát	74	13645	1;20	400	1000	411				
+1462	Sát thương	74	13646	1;20	400	1000	411				
+1463	Tỷ lệ ngoại công	74	13647	1;12	400	1000	412				
+1464	Tỷ lệ nội kích	74	13648	1;12	400	1000	412				
+1465	Tỷ lệ nội ngoại công	74	13649	1;12	400	1000	412				
+1466	Sức mạnh	74	13650	1;10	240	1000	413				
+1467	Nội công 	74	13651	1;10	240	1000	413				
+1468	Gân cốt	74	13652	1;10	240	1000	413				
+1469	Thân pháp	74	13653	1;10	240	1000	413				
+1470	Linh hoạt	74	13654	1;10	240	1000	413				
+1471	Kháng tất cả	74	13655	1;10	700	1000	414				
+1472	Tỷ lệ sinh lực	74	13656	1;10	800	1000	415				
+1473	Đẳng cấp cộng thêm sinh lực	74	13667	1;20	800	1000	416				
+1474	Chuyển sinh cộng thêm sinh lực	74	13668	1;10	800	1000	416				
+1475	Né tránh	74	13657	1;15	700	1000	417				
+1476	Phòng thủ bạo kích	74	13658	1;10	700	1000	418				
+1477	Giảm sát thương bạo kích	74	13659	1;15	700	1000	419				
+1478	Tỷ lệ ngoại phòng	74	13660	1;4	200	1000	420				
+1479	Tỷ lệ nội phòng	74	13661	1;4	200	1000	420				
+1480	Tỷ lệ nội ngoại phòng	74	13662	1;2	200	1000	420				
+1481	Điểm hộ giáp ngoại phòng	74	13663	1;20	200	1000	420				
+1482	Điểm hộ giáp nội ngoại phòng	74	13664	1;20	200	1000	420				
+1483	Điểm hộ giáp nội ngoại phòng	74	13665	1;10	200	1000	420				
+1484	---------------------Trang bị Hào Hiệp thuộc tính ngẫu nhiên (Quần)-------------------										
+1485	Độc sát	75	13644	1;20	400	1000	421				
+1486	Cổ sát	75	13645	1;20	400	1000	421				
+1487	Sát thương	75	13646	1;20	400	1000	421				
+1488	Tỷ lệ ngoại công	75	13647	1;12	400	1000	422				
+1489	Tỷ lệ nội kích	75	13648	1;12	400	1000	422				
+1490	Tỷ lệ nội ngoại công	75	13649	1;12	400	1000	422				
+1491	Sức mạnh	75	13650	1;10	240	1000	423				
+1492	Nội công 	75	13651	1;10	240	1000	423				
+1493	Gân cốt	75	13652	1;10	240	1000	423				
+1494	Thân pháp	75	13653	1;10	240	1000	423				
+1495	Linh hoạt	75	13654	1;10	240	1000	423				
+1496	Kháng tất cả	75	13655	1;10	700	1000	424				
+1497	Tỷ lệ sinh lực	75	13656	1;10	800	1000	425				
+1498	Giảm thọ thương	75	13669	1;5	600	1000	426				
+1499	Điểm số phản đòn sát thương nội ngoại	75	13670	1;15	1000	1000	427				
+1500	Né tránh	75	13657	1;15	700	1000	428				
+1501	Phòng thủ bạo kích	75	13658	1;10	700	1000	429				
+1502	Giảm sát thương bạo kích	75	13659	1;15	700	1000	430				
+1503	Tỷ lệ ngoại phòng	75	13660	1;4	200	1000	431				
+1504	Tỷ lệ nội phòng	75	13661	1;4	200	1000	431				
+1505	Tỷ lệ nội ngoại phòng	75	13662	1;2	200	1000	431				
+1506	Điểm hộ giáp ngoại phòng	75	13663	1;20	200	1000	431				
+1507	Điểm hộ giáp nội phòng	75	13664	1;20	200	1000	431				
+1508	Điểm hộ giáp nội ngoại phòng	75	13665	1;10	200	1000	431				
+1509	---------------------Trang bị Hào Hiệp thuộc tính ngẫu nhiên (Vũ khí)-------------------										
+1510	Độc sát	76	13644	1;20	470	1000	432				
+1511	Cổ sát	76	13645	1;20	460	1000	432				
+1512	Sát thương	76	13646	1;20	470	1000	432				
+1513	Tỷ lệ ngoại công	76	13647	1;12	470	1000	433				
+1514	Tỷ lệ nội kích	76	13648	1;12	470	1000	433				
+1515	Tỷ lệ nội ngoại công	76	13649	1;12	460	1000	433				
+1516	Sức mạnh	76	13650	1;10	280	1000	434				
+1517	Nội công 	76	13651	1;10	280	1000	434				
+1518	Gân cốt	76	13652	1;10	280	1000	434				
+1519	Thân pháp	76	13653	1;10	280	1000	434				
+1520	Linh hoạt	76	13654	1;10	280	1000	434				
+1521	Kháng tất cả	76	13655	1;10	1200	1000	435				
+1522	Bạo kích	76	13671	1;15	1200	1000	436				
+1523	Bạo thương	76	13672	1;15	1200	1000	437				
+1524	Giảm tỷ lệ ngoại phòng của mục tiêu	76	13673	1;7	200	1000	438				
+1525	Giảm tỷ lệ nội phòng của mục tiêu	76	13674	1;7	200	1000	438				
+1526	Giảm tỷ lệ nội ngoại phòng của mục tiêu	76	13675	1;6	200	1000	438				
+1527	Giảm điểm số ngoại phòng mục tiêu	76	13676	1;10	200	1000	438				
+1528	Giảm điểm số nội phòng mục tiêu	76	13677	1;10	200	1000	438				
+1529	Giảm điểm số nội ngoại phòng mục tiêu	76	13678	1;10	200	1000	438				
+1530	Chính xác	76	13679	1;20	1000	1000	439				
+1531	---------------------Trang bị Hào Hiệp thuộc tính ngẫu nhiên (Nhẫn)-------------------										
+1532	Xuất chiêu	77	13680	1;5	600	1000	440				
+1533	Độc sát	77	13681	1;10	400	1000	441				
+1534	Cổ sát	77	13682	1;10	400	1000	441				
+1535	Sát thương	77	13683	1;20	400	1000	441				
+1536	Tỷ lệ ngoại công	77	13684	1;4	400	1000	442				
+1537	Tỷ lệ nội kích	77	13685	1;4	400	1000	442				
+1538	Tỷ lệ nội ngoại công	77	13686	1;2	400	1000	442				
+1539	Sức mạnh	77	13687	1;15	300	1000	443				
+1540	Nội công 	77	13688	1;15	300	1000	443				
+1541	Gân cốt	77	13689	1;15	300	1000	443				
+1542	Thân pháp	77	13690	1;15	300	1000	443				
+1543	Linh hoạt	77	13691	1;15	300	1000	443				
+1544	Kháng tất cả	77	13692	1;10	800	1000	444				
+1545	Bạo kích	77	13693	1;10	600	1000	445				
+1546	Bạo thương	77	13694	1;20	600	1000	446				
+1547	Tỷ lệ sinh lực	77	13695	1;10	800	1000	447				
+1548	Đẳng cấp cộng thêm sinh lực	77	13696	1;20	500	1000	448				
+1549	Chuyển sinh cộng thêm sinh lực	77	13697	1;15	500	1000	448				
+1550	Né tránh	77	13698	1;20	1200	1000	449				
+1551	Mật tịch cộng thêm tăng	77	13699	1;5	100	1000	450				
+1552	Điểm thể lực	77	13700	1;10	200	1000	450				
+1553	Tốc độ di chuyển 	77	13701	1;4	200	1000	450				
+1554	Chính thức-Trang bị Hào Hiệp-Đầu-Thuộc tính cố định------------------										
+1555	Xuất chiêu	78	13720	5	1500	1000	451				
+1556	Xuất chiêu	78	13720	7	3500	1000	451				
+1557	Xuất chiêu	78	13720	9	4000	1000	451				
+1558	Xuất chiêu	78	13720	11	1000	1000	451				
+1559	Điểm sinh lực	79	13721	7	3000	1000	452				
+1560	Điểm sinh lực	79	13721	10	4500	1000	452				
+1561	Điểm sinh lực	79	13721	13	2000	1000	452				
+1562	Điểm sinh lực	79	13721	15	500	1000	452				
+1563	Giảm sát thương bạo kích	80	13722	1	2500	1000	453				
+1564	Giảm sát thương bạo kích	80	13722	2	4000	1000	453				
+1565	Giảm sát thương bạo kích	80	13722	3	2500	1000	453				
+1566	Giảm sát thương bạo kích	80	13722	4	1000	1000	453				
+1567	Chính thức-Trang bị Hào Hiệp-áo-Thuộc tính cố định---------------------										
+1568	Kháng tất cả	81	13723	16	1500	1000	454				
+1569	Kháng tất cả	81	13723	20	3500	1000	454				
+1570	Kháng tất cả	81	13723	22	4000	1000	454				
+1571	Kháng tất cả	81	13723	26	1000	1000	454				
+1572	Điểm sinh lực	82	13721	7	3000	1000	455				
+1573	Điểm sinh lực	82	13721	10	4500	1000	455				
+1574	Điểm sinh lực	82	13721	13	2000	1000	455				
+1575	Điểm sinh lực	82	13721	15	500	1000	455				
+1576	Giảm sát thương bạo kích	83	13722	1	2500	1000	456				
+1577	Giảm sát thương bạo kích	83	13722	2	4000	1000	456				
+1578	Giảm sát thương bạo kích	83	13722	3	2500	1000	456				
+1579	Giảm sát thương bạo kích	83	13722	4	1000	1000	456				
+1580	Chính thức-Trang bị Hào Hiệp-Quần-Thuộc tính cố định---------------------										
+1581	Giảm thọ thương	84	13724	1	1500	1000	457				
+1582	Giảm thọ thương	84	13724	2	3500	1000	457				
+1583	Giảm thọ thương	84	13724	3	4000	1000	457				
+1584	Giảm thọ thương	84	13724	4	1000	1000	457				
+1585	Điểm sinh lực	85	13721	7	3000	1000	458				
+1586	Điểm sinh lực	85	13721	10	4500	1000	458				
+1587	Điểm sinh lực	85	13721	13	2000	1000	458				
+1588	Điểm sinh lực	85	13721	15	500	1000	458				
+1589	Giảm sát thương bạo kích	86	13722	1	2500	1000	459				
+1590	Giảm sát thương bạo kích	86	13722	2	4000	1000	459				
+1591	Giảm sát thương bạo kích	86	13722	3	2500	1000	459				
+1592	Giảm sát thương bạo kích	86	13722	4	1000	1000	459				
+1593	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính cố định (Sát thương)---------------------										
+1594	Thân pháp	87	13725	2	1000	1000	460				
+1595	Thân pháp	87	13725	3	2500	1000	460				
+1596	Thân pháp	87	13725	4	1000	1000	460				
+1597	Thân pháp	87	13725	5	500	1000	460				
+1598	Linh hoạt	87	13726	2	1000	1000	460				
+1599	Linh hoạt	87	13726	3	2500	1000	460				
+1600	Linh hoạt	87	13726	4	1000	1000	460				
+1601	Linh hoạt	87	13726	5	500	1000	460				
+1602	Sát thương	88	13727	10	2000	1000	461				
+1603	Sát thương	88	13727	14	4000	1000	461				
+1604	Sát thương	88	13727	18	3500	1000	461				
+1605	Sát thương	88	13727	22	500	1000	461				
+1606	Sát thương gia tăng 	89	13728	4	2500	1000	462				
+1607	Sát thương gia tăng 	89	13728	6	4000	1000	462				
+1608	Sát thương gia tăng 	89	13728	8	2500	1000	462				
+1609	Sát thương gia tăng 	89	13728	10	1000	1000	462				
+1610	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính cố định (Cầm chuyên dùng)---------------------										
+1611	Thân pháp	90	13725	2	1000	1000	463				
+1612	Thân pháp	90	13725	3	2500	1000	463				
+1613	Thân pháp	90	13725	4	1000	1000	463				
+1614	Thân pháp	90	13725	5	500	1000	463				
+1615	Linh hoạt	90	13726	2	1000	1000	463				
+1616	Linh hoạt	90	13726	3	2500	1000	463				
+1617	Linh hoạt	90	13726	4	1000	1000	463				
+1618	Linh hoạt	90	13726	5	500	1000	463				
+1619	Nội kích %	91	13730	10	2000	1000	464				
+1620	Nội kích %	91	13730	12	4000	1000	464				
+1621	Nội kích %	91	13730	14	3500	1000	464				
+1622	Nội kích %	91	13730	16	500	1000	464				
+1623	Sát thương gia tăng 	92	13728	4	2500	1000	465				
+1624	Sát thương gia tăng 	92	13728	6	4000	1000	465				
+1625	Sát thương gia tăng 	92	13728	8	2500	1000	465				
+1626	Sát thương gia tăng 	92	13728	10	1000	1000	465				
+1627	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính cố định (Nội kích)---------------------										
+1628	Nội công 	93	13736	2	1500	1000	466				
+1629	Nội công 	93	13736	3	5500	1000	466				
+1630	Nội công 	93	13736	4	2500	1000	466				
+1631	Nội công 	93	13736	5	500	1000	466				
+1632	Nội kích %	94	13730	10	2000	1000	467				
+1633	Nội kích %	94	13730	12	4000	1000	467				
+1634	Nội kích %	94	13730	14	3500	1000	467				
+1635	Nội kích %	94	13730	16	500	1000	467				
+1636	Sát thương gia tăng 	95	13728	4	2500	1000	468				
+1637	Sát thương gia tăng 	95	13728	6	4000	1000	468				
+1638	Sát thương gia tăng 	95	13728	8	2500	1000	468				
+1639	Sát thương gia tăng 	95	13728	10	1000	1000	468				
+1640	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính cố định (Ngoại công)---------------------										
+1641	Sức mạnh	96	13731	2	1500	1000	469				
+1642	Sức mạnh	96	13731	3	5500	1000	469				
+1643	Sức mạnh	96	13731	4	2500	1000	469				
+1644	Sức mạnh	96	13731	5	500	1000	469				
+1645	Ngoại công	97	13732	10	2000	1000	470				
+1646	Ngoại công	97	13732	12	4000	1000	470				
+1647	Ngoại công	97	13732	14	3500	1000	470				
+1648	Ngoại công	97	13732	16	500	1000	470				
+1649	Sát thương gia tăng 	98	13728	4	2500	1000	471				
+1650	Sát thương gia tăng 	98	13728	6	4000	1000	471				
+1651	Sát thương gia tăng 	98	13728	8	2500	1000	471				
+1652	Sát thương gia tăng 	98	13728	10	1000	1000	471				
+1653	Chính thức-Trang bị Hào Hiệp-Nhẫn-Thuộc tính cố định (Nội kích)---------------------										
+1654	Điểm sinh lực	99	13721	3	3000	1000	472				
+1655	Điểm sinh lực	99	13721	5	4500	1000	472				
+1656	Điểm sinh lực	99	13721	7	2000	1000	472				
+1657	Điểm sinh lực	99	13721	9	500	1000	472				
+1658	Sát thương gia tăng 	100	13728	5	2500	1000	473				
+1659	Sát thương gia tăng 	100	13728	7	4000	1000	473				
+1660	Sát thương gia tăng 	100	13728	9	2500	1000	473				
+1661	Sát thương gia tăng 	100	13728	11	1000	1000	473				
+1662	Chính thức-Trang bị Hào Hiệp-Đầu-Thuộc tính ngẫu nhiên (Tấn công)---------------------										
+1663	Độc sát	101	13733	13	300	1000	474				
+1664	Độc sát	101	13733	16	400	1000	474				
+1665	Độc sát	101	13733	19	200	1000	474				
+1666	Cổ sát	101	13734	21	300	1000	474				
+1667	Cổ sát	101	13734	31	400	1000	474				
+1668	Cổ sát	101	13734	41	200	1000	474				
+1669	Sát thương	101	13727	6	300	1000	474				
+1670	Sát thương	101	13727	11	400	1000	474				
+1671	Sát thương	101	13727	16	200	1000	474				
+1672	Ngoại công %	101	13732	6	300	1000	475				
+1673	Ngoại công %	101	13732	8	300	1000	475				
+1674	Ngoại công %	101	13732	11	200	1000	475				
+1675	Nội kích %	101	13730	6	300	1000	475				
+1676	Nội kích %	101	13730	8	300	1000	475				
+1677	Nội kích %	101	13730	11	200	1000	475				
+1678	Nội công %	101	13735	1	200	1000	475				
+1679	Nội công %	101	13735	4	300	1000	475				
+1680	Nội công %	101	13735	6	200	1000	475				
+1681	Sức mạnh	101	13731	3	1000	1000	476				
+1682	Nội công 	101	13736	3	1000	1000	476				
+1683	Gân cốt	101	13737	3	1000	1000	476				
+1684	Thân pháp	101	13725	3	1000	1000	476				
+1685	Linh hoạt	101	13726	3	1000	1000	476				
+1686	Chính thức-Trang bị Hào Hiệp-Đầu-Thuộc tính ngẫu nhiên (Phòng thủ)---------------------										
+1687	Sinh mệnh %	102	13739	1	300	1000	477				
+1688	Sinh mệnh %	102	13739	2	500	1000	477				
+1689	Sinh mệnh %	102	13739	3	200	1000	477				
+1690	Ngoại phòng %	102	13740	1	200	1000	478				
+1691	Ngoại phòng %	102	13740	2	200	1000	478				
+1692	Ngoại phòng %	102	13740	3	100	1000	478				
+1693	Nội phòng %	102	13741	1	200	1000	478				
+1694	Nội phòng %	102	13741	2	200	1000	478				
+1695	Nội phòng %	102	13741	3	100	1000	478				
+1696	Nội ngoại phòng %	102	13742	1	200	1000	478				
+1697	Nội ngoại phòng %	102	13742	2	200	1000	478				
+1698	Nội ngoại phòng %	102	13742	3	100	1000	478				
+1699	Điểm hộ giáp ngoại phòng	102	13743	1	400	1000	478				
+1700	Điểm hộ giáp nội phòng	102	13744	1	400	1000	478				
+1701	Điểm hộ giáp nội ngoại phòng	102	13745	1	400	1000	478				
+1702	Điểm số triệt tiêu sát thương ngoại công	102	13746	1	500	1000	479				
+1703	Điểm số triệt tiêu sát thương nội công	102	13747	1	500	1000	479				
+1704	Điểm số triệt tiêu sát thương nội ngoại công	102	13748	1	500	1000	479				
+1705	Điểm số phản đòn sát thương ngoại công	102	13749	1	400	1000	480				
+1706	Điểm số phản đòn sát thương nội	102	13750	1	400	1000	480				
+1707	Điểm số phản đòn sát thương nội ngoại	102	13751	1	400	1000	480				
+1708	Phản đòn sát thương độc	102	13752	1	400	1000	481				
+1709	Độc sát giảm	102	13753	1	400	1000	482				
+1710	Kháng độc	102	13754	1	400	1000	483				
+1711	Tỷ lệ giảm thời gian độc	102	13471	1	400	1000	484				
+1712	Tăng né tránh	102	13765	1	1000	1000	485				
+1713	Chính xác	102	13775	1	1000	1000	486				
+1714	Chính thức-Trang bị Hào Hiệp-Đầu-Thuộc tính ngẫu nhiên (Khác)---------------------										
+1715	Né tránh tất cả trạng thái phụ	103	13756	1	300	1000	487				
+1716	"Khi bị tấn công, có tỷ lệ tăng né tránh 10 giây"	103	13757	1	600	1000	488				
+1717	"Khi bị tấn công, có tỷ lệ tăng tốc độ di chuyển 10 giây "	103	13758	1	600	1000	489				
+1718	Điểm sinh lực	103	13721	7	800	1000	490				
+1719	Điểm sinh lực	103	13721	11	800	1000	490				
+1720	Điểm sinh lực	103	13721	15	800	1000	490				
+1721	Tăng né tránh	103	13765	1	600	1000	491				
+1722	Phòng thủ bạo kích	103	13729	1	500	1000	492				
+1723	Chính thức-Trang bị Hào Hiệp-áo-Thuộc tính ngẫu nhiên (Cơ bản)---------------------										
+1724	Độc sát	104	13733	13	300	1000	493				
+1725	Độc sát	104	13733	16	400	1000	493				
+1726	Độc sát	104	13733	19	200	1000	493				
+1727	Cổ sát	104	13734	21	300	1000	493				
+1728	Cổ sát	104	13734	31	400	1000	493				
+1729	Cổ sát	104	13734	41	200	1000	493				
+1730	Sát thương	104	13727	6	300	1000	493				
+1731	Sát thương	104	13727	11	400	1000	493				
+1732	Sát thương	104	13727	16	200	1000	493				
+1733	Ngoại công %	104	13732	6	300	1000	494				
+1734	Ngoại công %	104	13732	8	300	1000	494				
+1735	Ngoại công %	104	13732	11	150	1000	494				
+1736	Ngoại công %	104	13732	16	50	1000	494				
+1737	Nội kích %	104	13730	6	300	1000	494				
+1738	Nội kích %	104	13730	8	300	1000	494				
+1739	Nội kích %	104	13730	11	150	1000	494				
+1740	Nội kích %	104	13730	16	50	1000	494				
+1741	Nội công %	104	13735	1	200	1000	494				
+1742	Nội công %	104	13735	4	300	1000	494				
+1743	Nội công %	104	13735	6	200	1000	494				
+1744	Sức mạnh	104	13731	3	1000	1000	495				
+1745	Nội công 	104	13736	3	1000	1000	495				
+1746	Gân cốt	104	13737	3	1000	1000	495				
+1747	Thân pháp	104	13725	3	1000	1000	495				
+1748	Linh hoạt	104	13726	3	1000	1000	495				
+1749	Chính thức-Trang bị Hào Hiệp-áo-Thuộc tính ngẫu nhiên (Phòng thủ)---------------------										
+1750	Sinh mệnh %	105	13739	1	300	1000	496				
+1751	Sinh mệnh %	105	13739	2	500	1000	496				
+1752	Sinh mệnh %	105	13739	3	200	1000	496				
+1753	Ngoại phòng %	105	13740	1	200	1000	497				
+1754	Ngoại phòng %	105	13740	2	200	1000	497				
+1755	Ngoại phòng %	105	13740	3	100	1000	497				
+1756	Nội phòng %	105	13741	1	200	1000	497				
+1757	Nội phòng %	105	13741	2	200	1000	497				
+1758	Nội phòng %	105	13741	3	100	1000	497				
+1759	Nội ngoại phòng %	105	13742	1	200	1000	497				
+1760	Nội ngoại phòng %	105	13742	2	200	1000	497				
+1761	Nội ngoại phòng %	105	13742	3	100	1000	497				
+1762	Điểm hộ giáp ngoại phòng	105	13743	1	400	1000	497				
+1763	Điểm hộ giáp nội phòng	105	13744	1	400	1000	497				
+1764	Điểm hộ giáp nội ngoại phòng	105	13745	1	400	1000	497				
+1765	Điểm số triệt tiêu sát thương ngoại công	105	13746	1	500	1000	498				
+1766	Điểm số triệt tiêu sát thương nội công	105	13747	1	500	1000	498				
+1767	Điểm số triệt tiêu sát thương nội ngoại công	105	13748	1	500	1000	498				
+1768	Điểm số phản đòn sát thương ngoại công	105	13749	1	400	1000	499				
+1769	Điểm số phản đòn sát thương nội	105	13750	1	400	1000	499				
+1770	Điểm số phản đòn sát thương nội ngoại	105	13751	1	400	1000	499				
+1771	Phản đòn sát thương độc	105	13752	1	400	1000	500				
+1772	Độc sát giảm	105	13753	1	400	1000	501				
+1773	Kháng độc	105	13754	1	400	1000	502				
+1774	Tỷ lệ giảm thời gian độc	105	13471	1	400	1000	503				
+1775	Tăng né tránh	105	13765	1	1000	1000	504				
+1776	Chính xác	105	13775	1	1000	1000	505				
+1777	Chính thức-Trang bị Hào Hiệp-áo-Thuộc tính ngẫu nhiên (Khác)---------------------										
+1778	Né tránh tất cả trạng thái phụ	106	13756	1	300	1000	506				
+1779	"Khi bị tấn công, có tỷ lệ tăng né tránh 10 giây"	106	13757	1	600	1000	507				
+1780	"Khi bị tấn công, có tỷ lệ tăng tốc độ di chuyển 10 giây "	106	13758	1	600	1000	508				
+1781	Điểm sinh lực	106	13721	7	800	1000	509				
+1782	Điểm sinh lực	106	13721	11	800	1000	509				
+1783	Điểm sinh lực	106	13721	15	800	1000	509				
+1784	Tăng né tránh	106	13765	1	600	1000	510				
+1785	Phòng thủ bạo kích	106	13729	1	500	1000	511				
+1786	Chính thức-Trang bị Hào Hiệp-Quần-Thuộc tính ngẫu nhiên (Tấn công)---------------------										
+1787	Độc sát	107	13733	13	300	1000	512				
+1788	Độc sát	107	13733	16	400	1000	512				
+1789	Độc sát	107	13733	19	200	1000	512				
+1790	Cổ sát	107	13734	21	300	1000	512				
+1791	Cổ sát	107	13734	31	400	1000	512				
+1792	Cổ sát	107	13734	41	200	1000	512				
+1793	Sát thương	107	13727	6	300	1000	512				
+1794	Sát thương	107	13727	11	400	1000	512				
+1795	Sát thương	107	13727	16	200	1000	512				
+1796	Ngoại công %	107	13732	6	300	1000	513				
+1797	Ngoại công %	107	13732	8	300	1000	513				
+1798	Ngoại công %	107	13732	11	150	1000	513				
+1799	Ngoại công %	107	13732	16	50	1000	513				
+1800	Nội kích %	107	13730	6	300	1000	513				
+1801	Nội kích %	107	13730	8	300	1000	513				
+1802	Nội kích %	107	13730	11	150	1000	513				
+1803	Nội kích %	107	13730	16	50	1000	513				
+1804	Nội công %	107	13735	1	200	1000	513				
+1805	Nội công %	107	13735	4	300	1000	513				
+1806	Nội công %	107	13735	6	200	1000	513				
+1807	Sức mạnh	107	13731	3	1000	1000	514				
+1808	Nội công 	107	13736	3	1000	1000	514				
+1809	Gân cốt	107	13737	3	1000	1000	514				
+1810	Thân pháp	107	13725	3	1000	1000	514				
+1811	Linh hoạt	107	13726	3	1000	1000	514				
+1812	Chính thức-Trang bị Hào Hiệp-Quần-Thuộc tính ngẫu nhiên (Phòng thủ)---------------------										
+1813	Sinh mệnh %	108	13739	1	300	1000	515				
+1814	Sinh mệnh %	108	13739	2	500	1000	515				
+1815	Sinh mệnh %	108	13739	3	200	1000	515				
+1816	Ngoại phòng %	108	13740	1	200	1000	516				
+1817	Ngoại phòng %	108	13740	2	200	1000	516				
+1818	Ngoại phòng %	108	13740	3	100	1000	516				
+1819	Nội phòng %	108	13741	1	200	1000	516				
+1820	Nội phòng %	108	13741	2	200	1000	516				
+1821	Nội phòng %	108	13741	3	100	1000	516				
+1822	Nội ngoại phòng %	108	13742	1	200	1000	516				
+1823	Nội ngoại phòng %	108	13742	2	200	1000	516				
+1824	Nội ngoại phòng %	108	13742	3	100	1000	516				
+1825	Điểm hộ giáp ngoại phòng	108	13743	1	400	1000	516				
+1826	Điểm hộ giáp nội phòng	108	13744	1	400	1000	516				
+1827	Điểm hộ giáp nội ngoại phòng	108	13745	1	400	1000	516				
+1828	Điểm số triệt tiêu sát thương ngoại công	108	13746	1	500	1000	517				
+1829	Điểm số triệt tiêu sát thương nội công	108	13747	1	500	1000	517				
+1830	Điểm số triệt tiêu sát thương nội ngoại công	108	13748	1	500	1000	517				
+1831	Điểm số phản đòn sát thương ngoại công	108	13749	1	400	1000	518				
+1832	Điểm số phản đòn sát thương nội	108	13750	1	400	1000	518				
+1833	Điểm số phản đòn sát thương nội ngoại	108	13751	1	400	1000	518				
+1834	Phản đòn sát thương độc	108	13752	1	400	1000	519				
+1835	Độc sát giảm	108	13753	1	400	1000	520				
+1836	Kháng độc	108	13754	1	400	1000	521				
+1837	Tỷ lệ giảm thời gian độc	108	13471	1	400	1000	522				
+1838	Tăng né tránh	108	13765	1	1000	1000	523				
+1839	Chính xác	108	13775	1	1000	1000	524				
+1840	Chính thức-Trang bị Hào Hiệp-Quần-Thuộc tính ngẫu nhiên (Khác)----------------------										
+1841	Né tránh tất cả trạng thái phụ	109	13756	1	300	1000	525				
+1842	"Khi bị tấn công, có tỷ lệ tăng né tránh 10 giây"	109	13757	1	600	1000	526				
+1843	"Khi bị tấn công, có tỷ lệ tăng tốc độ di chuyển 10 giây "	109	13758	1	600	1000	527				
+1844	Điểm sinh lực	109	13721	7	800	1000	528				
+1845	Điểm sinh lực	109	13721	11	800	1000	528				
+1846	Điểm sinh lực	109	13721	15	800	1000	528				
+1847	Tăng né tránh	109	13765	1	600	1000	529				
+1848	Phòng thủ bạo kích	109	13729	1	500	1000	530				
+1849	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính ngẫu nhiên (Tấn công)---------------------										
+1850	Sát thương	110	13727	14	600	1000	531				
+1851	Sát thương	110	13727	20	700	1000	531				
+1852	Sát thương	110	13727	26	300	1000	531				
+1853	Độc sát	110	13733	17	600	1000	531				
+1854	Độc sát	110	13733	21	700	1000	531				
+1855	Độc sát	110	13733	25	400	1000	531				
+1856	Cổ sát	110	13734	41	600	1000	531				
+1857	Cổ sát	110	13734	51	700	1000	531				
+1858	Cổ sát	110	13734	61	400	1000	531				
+1859	Ngoại công %	110	13732	6	600	1000	532				
+1860	Ngoại công %	110	13732	8	700	1000	532				
+1861	Ngoại công %	110	13732	11	400	1000	532				
+1862	Nội kích %	110	13730	6	600	1000	532				
+1863	Nội kích %	110	13730	8	700	1000	532				
+1864	Nội kích %	110	13730	11	400	1000	532				
+1865	Nội ngoại công %	110	13735	1	600	1000	532				
+1866	Nội ngoại công %	110	13735	2	700	1000	532				
+1867	Nội ngoại công %	110	13735	4	300	1000	532				
+1868	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính ngẫu nhiên (Phòng thủ)---------------------										
+1869	Sức mạnh	111	13731	1	1500	1000	533				
+1870	Nội công 	111	13736	1	1500	1000	533				
+1871	Gân cốt	111	13737	1	1500	1000	533				
+1872	Thân pháp	111	13725	1	1500	1000	533				
+1873	Linh hoạt	111	13726	1	1500	1000	533				
+1874	Đánh mạnh 	111	13755	3	1000	1000	534				
+1875	Đánh mạnh 	111	13755	4	1000	1000	534				
+1876	Đánh mạnh 	111	13755	5	500	1000	534				
+1877	Chính thức-Trang bị Hào Hiệp-Vũ khí-Thuộc tính ngẫu nhiên (Khác)---------------------										
+1878	Giảm tỷ lệ ngoại phòng của mục tiêu	112	13769	1	300	1000	535				
+1879	Giảm tỷ lệ ngoại phòng của mục tiêu	112	13769	5	300	1000	535				
+1880	Giảm tỷ lệ ngoại phòng của mục tiêu	112	13769	7	100	1000	535				
+1881	Giảm tỷ lệ nội phòng của mục tiêu	112	13770	1	300	1000	535				
+1882	Giảm tỷ lệ nội phòng của mục tiêu	112	13770	5	300	1000	535				
+1883	Giảm tỷ lệ nội phòng của mục tiêu	112	13770	7	100	1000	535				
+1884	Giảm tỷ lệ nội ngoại phòng của mục tiêu	112	13771	1	300	1000	535				
+1885	Giảm tỷ lệ nội ngoại phòng của mục tiêu	112	13771	3	300	1000	535				
+1886	Giảm tỷ lệ nội ngoại phòng của mục tiêu	112	13771	7	100	1000	535				
+1887	Giảm điểm hộ giáp ngoại của mục tiêu	112	13772	1	400	1000	535				
+1888	Giảm điểm hộ giáp nội của mục tiêu	112	13773	1	400	1000	535				
+1889	Giảm điểm hộ giáp nội ngoại của mục tiêu	112	13774	1	400	1000	535				
+1890	Hút sinh lực	112	14097	1	500	1000	536				
+1891	Chính xác	112	13775	10	500	1000	537				
+1892	Kháng tất cả	112	13723	1	300	1000	538				
+1893	Kháng tất cả	112	13723	6	500	1000	538				
+1894	Kháng tất cả	112	13723	11	200	1000	538				
+1895	Chính thức-Trang bị Hào Hiệp-Trang sức-Thuộc tính ngẫu nhiên (Tấn công)---------------------										
+1896	Độc sát	113	13733	1	500	1000	539				
+1897	Cổ sát	113	13734	1	500	1000	539				
+1898	Sát thương	113	13727	1	500	1000	539				
+1899	Ngoại công %	113	13732	1	500	1000	540				
+1900	Nội kích %	113	13730	1	500	1000	540				
+1901	Nội ngoại công %	113	13735	1	500	1000	540				
+1902	Hút sinh lực	113	14096	1	1000	1000	541				
+1903	Sức mạnh	113	13731	4	1200	1000	542				
+1904	Nội công 	113	13736	4	1200	1000	542				
+1905	Gân cốt	113	13737	4	1200	1000	542				
+1906	Thân pháp	113	13725	4	1200	1000	542				
+1907	Linh hoạt	113	13726	4	1200	1000	542				
+1908	Chính thức-Trang bị Hào Hiệp-Trang sức-Thuộc tính ngẫu nhiên (Phòng thủ)---------------------										
+1909	Sinh mệnh %	114	13739	1	700	1000	543				
+1910	Sinh mệnh %	114	13739	2	1000	1000	543				
+1911	Sinh mệnh %	114	13739	3	300	1000	543				
+1912	Ngoại phòng %	114	13740	1	500	1000	544				
+1913	Ngoại phòng %	114	13740	2	500	1000	544				
+1914	Ngoại phòng %	114	13740	3	200	1000	544				
+1915	Nội phòng %	114	13741	1	500	1000	544				
+1916	Nội phòng %	114	13741	2	500	1000	544				
+1917	Nội phòng %	114	13741	3	200	1000	544				
+1918	Nội ngoại phòng %	114	13742	1	400	1000	544				
+1919	Nội ngoại phòng %	114	13742	2	500	1000	544				
+1920	Nội ngoại phòng %	114	13742	3	200	1000	544				
+1921	Điểm hộ giáp ngoại phòng	114	13743	1	1500	1000	544				
+1922	Điểm hộ giáp nội phòng	114	13744	1	1500	1000	544				
+1923	Điểm hộ giáp nội ngoại phòng	114	13745	1	1500	1000	544				
+1924	Chính thức-Trang bị Hào Hiệp-Trang sức-Thuộc tính ngẫu nhiên (Khác)---------------------										
+1925	Sử dụng kỹ năng có tỷ lệ không có thời gian chờ	115	13759	1	400	1000	545				
+1926	Tỷ lệ xuất chiêu tăng	115	13760	1	300	1000	546				
+1927	Tỷ lệ xuất chiêu tăng	115	13760	2	100	1000	546				
+1928	Tỷ lệ xuất chiêu tăng	115	13760	3	100	1000	546				
+1929	Mật tịch cộng thêm tăng	115	13761	1	100	1000	547				
+1930	Mật tịch cộng thêm tăng	115	13761	2	30	1000	547				
+1931	Mật tịch cộng thêm tăng	115	13761	3	30	1000	547				
+1932	Mật tịch cộng thêm tăng	115	13761	4	25	1000	547				
+1933	Mật tịch cộng thêm tăng	115	13761	5	10	1000	547				
+1934	Mật tịch cộng thêm tăng	115	13761	6	5	1000	547				
+1935	Điểm thể lực	115	13762	3	400	1000	548				
+1936	Nội lực %	115	13763	1	400	1000	549				
+1937	Sát thương chuyển hóa thành nội lực 	115	13764	1	400	1000	550				
+1938	Tăng né tránh	115	13765	1	400	1000	551				
+1939	Sút ngắn động tác bị thương	115	13766	1	300	1000	552				
+1940	Sút ngắn động tác bị thương	115	13766	4	200	1000	552				
+1941	Dược hiệu kéo dài	115	13767	1	200	1000	553				
+1942	Dược hiệu kéo dài	115	13767	2	300	1000	553				
+1943	Dược hiệu kéo dài	115	13767	3	200	1000	553				
+1944	Giảm nội lực tiêu hao	115	13768	1	400	1000	554				
+1945	Đánh mạnh 	115	13755	1	200	1000	555				
+1946	Đánh mạnh 	115	13755	2	300	1000	555				
+1947	Đánh mạnh 	115	13755	3	200	1000	555				
+1948	5 sao   Trang bị Hiệp Cốt   Thuộc tính trưởng thành 1----------------------------------------------										
+1951	Động sát - Xanh lam	116	13792	1	3750	1000	556				
+1952	Thân pháp - Xanh lam	116	13793	1	3750	1000	557				
+1953	Động sát - Tím	116	13807	1	750	1000	556				
+1954	Thân pháp - Tím	116	13808	1	750	1000	557				
+1955	Động sát - Vàng	116	13822	1	500	1000	556				
+1956	Thân pháp - Vàng	116	13823	1	500	1000	557				
+1957	5 sao  Trang bị Hiệp Cốt  Thuộc tính trưởng thành 2----------------------------------------------										
+1963	Nội công - Xanh lam	117	13796	1	2250	1000	558				
+1964	Sức mạnh - Xanh lam	117	13794	1	1500	1000	559				
+1965	Căn cốt - Xanh lam	117	13795	1	1500	1000	560				
+1966	Tăng điểm sinh lực - Xanh lam	117	13797	1	1500	1000	561				
+1967	Tăng tỷ lệ điểm sinh lực - Xanh lam	117	13798	1	750	1000	562				
+1968	Nội công - Tím	117	13811	1	450	1000	558				
+1969	Sức mạnh - Tím	117	13809	1	300	1000	559				
+1970	Căn cốt - Tím	117	13810	1	300	1000	560				
+1971	Tăng điểm sinh lực - Tím	117	13812	1	300	1000	561				
+1972	Tăng tỷ lệ điểm sinh lực - Tím	117	13813	1	150	1000	562				
+1973	Nội công - Vàng	117	13826	1	300	1000	558				
+1974	Sức mạnh - Vàng	117	13824	1	200	1000	559				
+1975	Căn cốt - Vàng	117	13825	1	200	1000	560				
+1976	Tăng điểm sinh lực - Vàng	117	13827	1	200	1000	561				
+1977	Tăng tỷ lệ điểm sinh lực - Vàng	117	13828	1	100	1000	562				
+1978	5 sao trang bị Hiệp Cốt thuộc tính trưởng thành 3----------------------------------------------										
+1985	Bạo kích - Xanh lam	118	13799	1	750	1000	563				
+1987	Tăng điểm số ngoại công - Xanh lam	118	13801	1	2250	1000	565				
+1988	Tăng điểm số nội công - Xanh lam	118	13802	1	2250	1000	566				
+1989	Tăng điểm số nội ngoại - Xanh lam	118	13803	1	1500	1000	567				
+1990	Toàn thuộc tính - Xanh lam	118	13804	1	750	1000	568				
+1991	Bạo kích - Tím	118	13814	1	150	1000	563				
+1993	Tăng điểm số ngoại công - Tím	118	13816	1	450	1000	565				
+1994	Tăng điểm số nội công - Tím	118	13817	1	450	1000	566				
+1995	Tăng điểm số nội ngoại - Tím	118	13818	1	300	1000	567				
+1996	Toàn thuộc tính - Tím	118	13819	1	150	1000	568				
+1997	Bạo kích - Vàng	118	13829	1	100	1000	563				
+1999	Tăng điểm số ngoại công - Vàng	118	13831	1	300	1000	565				
+2000	Tăng điểm số nội công - Vàng	118	13832	1	300	1000	566				
+2001	Tăng điểm số nội ngoại - Vàng	118	13833	1	200	1000	567				
+2002	Toàn thuộc tính - Vàng	118	13834	1	100	1000	568				
+2003	5 sao Trang bị Hiệp Cốt Thuộc tính giải khóa 1----------------------------------------------										
+2010	Phòng bộc - Xanh lam	119	13898	1	2250	1000	569				
+2011	Giảm bộc - Xanh lam	119	13899	1	2250	1000	570				
+2012	Hộ giáp ngoại phòng - Xanh lam	119	13900	1	750	1000	571				
+2013	Hộ giáp nội phòng - Xanh lam	119	13901	1	750	1000	572				
+2014	Hộ giáp nội ngoại phòng - Xanh lam	119	13902	1	750	1000	573				
+2015	Điểm sinh lực- Xanh lam	119	13903	1	750	1000	574				
+2016	Phòng bộc - Tím	119	13932	1	450	1000	569				
+2017	Giảm bộc - Tím	119	13933	1	450	1000	570				
+2018	Hộ giáp ngoại phòng - Tím	119	13934	1	150	1000	571				
+2019	Hộ giáp nội phòng - Tím	119	13935	1	150	1000	572				
+2020	Hộ giáp nội ngoại phòng - Tím	119	13936	1	150	1000	573				
+2021	Điểm sinh lực - Tím	119	13937	1	150	1000	574				
+2022	Phòng bộc - Vàng	119	13966	1	300	1000	569				
+2023	Giảm bộc - Vàng	119	13967	1	300	1000	570				
+2024	Hộ giáp ngoại phòng - Vàng	119	13968	1	100	1000	571				
+2025	Hộ giáp nội phòng - Vàng	119	13969	1	100	1000	572				
+2026	Hộ giáp nội ngoại phòng - Vàng	119	13970	1	100	1000	573				
+2027	Điểm sinh lực - Vàng	119	13971	1	100	1000	574				
+2028	5 sao Trang bị Hiệp Cốt  Thuộc tính giải khóa 2----------------------------------------------										
+2031	Động sát - Xanh lam	120	13874	1	3750	1000	575				
+2032	Thân pháp - Xanh lam	120	13872	1	3750	1000	576				
+2033	Động sát - Tím	120	13908	1	750	1000	575				
+2034	Thân pháp - Tím	120	13906	1	750	1000	576				
+2035	Động sát - Vàng	120	13942	1	500	1000	575				
+2036	Thân pháp - Vàng	120	13940	1	500	1000	576				
+2037	5 sao Trang bị Hiệp Cốt  Thuộc tính giải khóa 3-1;2----------------------------------------------										
+2045	Tăng sát thương - Xanh lam	121	13876	1	2250	1000	579				
+2046	Công kích kèm độc - Xanh lam	121	13877	1	2250	1000	580				
+2047	Sát thương độc trùng - Xanh lam	121	13878	1	3000	1000	581				
+2050	Tăng sát thương - Tím	121	13910	1	450	1000	579				
+2051	Công kích kèm độc - Tím	121	13911	1	450	1000	580				
+2052	Sát thương độc trùng - Tím	121	13912	1	600	1000	581				
+2055	Tăng sát thương - Vàng	121	13944	1	300	1000	579				
+2056	Công kích kèm độc - Vàng	121	13945	1	300	1000	580				
+2057	Sát thương độc trùng - Vàng	121	13946	1	400	1000	581				
+2058	5 sao Trang bị Hiệp Cốt thuộc tính giải khóa 3-3----------------------------------------------										
+2064	Tốc độ chạy - Xanh lam	122	13891	1	3000	1000	582				
+2065	Phát huy Võ công- Xanh lam	122	13893	1	375	1000	583				
+2066	Giảm nửa chịu thương - Xanh lam	122	13894	1	1500	1000	584				
+2067	Xác suất chuẩn xác - Xanh lam	122	13895	1	1125	1000	585				
+2068	Toàn thuộc tính - Xanh lam	122	13896	1	1500	1000	586				
+2069	Tốc độ chạy -Tím	122	13925	1	600	1000	582				
+2070	Phát huy Võ công - Tím	122	13927	1	75	1000	583				
+2071	Giảm nửa chịu thương - Tím	122	13928	1	300	1000	584				
+2072	Xác suất chuẩn xác - Tím	122	13929	1	225	1000	585				
+2073	Toàn thuộc tính - Tím	122	13930	1	300	1000	586				
+2074	Tốc độ chạy - Vàng	122	13959	1	400	1000	582				
+2075	Phát huy Võ công - Vàng	122	13961	1	50	1000	583				
+2076	Giảm nửa chịu thương - Vàng	122	13962	1	200	1000	584				
+2077	Xác suất chuẩn xác - Vàng	122	13963	1	150	1000	585				
+2078	Toàn thuộc tính - Vàng	122	13964	1	200	1000	586				
+2079	5 sao Trang bị Qủy Phù Thuộc tính trưởng thành 1----------------------------------------------										
+2082	Sức mạnh - Xanh lam	123	13794	1	3750	1000	587				
+2083	Căn cốt - Xanh lam	123	13795	1	3750	1000	588				
+2084	Sức mạnh - Tím	123	13809	1	750	1000	587				
+2085	Căn cốt - Tím	123	13810	1	750	1000	588				
+2086	Sức mạnh - Vàng	123	13824	1	500	1000	587				
+2087	Căn cốt - Vàng	123	13825	1	500	1000	588				
+2088	5 sao Trang bị Qủy Phù Thuộc tính trưởng thành 2----------------------------------------------										
+2094	Nội công - Xanh lam	124	13796	1	2250	1000	589				
+2095	Thân pháp - Xanh lam	124	13793	1	1500	1000	590				
+2096	Động sát - Xanh lam	124	13792	1	1500	1000	591				
+2097	Điểm sinh lực- Xanh lam	124	13797	1	1500	1000	592				
+2098	Tỷ lệ điểm sinh lực - Xanh lam	124	13798	1	750	1000	593				
+2099	Nội công - Tím	124	13811	1	450	1000	589				
+2100	Thân pháp - Tím	124	13808	1	300	1000	590				
+2101	Động sát - Tím	124	13807	1	300	1000	591				
+2102	Điểm sinh lực - Tím	124	13812	1	300	1000	592				
+2103	Tỷ lệ điểm sinh lực -Tím 	124	13813	1	150	1000	593				
+2104	Nội công - Vàng	124	13826	1	300	1000	589				
+2105	Thân pháp - Vàng	124	13823	1	200	1000	590				
+2106	Động sát - Vàng	124	13822	1	200	1000	591				
+2107	Điểm sinh lực - Vàng	124	13827	1	200	1000	592				
+2108	Tỷ lệ điểm sinh lực - Vàng	124	13828	1	100	1000	593				
+2109	5 sao Trang bị Qủy Phù Thuộc tính trưởng thành 3----------------------------------------------										
+2116	Bạo kích - Xanh lam	125	13799	1	750	1000	594				
+2118	Điểm ngoại công - Xanh lam	125	13801	1	2250	1000	596				
+2119	Điểm nội công - Xanh lam	125	13802	1	2250	1000	597				
+2120	Điểm nội ngoại công - Xanh lam	125	13803	1	1500	1000	598				
+2121	Tăng điểm sinh lực - Xanh lam	125	13797	1	750	1000	599				
+2122	Bạo kích - Tím	125	13814	1	150	1000	594				
+2124	Điểm ngoại công -Tím	125	13816	1	450	1000	596				
+2125	Điểm nội công -Tím	125	13817	1	450	1000	597				
+2126	Điểm nội ngoại công - Tím	125	13818	1	300	1000	598				
+2127	Tăng điểm sinh lực - Tím	125	13812	1	150	1000	599				
+2128	Bạo kích - Vàng	125	13829	1	100	1000	594				
+2130	Điểm ngoại công - Vàng	125	13831	1	300	1000	596				
+2131	Điểm nội công - Vàng	125	13832	1	300	1000	597				
+2132	Điểm nội ngoại công - Vàng	125	13833	1	200	1000	598				
+2133	Tăng điểm sinh lực - Vàng	125	13827	1	100	1000	599				
+2134	5 sao Trang bị Qủy Phù Thuộc tính giải khóa 1----------------------------------------------										
+2141	Phòng bộc - Xanh lam	126	13898	1	2250	1000	600				
+2142	Giảm bộc - Xanh lam	126	13899	1	2250	1000	601				
+2143	Hộ giáp ngoại phòng - Xanh lam	126	13900	1	750	1000	602				
+2144	Hộ giáp nội phòng - Xanh lam	126	13901	1	750	1000	603				
+2145	Hộ giáp nội ngoại phòng - Xanh lam	126	13902	1	750	1000	604				
+2146	Điểm sinh lực- Xanh lam	126	13903	1	750	1000	605				
+2147	Phòng bộc - Tím	126	13932	1	450	1000	600				
+2148	Giảm bộc - Tím	126	13933	1	450	1000	601				
+2149	Hộ giáp ngoại phòng - Tím	126	13934	1	150	1000	602				
+2150	Hộ giáp nội phòng - Tím	126	13935	1	150	1000	603				
+2151	Hộ giáp nội ngoại phòng - Tím	126	13936	1	150	1000	604				
+2152	Điểm sinh lực - Tím	126	13937	1	150	1000	605				
+2153	Phòng bộc - Vàng	126	13966	1	300	1000	600				
+2154	Giảm bộc - Vàng	126	13967	1	300	1000	601				
+2155	Hộ giáp ngoại phòng - Vàng	126	13968	1	100	1000	602				
+2156	Hộ giáp nội phòng - Vàng	126	13969	1	100	1000	603				
+2157	Hộ giáp nội ngoại phòng - Vàng	126	13970	1	100	1000	604				
+2158	Điểm sinh lực - Vàng	126	13971	1	100	1000	605				
+2159	5 sao Trang bị Qủy Phù Thuộc tính giải khóa 2----------------------------------------------										
+2163	Sức mạnh - Xanh lam	127	13871	1	3000	1000	606				
+2164	Căn cốt - Xanh lam	127	13875	1	2250	1000	607				
+2165	Tăng tỷ lệ điểm sinh lực - Xanh lam	127	13897	1	2250	1000	608				
+2166	Sức mạnh - Tím	127	13905	1	600	1000	606				
+2167	Căn cốt - Tím	127	13909	1	450	1000	607				
+2168	Tăng tỷ lệ điểm sinh lực - Tím	127	13931	1	450	1000	608				
+2169	Sức mạnh - Vàng	127	13939	1	400	1000	606				
+2170	Căn cốt - Vàng	127	13943	1	300	1000	607				
+2171	Tăng tỷ lệ điểm sinh lực - Vàng	127	13965	1	300	1000	608				
+2172	5 sao Trang bị Qủy Phù Thuộc tính giải khóa 3-1;2----------------------------------------------										
+2181	Giới hạn cao nhất ngoại công vũ khí - Xanh lam	128	13881	1	2250	1000	611				
+2182	Giới hạn thấp nhất ngoại công vũ khí - Xanh lam	128	13882	1	2250	1000	612				
+2183	Tỷ lệ ngoại công - Xanh lam	128	13885	1	1500	1000	613				
+2184	Điểm tổng công kích ngoại công - Xanh lam	128	13883	1	1500	1000	614				
+2187	Giới hạn cao nhất ngoại công vũ khí - Tím	128	13915	1	450	1000	611				
+2188	Giới hạn thấp nhất ngoại công vũ khí - Tím	128	13916	1	450	1000	612				
+2189	Tỷ lệ ngoại công - Tím	128	13919	1	300	1000	613				
+2190	Điểm tổng công kích ngoại công - Tím	128	13917	1	300	1000	614				
+2193	Giới hạn cao nhất ngoại công vũ khí - vàng 	128	13949	1	300	1000	611				
+2194	Giới hạn thấp nhất ngoại công vũ khí - Vàng	128	13950	1	300	1000	612				
+2195	Tỷ lệ ngoại công - Vàng	128	13953	1	200	1000	613				
+2196	Điểm tổng công kích ngoại công - Vàng	128	13951	1	200	1000	614				
+2197	5 sao Trang bị Qủy Phù Thuộc tính giải khóa 3-3----------------------------------------------										
+2203	Tốc độ chạy - Xanh lam	129	13891	1	3000	1000	615				
+2204	Phát huy Võ công- Xanh lam	129	13893	1	750	1000	616				
+2205	Giảm nửa chịu thương - Xanh lam	129	13894	1	2625	1000	617				
+2206	Xác suất chuẩn xác - Xanh lam	129	13895	1	1125	1000	618				
+2208	Tốc độ chạy -Tím	129	13925	1	600	1000	615				
+2209	Phát huy Võ công - Tím	129	13927	1	150	1000	616				
+2210	Giảm nửa chịu thương - Tím	129	13928	1	525	1000	617				
+2211	Xác suất chuẩn xác - Tím	129	13929	1	225	1000	618				
+2213	Tốc độ chạy - Vàng	129	13959	1	400	1000	615				
+2214	Phát huy Võ công - Vàng	129	13961	1	100	1000	616				
+2215	Giảm nửa chịu thương - Vàng	129	13962	1	350	1000	617				
+2216	Xác suất chuẩn xác - Vàng	129	13963	1	150	1000	618				
+2218	5 sao Trang bị Đằng Vân Thuộc tính trưởng thành 1----------------------------------------------										
+2221	Nội công - Xanh lam	130	13796	1	3750	1000	620				
+2222	Căn cốt - Xanh lam	130	13795	1	3750	1000	621				
+2223	Nội công - Tím	130	13811	1	750	1000	620				
+2224	Căn cốt - Tím	130	13810	1	750	1000	621				
+2225	Nội công - Vàng	130	13826	1	500	1000	620				
+2226	Căn cốt - Vàng	130	13825	1	500	1000	621				
+2227	5 sao Trang bị Đằng Vân Thuộc tính trưởng thành 2----------------------------------------------										
+2233	Sức mạnh - Xanh lam	131	13794	1	2250	1000	622				
+2234	Thân pháp - Xanh lam	131	13793	1	1500	1000	623				
+2235	Động sát - Xanh lam	131	13792	1	1500	1000	624				
+2236	Điểm sinh lực- Xanh lam	131	13797	1	1500	1000	625				
+2237	Tỷ lệ điểm sinh lực - Xanh lam	131	13798	1	750	1000	626				
+2238	Sức mạnh - Tím	131	13809	1	450	1000	622				
+2239	Thân pháp - Tím	131	13808	1	300	1000	623				
+2240	Động sát - Tím	131	13807	1	300	1000	624				
+2241	Điểm sinh lực - Tím	131	13812	1	300	1000	625				
+2242	Tỷ lệ điểm sinh lực -Tím 	131	13813	1	150	1000	626				
+2243	Sức mạnh - Vàng	131	13824	1	300	1000	622				
+2244	Thân pháp - Vàng	131	13823	1	200	1000	623				
+2245	Động sát - Vàng	131	13822	1	200	1000	624				
+2246	Điểm sinh lực - Vàng	131	13827	1	200	1000	625				
+2247	Tỷ lệ điểm sinh lực - Vàng	131	13828	1	100	1000	626				
+2248	5 sao Trang bị Đằng Vân Thuộc tính trưởng thành 3----------------------------------------------										
+2255	Bạo kích - Xanh lam	132	13799	1	750	1000	627				
+2257	Điểm ngoại công - Xanh lam	132	13801	1	2250	1000	629				
+2258	Điểm nội công - Xanh lam	132	13802	1	2250	1000	630				
+2259	Điểm nội ngoại công - Xanh lam	132	13803	1	1500	1000	631				
+2260	Tăng điểm sinh lực - Xanh lam	132	13797	1	750	1000	632				
+2261	Bạo kích - Tím	132	13814	1	150	1000	627				
+2263	Điểm ngoại công -Tím	132	13816	1	450	1000	629				
+2264	Điểm nội công -Tím	132	13817	1	450	1000	630				
+2265	Điểm nội ngoại công - Tím	132	13818	1	300	1000	631				
+2266	Tăng điểm sinh lực - Tím	132	13812	1	150	1000	632				
+2267	Bạo kích - Vàng	132	13829	1	100	1000	627				
+2269	Điểm ngoại công - Vàng	132	13831	1	300	1000	629				
+2270	Điểm nội công - Vàng	132	13832	1	300	1000	630				
+2271	Điểm nội ngoại công - Vàng	132	13833	1	200	1000	631				
+2272	Tăng điểm sinh lực - Vàng	132	13827	1	100	1000	632				
+2273	5 sao trang bị Đằng Vân  thuộc tính giải khóa 1----------------------------------------------										
+2280	Phòng bộc - Xanh lam	133	13898	1	2250	1000	633				
+2281	Giảm bộc - Xanh lam	133	13899	1	2250	1000	634				
+2282	Hộ giáp ngoại phòng - Xanh lam	133	13900	1	750	1000	635				
+2283	Hộ giáp nội phòng - Xanh lam	133	13901	1	750	1000	636				
+2284	Hộ giáp nội ngoại phòng - Xanh lam	133	13902	1	750	1000	637				
+2285	Điểm sinh lực- Xanh lam	133	13903	1	750	1000	638				
+2286	Phòng bộc - Tím	133	13932	1	450	1000	633				
+2287	Giảm bộc - Tím	133	13933	1	450	1000	634				
+2288	Hộ giáp ngoại phòng - Tím	133	13934	1	150	1000	635				
+2289	Hộ giáp nội phòng - Tím	133	13935	1	150	1000	636				
+2290	Hộ giáp nội ngoại phòng - Tím	133	13936	1	150	1000	637				
+2291	Điểm sinh lực - Tím	133	13937	1	150	1000	638				
+2292	Phòng bộc - Vàng	133	13966	1	300	1000	633				
+2293	Giảm bộc - Vàng	133	13967	1	300	1000	634				
+2294	Hộ giáp ngoại phòng - Vàng	133	13968	1	100	1000	635				
+2295	Hộ giáp nội phòng - Vàng	133	13969	1	100	1000	636				
+2296	Hộ giáp nội ngoại phòng - Vàng	133	13970	1	100	1000	637				
+2297	Điểm sinh lực - Vàng	133	13971	1	100	1000	638				
+2298	5 sao trang bị Đằng Vân  thuộc tính giải khóa 2----------------------------------------------										
+2302	Nội công - Xanh lam	134	13873	1	3000	1000	639				
+2303	Thân pháp - Xanh lam	134	13872	1	2250	1000	640				
+2304	Động sát - Xanh lam	134	13874	1	2250	1000	641				
+2305	Nội công - Tím	134	13907	1	600	1000	639				
+2306	Thân pháp - Tím	134	13906	1	450	1000	640				
+2307	Động sát - Tím	134	13908	1	450	1000	641				
+2308	Nội công - Vàng	134	13941	1	400	1000	639				
+2309	Thân pháp - Vàng	134	13940	1	300	1000	640				
+2310	Động sát - Vàng	134	13942	1	300	1000	641				
+2311	5 sao trang bị Đằng Vân  thuộc tính giải khóa 3-1;2----------------------------------------------										
+2320	Giới hạn cao nhất nội công vũ khí- xanh lam	135	13879	1	2250	1000	644				
+2321	Giới hạn thấp nhất nội công vũ khí- xanh lam	135	13880	1	2250	1000	645				
+2322	Tỷ lệ nội công - Xanh lam	135	13886	1	1500	1000	646				
+2323	Điểm tổng công kích nội công - Xanh lam	135	13884	1	1500	1000	647				
+2326	Giới hạn cao nhất nội công vũ khí - Tím	135	13913	1	450	1000	644				
+2327	Giới hạn nội công vũ khí - Tím	135	13914	1	450	1000	645				
+2328	Tỷ lệ nội công- Tím	135	13920	1	300	1000	646				
+2329	Điểm tổng công kích nội công - Tím	135	13918	1	300	1000	647				
+2332	Giới hạn cao nhất nội công vũ khí - Vàng	135	13947	1	300	1000	644				
+2333	Giới hạn thấp nhất nội công vũ khí - Vàng	135	13948	1	300	1000	645				
+2334	Tỷ lệ nội công-vàng	135	13954	1	200	1000	646				
+2335	Điểm tổng công kích nội công- vàng	135	13952	1	200	1000	647				
+2336	5 sao Trang bị Đằng Vân Thuộc tính giải khóa 3-3----------------------------------------------										
+2342	Tốc độ chạy - Xanh lam	136	13891	1	2625	1000	648				
+2343	Phát huy Võ công- Xanh lam	136	13893	1	375	1000	649				
+2344	Giảm nửa chịu thương - Xanh lam	136	13894	1	2250	1000	650				
+2345	Xác suất chuẩn xác - Xanh lam	136	13895	1	750	1000	651				
+2346	Rút ngắn động tác bị thương- Xanh lam	136	13904	1	1500	1000	652				
+2347	Tốc độ chạy -Tím	136	13925	1	525	1000	648				
+2348	Phát huy Võ công - Tím	136	13927	1	75	1000	649				
+2349	Giảm nửa chịu thương - Tím	136	13928	1	450	1000	650				
+2350	Xác suất chuẩn xác - Tím	136	13929	1	150	1000	651				
+2351	Rút ngắn động tác bị thương- Tím	136	13938	1	300	1000	652				
+2352	Tốc độ chạy - Vàng	136	13959	1	350	1000	648				
+2353	Phát huy Võ công - Vàng	136	13961	1	50	1000	649				
+2354	Giảm nửa chịu thương - Vàng	136	13962	1	300	1000	650				
+2355	Xác suất chuẩn xác - Vàng	136	13963	1	100	1000	651				
+2356	Rút ngắn động tác bị thương- Vàng	136	13972	1	200	1000	652				
+2357	Tín vật bang hội Thuộc tính bang hội 1-------------------------------------------------										
+2358	Điểm số phá địch	137	13973	1	10000	2000					
+2359	Kháng tất cả	138	13974	1	10000	2000					
+2360	Điểm số công kích	139	13975	1	10000	2000					
+2361	Tín vật bang hội Thuộc tính cơ bản 2-------------------------------------------------										
+2362	Điểm số phá địch	140	13976	1	10000	2000					
+2363	Kháng tất cả	141	13977	1	10000	2000					
+2364	Điểm số công kích	142	13978	1	10000	2000					
+2365	Tín vật bang hội Thuộc tính cơ bản 3-------------------------------------------------										
+2366	Điểm số phá địch	143	13979	1	10000	2000					
+2367	Kháng tất cả	144	13980	1	10000	2000					
+2368	Điểm số công kích	145	13981	1	10000	2000					
+2369	Tín vật bang hội Thuộc tính cơ bản 4-------------------------------------------------										
+2370	Điểm số phá địch	146	13982	1	10000	2000					
+2371	Kháng tất cả	147	13983	1	10000	2000					
+2372	Điểm số công kích	148	13984	1	10000	2000					
+2373	Tín vật bang hội Thuộc tính cơ bản 5-------------------------------------------------										
+2374	Điểm số phá địch	149	13985	1	10000	2000					
+2375	Kháng tất cả	150	13986	1	10000	2000					
+2376	Điểm số công kích	151	13987	1	10000	2000					
+2377	Tín vật bang hội Thuộc tính cơ bản 6-------------------------------------------------										
+2378	Điểm số phá địch	152	13988	1	10000	2000					
+2379	Kháng tất cả	153	13989	1	10000	2000					
+2380	Điểm số công kích	154	13990	1	10000	2000					
+2381	Tín vật bang hội Thuộc tính cơ bản 7-------------------------------------------------										
+2382	Điểm số phá địch	155	13991	1	10000	2000					
+2383	Kháng tất cả	156	13992	1	10000	2000					
+2384	Điểm số công kích	157	13993	1	10000	2000					
+2385	Tín vật bang hội Thuộc tính cơ bản 8-------------------------------------------------										
+2386	Điểm số phá địch	158	13994	1	10000	2000					
+2387	Kháng tất cả	159	13995	1	10000	2000					
+2388	Điểm số công kích	160	13996	1	10000	2000					
+2389	Tín vật bang hội Thuộc tính cơ bản 9-------------------------------------------------										
+2390	Điểm số phá địch	161	13997	1	10000	2000					
+2391	Kháng tất cả	162	13998	1	10000	2000					
+2392	Điểm số công kích	163	13999	1	10000	2000					
+2393	Tín vật bang hội Thuộc tính cơ bản 10-------------------------------------------------										
+2394	Điểm số phá địch	164	14000	1	10000	2000					
+2395	Kháng tất cả	165	14001	1	10000	2000					
+2396	Điểm số công kích	166	14002	1	10000	2000					
+2397	Tín vật bang hội Thuộc tính cơ bản 11-------------------------------------------------										
+2398	Điểm số phá địch	167	14003	1	10000	2000					
+2399	Kháng tất cả	168	14004	1	10000	2000					
+2400	Điểm số công kích	169	14005	1	10000	2000					
+2401	Tín vật bang hội Thuộc tính cơ bản 12-------------------------------------------------										
+2402	Điểm số phá địch	170	14006	1	10000	2000					
+2403	Kháng tất cả	171	14007	1	10000	2000					
+2404	Điểm số công kích	172	14008	1	10000	2000					
+2405	Tín vật bang hội Thuộc tính cơ bản 13-------------------------------------------------										
+2406	Điểm số phá địch	173	14009	1	10000	2000					
+2407	Kháng tất cả	174	14010	1	10000	2000					
+2408	Điểm số công kích	175	14011	1	10000	2000					
+2409	Tín vật bang hội Thuộc tính cơ bản 14-------------------------------------------------										
+2410	Điểm số phá địch	176	14012	1	10000	2000					
+2411	Kháng tất cả	177	14013	1	10000	2000					
+2412	Điểm số công kích	178	14014	1	10000	2000					
+2413	Tín vật bang hội Thuộc tính cơ bản 15-------------------------------------------------										
+2414	Điểm số phá địch	179	14015	1	10000	2000					
+2415	Kháng tất cả	180	14016	1	10000	2000					
+2416	Điểm số công kích	181	14017	1	10000	2000					
+2417	Bộ Ẩm Huyết_Đầu 3 dòng trước trưởng thành---------------------------------------------------										
+2418	Điểm sinh lực	182	13573	12	10000	1000					
+2419	Giảm thương bạo kích	183	14192	2	10000	1000					
+2420	Xuất chiêu	184	14193	2	10000	1000					
+2421	Bộ Ẩm Huyết_Đầu 3 dòng sau mở khóa---------------------------------------------------										
+2422	Nội ngoại công %	185	14194	5	10000	1000					
+2423	Tỷ lệ nội ngoại phòng	186	644	4	10000	1000					
+2424	Phòng thủ bạo kích	187	14204	1	10000	1000					
+2425	Bộ Ẩm Huyết_y 3 dòng trước trưởng thành---------------------------------------------------										
+2426	Điểm sinh lực	188	13721	21	10000	1000					
+2427	Giảm thương bạo kích	189	14192	2	10000	1000					
+2428	Kháng tất cả	190	14195	4	10000	1000					
+2429	Bộ Ẩm Huyết_y 3 dòng sau mở khóa---------------------------------------------------										
+2430	Nội ngoại công %	191	14194	5	10000	1000					
+2431	Sinh mệnh %	192	843	6	10000	1000					
+2432	Phòng thủ bạo kích	193	14204	1	10000	1000					
+2433	Bộ Ẩm Huyết_Trang 3 dòng trước trưởng thành---------------------------------------------------										
+2434	Điểm sinh lực	194	13721	21	10000	1000					
+2435	Giảm thương bạo kích	195	14192	2	10000	1000					
+2436	Giảm thọ thương %	196	483	3	10000	1000					
+2437	Bộ Ẩm Huyết_Trang 3 dòng sau mở khóa---------------------------------------------------										
+2438	Nội ngoại công %	197	14194	5	10000	1000					
+2439	Nội ngoại phòng %	198	13758	1	10000	1000					
+2440	Phòng thủ bạo kích	199	14204	1	10000	1000					
+2441	Bộ Ẩm Huyết_Giới 3 dòng trước trưởng thành---------------------------------------------------										
+2442	Sinh lực	200	13721	15	10000	1000					
+2443	Bạo thương	201	14196	2	10000	1000					
+2444	Chính xác	202	13564	1	0	0					
+2445	Bộ Ẩm Huyết_Giới 3 dòng sau mở khóa---------------------------------------------------										
+2446	Đánh mạnh 	203	14197	1	10000	1000					
+2447	Nội ngoại công %	204	14194	1	10000	1000					
+2448	Mật tịch cộng thêm tăng %	205	14198	1	10000	1000					
+2449	Bộ Ẩm Huyết_Bội 3 dòng trước trưởng thành---------------------------------------------------										
+2450	Sinh lực	206	13721	15	10000	1000					
+2451	Bạo thương	207	14196	2	10000	1000					
+2452	Né tránh	208	13537	3	0	0					
+2453	Bộ Ẩm Huyết_Bội 3 dòng sau mở khóa---------------------------------------------------										
+2454	Dược hiệu kéo dài	209	13666	10	10000	1000					
+2455	Sinh mệnh %	210	843	5	10000	1000					
+2456	Tỷ lệ xuất chiêu %	211	14137	1	10000	1000					
+2457	"Bộ Ẩm Huyết_Vũ khí nội công, nội kích 3 dòng trước trưởng thành---------------------------------------------------"										
+2458	Nội công 	212	13347	4	10000	1000					
+2459	Tỷ lệ nội công	213	14199	3	10000	1000					
+2460	Bạo thương	214	14196	3	10000	1000					
+2461	"Bộ Ẩm Huyết_Vũ khí ngoại công, sức mạnh 3 dòng trước trưởng thành---------------------------------------------------"										
+2462	Sức mạnh	215	13345	4	10000	1000					
+2463	Tỷ lệ ngoại công	216	14201	3	10000	1000					
+2464	Bạo thương	217	14196	3	10000	1000					
+2465	"Bộ Ẩm Huyết_Vũ khí sát thương, sức mạnh 3 dòng trước trưởng thành---------------------------------------------------"										
+2466	Sức mạnh	218	13345	4	10000	1000					
+2467	Sát thương	219	14203	2	10000	1000					
+2468	Bạo thương	220	14196	3	10000	1000					
+2469	"Bộ Ẩm Huyết_Vũ khí đàn nội công, thân pháp 3 dòng trước trưởng thành---------------------------------------------------"										
+2470	Thân pháp	221	13346	4	10000	1000					
+2471	Tỷ lệ nội công	222	14199	3	10000	1000					
+2472	Bạo thương	223	14196	3	10000	1000					
+2473	Bộ Ẩm Huyết_Vũ khí sát thương linh hoạt 3 dòng trước trưởng thành---------------------------------------------------										
+2474	Linh hoạt	224	13348	4	10000	1000					
+2475	Sát thương	225	14203	2	10000	1000					
+2476	Bạo thương	226	14196	3	10000	1000					
+2477	vũ khí ẩm huyêt( nội công) 3 opt mở khóa sau---------------------------------------------------										
+2478	Giảm nội phòng %	227	14235	1	10000	1000					
+2479	Kháng tất cả	228	14195	1	10000	1000					
+2480	Đánh mạnh 	229	14197	4	10000	1000					
+2481	Bộ Ẩm Huyết_Vũ khí sát thương nội công 3 dòng trước trưởng thành---------------------------------------------------										
+2482	Nội công 	230	13347	4	10000	1000					
+2483	Sát thương	231	14203	2	10000	1000					
+2484	Bạo thương	232	14196	3	10000	1000					
+2485	tổ cố định Vô Song Chiến Thần										
+2486	Thi triển%	233	13342	4	10000	1000	117				
+2487	Dược hiệu kéo dài	234	13356	2	10000	1000	64				
+2488	Giảm thọ thương	235	13344	3	10000	1000	118				
+2489	Sinh mệnh %	236	13343	3	10000	1000	9				
+2490	tổ trưởng thành Vô Song Chiến Thần										
+2491	Nội công tăng /1% 	237	14219	2	2500	1000	20				
+2492	Ngoại công tăng: /1% 	237	14220	2	2500	1000	19				
+2493	Sát thương tăng /1	237	14221	1	2500	1000	16				
+2494	Sát thương độc	237	14222	2	2500	1000	17				
+2495	tổ mở khóa Vô Song Chiến Thần										
+2496	Sức mạnh	238	13345	8	2000	2000	54				
+2497	Thân pháp	238	13346	8	2000	2000	55				
+2498	Nội công 	238	13347	8	2000	2000	56				
+2499	Linh hoạt	238	13348	8	2000	2000	57				
+2500	Gân cốt	238	13349	8	2000	2000	58				
+2501	Bộ Ẩm Huyết_Vũ khí sát thương thân pháp 3 dòng trước trưởng thành---------------------------------------------------										
+2502	Thân pháp	242	13346	4	10000	1000					
+2503	Sát thương	243	14203	2	10000	1000					
+2504	Bạo thương	244	14196	3	10000	1000					
+2505	vũ khí ẩm huyêt( ngoại công) 4 opt mở khóa sau---------------------------------------------------										
+2506	Giảm ngoại phòng%	245	14236	1	10000	1000					
+2507	Kháng tất cả	246	14195	1	10000	1000					
+2508	Đánh mạnh 	247	14197	4	10000	1000					
+2509	Thuộc tính trưởng thành Hoan Linh 6 sao 1----------------------------------------------										
+2510	Động sát - Xanh lam	248	14291	1	3750	1000	556				
+2511	Thân pháp - Xanh lam	248	14292	1	3750	1000	557				
+2512	Động sát - Tím	248	14306	1	750	1000	556				
+2513	Thân pháp - Tím	248	14307	1	750	1000	557				
+2514	Động sát - Vàng	248	14238	1	500	1000	556				
+2515	Thân pháp - Vàng	248	14239	1	500	1000	557				
+2516	Thuộc tính trưởng thành Hoan Linh 6 sao 2----------------------------------------------										
+2517	Nội công - Xanh lam	249	14295	1	2250	1000	558				
+2518	Sức mạnh - Xanh lam	249	14293	1	1500	1000	559				
+2519	Căn cốt - Xanh lam	249	14294	1	1500	1000	560				
+2520	Tăng điểm sinh lực - Xanh lam	249	14296	1	1500	1000	561				
+2521	Tăng tỷ lệ điểm sinh lực - Xanh lam	249	14297	1	750	1000	562				
+2522	Nội công - Tím	249	14310	1	450	1000	558				
+2523	Sức mạnh - Tím	249	14308	1	300	1000	559				
+2524	Căn cốt - Tím	249	14309	1	300	1000	560				
+2525	Tăng điểm sinh lực - Tím	249	14311	1	300	1000	561				
+2526	Tăng tỷ lệ điểm sinh lực - Tím	249	14312	1	150	1000	562				
+2527	Nội công - Vàng	249	14242	1	300	1000	558				
+2528	Sức mạnh - Vàng	249	14240	1	200	1000	559				
+2529	Căn cốt - Vàng	249	14241	1	200	1000	560				
+2530	Tăng điểm sinh lực - Vàng	249	14243	1	200	1000	561				
+2531	Tăng tỷ lệ điểm sinh lực - Vàng	249	14244	1	100	1000	562				
+2532	Thuộc tính trưởng thành Hoan Linh 6 sao 3----------------------------------------------										
+2533	Bạo kích - Xanh lam	250	14298	1	750	1000	563				
+2534	Tăng điểm số ngoại công - Xanh lam	250	14300	1	2250	1000	565				
+2535	Tăng điểm số nội công - Xanh lam	250	14301	1	2250	1000	566				
+2536	Tăng điểm số nội ngoại - Xanh lam	250	14302	1	1500	1000	567				
+2537	Toàn thuộc tính - Xanh lam	250	14303	1	750	1000	568				
+2538	Bạo kích - Tím	250	14313	1	150	1000	563				
+2539	Tăng điểm số ngoại công - Tím	250	14315	1	450	1000	565				
+2540	Tăng điểm số nội công - Tím	250	14316	1	450	1000	566				
+2541	Tăng điểm số nội ngoại - Tím	250	14317	1	300	1000	567				
+2542	Toàn thuộc tính - Tím	250	14318	1	150	1000	568				
+2543	Bạo kích - Vàng	250	14245	1	100	1000	563				
+2544	Tăng điểm số ngoại công - Vàng	250	14247	1	300	1000	565				
+2545	Tăng điểm số nội công - Vàng	250	14248	1	300	1000	566				
+2546	Tăng điểm số nội ngoại - Vàng	250	14249	1	200	1000	567				
+2547	Toàn thuộc tính - Vàng	250	14250	1	100	1000	568				
+2548	Thuộc tính mở khóa Hoan Linh 6 sao 1----------------------------------------------										
+2549	Phòng bộc - Xanh lam	251	14348	1	2250	1000	569				
+2550	Giảm bộc - Xanh lam	251	14349	1	2250	1000	570				
+2551	Hộ giáp ngoại phòng - Xanh lam	251	14350	1	750	1000	571				
+2552	Hộ giáp nội phòng - Xanh lam	251	14351	1	750	1000	572				
+2553	Hộ giáp nội ngoại phòng - Xanh lam	251	14352	1	750	1000	573				
+2554	Điểm sinh lực- Xanh lam	251	14353	1	750	1000	574				
+2555	Phòng bộc - Tím	251	14382	1	450	1000	569				
+2556	Giảm bộc - Tím	251	14383	1	450	1000	570				
+2557	Hộ giáp ngoại phòng - Tím	251	14384	1	150	1000	571				
+2558	Hộ giáp nội phòng - Tím	251	14385	1	150	1000	572				
+2559	Hộ giáp nội ngoại phòng - Tím	251	14386	1	150	1000	573				
+2560	Điểm sinh lực - Tím	251	14387	1	150	1000	574				
+2561	Phòng bộc - Vàng	251	14280	1	300	1000	569				
+2562	Giảm bộc - Vàng	251	14281	1	300	1000	570				
+2563	Hộ giáp ngoại phòng - Vàng	251	14282	1	100	1000	571				
+2564	Hộ giáp nội phòng - Vàng	251	14283	1	100	1000	572				
+2565	Hộ giáp nội ngoại phòng - Vàng	251	14284	1	100	1000	573				
+2566	Điểm sinh lực - Vàng	251	14285	1	100	1000	574				
+2567	Thuộc tính mở khóa Hoan Linh 6 sao 2----------------------------------------------										
+2568	Động sát - Xanh lam	252	14324	1	3750	1000	575				
+2569	Thân pháp - Xanh lam	252	14322	1	3750	1000	576				
+2570	Động sát - Tím	252	14358	1	750	1000	575				
+2571	Thân pháp - Tím	252	14356	1	750	1000	576				
+2572	Động sát - Vàng	252	14256	1	500	1000	575				
+2573	Thân pháp - Vàng	252	14254	1	500	1000	576				
+2574	Thuộc tính mở khóa Hoan Linh 6 sao 3-1----------------------------------------------										
+2575	Tăng sát thương - Xanh lam	253	14326	1	2250	1000	579				
+2576	Công kích kèm độc - Xanh lam	253	14327	1	2250	1000	580				
+2577	Sát thương độc trùng - Xanh lam	253	14328	1	2625	1000	581				
+2578	Tỷ lệ kháng trạng thái bất thường-Lam	253	14237	1	375	1000	582				
+2579	Tăng sát thương - Tím	253	14360	1	450	1000	579				
+2580	Công kích kèm độc - Tím	253	14361	1	450	1000	580				
+2581	Sát thương độc trùng - Tím	253	14362	1	525	1000	581				
+2582	Tỷ lệ kháng trạng thái bất thường-Tím	253	14389	2	75	1000	582				
+2583	Tăng sát thương - Vàng	253	14258	1	300	1000	579				
+2584	Công kích kèm độc - Vàng	253	14259	1	300	1000	580				
+2585	Sát thương độc trùng - Vàng	253	14260	1	350	1000	581				
+2586	Tỷ lệ kháng trạng thái bất thường-Kim	253	14390	3	50	1000	582				
+2587	Thuộc tính mở khóa Hoan Linh 6 sao 3-2----------------------------------------------										
+2588	Tăng sát thương - Xanh lam	254	14326	1	2250	1000	583				
+2589	Công kích kèm độc - Xanh lam	254	14327	1	2250	1000	584				
+2590	Sát thương độc trùng - Xanh lam	254	14328	1	3000	1000	585				
+2591	Tăng sát thương - Tím	254	14360	1	450	1000	583				
+2592	Công kích kèm độc - Tím	254	14361	1	450	1000	584				
+2593	Sát thương độc trùng - Tím	254	14362	1	600	1000	585				
+2594	Tăng sát thương - Vàng	254	14258	1	300	1000	583				
+2595	Công kích kèm độc - Vàng	254	14259	1	300	1000	584				
+2596	Sát thương độc trùng - Vàng	254	14260	1	400	1000	585				
+2597	Thuộc tính mở khóa Hoan Linh 6 sao 3-3----------------------------------------------										
+2598	Tốc độ chạy - Xanh lam	255	14341	1	3000	1000	586				
+2599	Phát huy Võ công- Xanh lam	255	14343	1	375	1000	587				
+2600	Giảm nửa chịu thương - Xanh lam	255	14344	1	1500	1000	588				
+2601	Xác suất chuẩn xác - Xanh lam	255	14345	1	1125	1000	589				
+2602	Toàn thuộc tính - Xanh lam	255	14346	1	1500	1000	590				
+2603	Tốc độ chạy -Tím	255	14375	1	600	1000	586				
+2604	Phát huy Võ công - Tím	255	14377	1	75	1000	587				
+2605	Giảm nửa chịu thương - Tím	255	14276	1	300	1000	588				
+2606	Xác suất chuẩn xác - Tím	255	14379	1	225	1000	589				
+2607	Toàn thuộc tính - Tím	255	14380	1	300	1000	590				
+2608	Tốc độ chạy - Vàng	255	14273	1	400	1000	586				
+2609	Phát huy Võ công - Vàng	255	14275	1	50	1000	587				
+2610	Giảm nửa chịu thương - Vàng	255	14276	1	200	1000	588				
+2611	Xác suất chuẩn xác - Vàng	255	14277	1	150	1000	589				
+2612	Toàn thuộc tính - Vàng	255	14278	1	200	1000	590				
+2613	Thuộc tính trưởng thành Đằng Giao 6 sao 1----------------------------------------------										
+2614	Sức mạnh - Xanh lam	256	14293	1	3750	1000	591				
+2615	Căn cốt - Xanh lam	256	14294	1	3750	1000	592				
+2616	Sức mạnh - Tím	256	14308	1	750	1000	591				
+2617	Căn cốt - Tím	256	14309	1	750	1000	592				
+2618	Sức mạnh - Vàng	256	14240	1	500	1000	591				
+2619	Căn cốt - Vàng	256	14241	1	500	1000	592				
+2620	Thuộc tính trưởng thành Đằng Giao 6 sao 2----------------------------------------------										
+2621	Nội công - Xanh lam	257	14295	1	2250	1000	593				
+2622	Thân pháp - Xanh lam	257	14292	1	1500	1000	594				
+2623	Động sát - Xanh lam	257	14291	1	1500	1000	595				
+2624	Điểm sinh lực- Xanh lam	257	14296	1	1500	1000	596				
+2625	Tỷ lệ điểm sinh lực - Xanh lam	257	14297	1	750	1000	597				
+2626	Nội công - Tím	257	14310	1	450	1000	593				
+2627	Thân pháp - Tím	257	14307	1	300	1000	594				
+2628	Động sát - Tím	257	14306	1	300	1000	595				
+2629	Điểm sinh lực - Tím	257	14311	1	300	1000	596				
+2630	Tỷ lệ điểm sinh lực -Tím 	257	14312	1	150	1000	597				
+2631	Nội công - Vàng	257	14242	1	300	1000	593				
+2632	Thân pháp - Vàng	257	14239	1	200	1000	594				
+2633	Động sát - Vàng	257	14238	1	200	1000	595				
+2634	Điểm sinh lực - Vàng	257	14243	1	200	1000	596				
+2635	Tỷ lệ điểm sinh lực - Vàng	257	14244	1	100	1000	597				
+2636	Thuộc tính trưởng thành Đằng Giao 6 sao 3----------------------------------------------										
+2637	Bạo kích - Xanh lam	258	14298	1	750	1000	598				
+2638	Điểm ngoại công - Xanh lam	258	14300	1	2250	1000	599				
+2639	Điểm nội công - Xanh lam	258	14301	1	2250	1000	560				
+2640	Điểm nội ngoại công - Xanh lam	258	14302	1	1500	1000	561				
+2641	Tăng điểm sinh lực - Xanh lam	258	14296	1	750	1000	562				
+2642	Bạo kích - Tím	258	14313	1	150	1000	598				
+2643	Điểm ngoại công -Tím	258	14315	1	450	1000	599				
+2644	Điểm nội công -Tím	258	14316	1	450	1000	560				
+2645	Điểm nội ngoại công - Tím	258	14317	1	300	1000	561				
+2646	Tăng điểm sinh lực - Tím	258	14311	1	150	1000	562				
+2647	Bạo kích - Vàng	258	14245	1	100	1000	598				
+2648	Điểm ngoại công - Vàng	258	14247	1	300	1000	599				
+2649	Điểm nội công - Vàng	258	14248	1	300	1000	560				
+2650	Điểm nội ngoại công - Vàng	258	14249	1	200	1000	561				
+2651	Tăng điểm sinh lực - Vàng	258	14243	1	100	1000	562				
+2652	Thuộc tính mở khóa Đằng Giao 6 sao 1----------------------------------------------										
+2653	Phòng bộc - Xanh lam	259	14348	1	2250	1000	563				
+2654	Giảm bộc - Xanh lam	259	14349	1	2250	1000	564				
+2655	Hộ giáp ngoại phòng - Xanh lam	259	14350	1	750	1000	565				
+2656	Hộ giáp nội phòng - Xanh lam	259	14351	1	750	1000	566				
+2657	Hộ giáp nội ngoại phòng - Xanh lam	259	14352	1	750	1000	567				
+2658	Điểm sinh lực- Xanh lam	259	14353	1	750	1000	568				
+2659	Phòng bộc - Tím	259	14382	1	450	1000	563				
+2660	Giảm bộc - Tím	259	14383	1	450	1000	564				
+2661	Hộ giáp ngoại phòng - Tím	259	14384	1	150	1000	565				
+2662	Hộ giáp nội phòng - Tím	259	14385	1	150	1000	566				
+2663	Hộ giáp nội ngoại phòng - Tím	259	14386	1	150	1000	567				
+2664	Điểm sinh lực - Tím	259	14387	1	150	1000	568				
+2665	Phòng bộc - Vàng	259	14280	1	300	1000	563				
+2666	Giảm bộc - Vàng	259	14281	1	300	1000	564				
+2667	Hộ giáp ngoại phòng - Vàng	259	14282	1	100	1000	565				
+2668	Hộ giáp nội phòng - Vàng	259	14283	1	100	1000	566				
+2669	Hộ giáp nội ngoại phòng - Vàng	259	14284	1	100	1000	567				
+2670	Điểm sinh lực - Vàng	259	14285	1	100	1000	568				
+2671	Thuộc tính mở khóa Đằng Giao 6 sao 2----------------------------------------------										
+2672	Sức mạnh - Xanh lam	260	14321	1	3000	1000	569				
+2673	Căn cốt - Xanh lam	260	14325	1	2250	1000	570				
+2674	Tăng tỷ lệ điểm sinh lực - Xanh lam	260	14347	1	2250	1000	571				
+2675	Sức mạnh - Tím	260	14355	1	600	1000	569				
+2676	Căn cốt - Tím	260	14359	1	450	1000	570				
+2677	Tăng tỷ lệ điểm sinh lực - Tím	260	14381	1	450	1000	571				
+2678	Sức mạnh - Vàng	260	14253	1	400	1000	569				
+2679	Căn cốt - Vàng	260	14257	1	300	1000	570				
+2680	Tăng tỷ lệ điểm sinh lực - Vàng	260	14279	1	300	1000	571				
+2681	Thuộc tính mở khóa Đằng Giao 6 sao 3-1;2----------------------------------------------										
+2682	Giới hạn cao nhất ngoại công vũ khí - Xanh lam	261	14331	1	2250	1000	572				
+2683	Giới hạn thấp nhất ngoại công vũ khí - Xanh lam	261	14332	1	2250	1000	573				
+2684	Tỷ lệ ngoại công - Xanh lam	261	14335	1	1500	1000	574				
+2685	Điểm tổng công kích ngoại công - Xanh lam	261	14333	1	1500	1000	575				
+2686	Giới hạn cao nhất ngoại công vũ khí - Tím	261	14365	1	450	1000	572				
+2687	Giới hạn thấp nhất ngoại công vũ khí - Tím	261	14366	1	450	1000	573				
+2688	Tỷ lệ ngoại công - Tím	261	14369	1	300	1000	574				
+2689	Điểm tổng công kích ngoại công - Tím	261	14367	1	300	1000	575				
+2690	Giới hạn cao nhất ngoại công vũ khí - vàng 	261	14263	1	300	1000	572				
+2691	Giới hạn thấp nhất ngoại công vũ khí - Vàng	261	14264	1	300	1000	573				
+2692	Tỷ lệ ngoại công - Vàng	261	14267	1	200	1000	574				
+2693	Điểm tổng công kích ngoại công - Vàng	261	14265	1	200	1000	575				
+2694	Thuộc tính mở khóa Đằng Giao 6 sao 3-3----------------------------------------------										
+2695	Tốc độ chạy - Xanh lam	262	14341	1	3000	1000	576				
+2696	Phát huy Võ công- Xanh lam	262	14343	1	750	1000	577				
+2697	Giảm nửa chịu thương - Xanh lam	262	14344	1	2625	1000	578				
+2698	Xác suất chuẩn xác - Xanh lam	262	14345	1	1125	1000	579				
+2699	Tốc độ chạy -Tím	262	14375	1	600	1000	576				
+2700	Phát huy Võ công - Tím	262	14377	1	150	1000	577				
+2701	Giảm nửa chịu thương - Tím	262	14276	1	525	1000	578				
+2702	Xác suất chuẩn xác - Tím	262	14379	1	225	1000	579				
+2703	Tốc độ chạy - Vàng	262	14273	1	400	1000	576				
+2704	Phát huy Võ công - Vàng	262	14275	1	100	1000	577				
+2705	Giảm nửa chịu thương - Vàng	262	14276	1	350	1000	578				
+2706	Xác suất chuẩn xác - Vàng	262	14277	1	150	1000	579				
+2707	Thuộc tính trưởng thành Khởi Phượng 6 sao 1----------------------------------------------										
+2708	Nội công - Xanh lam	263	14295	1	3750	1000	580				
+2709	Căn cốt - Xanh lam	263	14294	1	3750	1000	581				
+2710	Nội công - Tím	263	14310	1	750	1000	580				
+2711	Căn cốt - Tím	263	14309	1	750	1000	581				
+2712	Nội công - Vàng	263	14242	1	500	1000	580				
+2713	Căn cốt - Vàng	263	14241	1	500	1000	581				
+2714	Thuộc tính trưởng thành Khởi Phượng 6 sao 2----------------------------------------------										
+2715	Sức mạnh - Xanh lam	264	14293	1	2250	1000	582				
+2716	Thân pháp - Xanh lam	264	14292	1	1500	1000	583				
+2717	Động sát - Xanh lam	264	14291	1	1500	1000	584				
+2718	Điểm sinh lực- Xanh lam	264	14296	1	1500	1000	585				
+2719	Tỷ lệ điểm sinh lực - Xanh lam	264	14297	1	750	1000	586				
+2720	Sức mạnh - Tím	264	14308	1	450	1000	582				
+2721	Thân pháp - Tím	264	14307	1	300	1000	583				
+2722	Động sát - Tím	264	14306	1	300	1000	584				
+2723	Điểm sinh lực - Tím	264	14311	1	300	1000	585				
+2724	Tỷ lệ điểm sinh lực -Tím 	264	14312	1	150	1000	586				
+2725	Sức mạnh - Vàng	264	14240	1	300	1000	582				
+2726	Thân pháp - Vàng	264	14239	1	200	1000	583				
+2727	Động sát - Vàng	264	14238	1	200	1000	584				
+2728	Điểm sinh lực - Vàng	264	14243	1	200	1000	585				
+2729	Tỷ lệ điểm sinh lực - Vàng	264	14244	1	100	1000	586				
+2730	Thuộc tính trưởng thành Khởi Phượng 6 sao 3----------------------------------------------										
+2731	Bạo kích - Xanh lam	265	14298	1	750	1000	587				
+2732	Điểm ngoại công - Xanh lam	265	14300	1	2250	1000	588				
+2733	Điểm nội công - Xanh lam	265	14301	1	2250	1000	589				
+2734	Điểm nội ngoại công - Xanh lam	265	14302	1	1500	1000	590				
+2735	Tăng điểm sinh lực - Xanh lam	265	14296	1	750	1000	591				
+2736	Bạo kích - Tím	265	14313	1	150	1000	587				
+2737	Điểm ngoại công -Tím	265	14315	1	450	1000	588				
+2738	Điểm nội công -Tím	265	14316	1	450	1000	589				
+2739	Điểm nội ngoại công - Tím	265	14317	1	300	1000	590				
+2740	Tăng điểm sinh lực - Tím	265	14311	1	150	1000	591				
+2741	Bạo kích - Vàng	265	14245	1	100	1000	587				
+2742	Điểm ngoại công - Vàng	265	14247	1	300	1000	588				
+2743	Điểm nội công - Vàng	265	14248	1	300	1000	589				
+2744	Điểm nội ngoại công - Vàng	265	14249	1	200	1000	590				
+2745	Tăng điểm sinh lực - Vàng	265	14243	1	100	1000	591				
+2746	Thuộc tính mở khóa Khởi Phượng 6 sao 1----------------------------------------------										
+2747	Phòng bộc - Xanh lam	266	14348	1	2250	1000	592				
+2748	Giảm bộc - Xanh lam	266	14349	1	2250	1000	593				
+2749	Hộ giáp ngoại phòng - Xanh lam	266	14350	1	750	1000	594				
+2750	Hộ giáp nội phòng - Xanh lam	266	14351	1	750	1000	595				
+2751	Hộ giáp nội ngoại phòng - Xanh lam	266	14352	1	750	1000	596				
+2752	Điểm sinh lực- Xanh lam	266	14353	1	750	1000	597				
+2753	Phòng bộc - Tím	266	14382	1	450	1000	592				
+2754	Giảm bộc - Tím	266	14383	1	450	1000	593				
+2755	Hộ giáp ngoại phòng - Tím	266	14384	1	150	1000	594				
+2756	Hộ giáp nội phòng - Tím	266	14385	1	150	1000	595				
+2757	Hộ giáp nội ngoại phòng - Tím	266	14386	1	150	1000	596				
+2758	Điểm sinh lực - Tím	266	14387	1	150	1000	597				
+2759	Phòng bộc - Vàng	266	14280	1	300	1000	592				
+2760	Giảm bộc - Vàng	266	14281	1	300	1000	593				
+2761	Hộ giáp ngoại phòng - Vàng	266	14282	1	100	1000	594				
+2762	Hộ giáp nội phòng - Vàng	266	14283	1	100	1000	595				
+2763	Hộ giáp nội ngoại phòng - Vàng	266	14284	1	100	1000	596				
+2764	Điểm sinh lực - Vàng	266	14285	1	100	1000	597				
+2765	Thuộc tính mở khóa Khởi Phượng 6 sao 2----------------------------------------------										
+2766	Nội công - Xanh lam	267	14323	1	3000	1000	598				
+2767	Thân pháp - Xanh lam	267	14322	1	2250	1000	599				
+2768	Động sát - Xanh lam	267	14324	1	2250	1000	600				
+2769	Nội công - Tím	267	14357	1	600	1000	598				
+2770	Thân pháp - Tím	267	14356	1	450	1000	599				
+2771	Động sát - Tím	267	14358	1	450	1000	600				
+2772	Nội công - Vàng	267	14255	1	400	1000	598				
+2773	Thân pháp - Vàng	267	14254	1	300	1000	599				
+2774	Động sát - Vàng	267	14256	1	300	1000	600				
+2775	Thuộc tính mở khóa Khởi Phượng 6 sao 3-1;2----------------------------------------------										
+2776	Giới hạn cao nhất nội công vũ khí- xanh lam	268	14329	1	2250	1000	601				
+2777	Giới hạn thấp nhất nội công vũ khí- xanh lam	268	14330	1	2250	1000	602				
+2778	Tỷ lệ nội công - Xanh lam	268	14336	1	1500	1000	603				
+2779	Điểm tổng công kích nội công - Xanh lam	268	14334	1	1500	1000	604				
+2780	Giới hạn cao nhất nội công vũ khí - Tím	268	14363	1	450	1000	601				
+2781	Giới hạn nội công vũ khí - Tím	268	14364	1	450	1000	602				
+2782	Tỷ lệ nội công- Tím	268	14370	1	300	1000	603				
+2783	Điểm tổng công kích nội công - Tím	268	14368	1	300	1000	604				
+2784	Giới hạn cao nhất nội công vũ khí - Vàng	268	14261	1	300	1000	601				
+2785	Giới hạn thấp nhất nội công vũ khí - Vàng	268	14262	1	300	1000	602				
+2786	Tỷ lệ nội công-vàng	268	14268	1	200	1000	603				
+2787	Điểm tổng công kích nội công- vàng	268	14266	1	200	1000	604				
+2788	Thuộc tính mở khóa Khởi Phượng 6 sao 3-3----------------------------------------------										
+2789	Tốc độ chạy - Xanh lam	269	14341	1	2625	1000	605				
+2790	Phát huy Võ công- Xanh lam	269	14343	1	375	1000	606				
+2791	Giảm nửa chịu thương - Xanh lam	269	14344	1	2250	1000	607				
+2792	Xác suất chuẩn xác - Xanh lam	269	14345	1	750	1000	608				
+2793	Rút ngắn động tác bị thương- Xanh lam	269	14354	1	1500	1000	609				
+2794	Tốc độ chạy -Tím	269	14375	1	525	1000	605				
+2795	Phát huy Võ công - Tím	269	14377	1	75	1000	606				
+2796	Giảm nửa chịu thương - Tím	269	14276	1	450	1000	607				
+2797	Xác suất chuẩn xác - Tím	269	14379	1	150	1000	608				
+2798	Rút ngắn động tác bị thương- Tím	269	14388	1	300	1000	609				
+2799	Tốc độ chạy - Vàng	269	14273	1	350	1000	605				
+2800	Phát huy Võ công - Vàng	269	14275	1	50	1000	606				
+2801	Giảm nửa chịu thương - Vàng	269	14276	1	300	1000	607				
+2802	Xác suất chuẩn xác - Vàng	269	14277	1	100	1000	608				
+2803	Rút ngắn động tác bị thương- Vàng	269	14286	1	200	1000	609				
+2804	Tín Vật Bang Hội-Thuộc Tính Cơ Bản 16-------------------------------------------------										
+2805	Điểm số phá địch	270	14550	1	10000	2000	610				
+2806	Kháng tất cả	271	14551	1	10000	2000	611				
+2807	Điểm số công kích	272	14552	1	10000	2000	612				
+2808	Tín Vật Bang Hội-Thuộc Tính Cơ Bản 17-------------------------------------------------										
+2809	Điểm số phá địch	273	14553	1	10000	2000	613				
+2810	Kháng tất cả	274	14554	1	10000	2000	614				
+2811	Điểm số công kích	275	14555	1	10000	2000	615				
+2812	Tín Vật Bang Hội-Thuộc Tính Cơ Bản 18-------------------------------------------------										
+2813	Điểm số phá địch	276	14556	1	10000	2000	616				
+2814	Kháng tất cả	277	14557	1	10000	2000	617				
+2815	Điểm số công kích	278	14558	1	10000	2000	618				
+2816	Tín Vật Bang Hội-Thuộc Tính Cơ Bản 19-------------------------------------------------										
+2817	Điểm số phá địch	279	14559	1	10000	2000	619				
+2818	Kháng tất cả	280	14560	1	10000	2000	620				
+2819	Điểm số công kích	281	14561	1	10000	2000	621				
+2820	Tín Vật Bang Hội-Thuộc Tính Cơ Bản 20-------------------------------------------------										
+2821	Điểm số phá địch	282	14562	1	10000	2000	622				
+2822	Kháng tất cả	283	14563	1	10000	2000	623				
+2823	Điểm số công kích	284	14564	1	10000	2000	624				
+2824	Thuộc tính Bộ Cửu Châu-Đầu -------------------------------------------------										
+2825	Thuộc Tính Cố Định	285	14565	1	10000	3000	625				
+2826	Thuộc tính Bộ Cửu Châu-Áo -------------------------------------------------										
+2827	Thuộc Tính Cố Định	286	14566	1	10000	3000	626				
+2828	Thuộc tính Bộ Cửu Châu-Quần -------------------------------------------------										
+2829	Thuộc Tính Cố Định	287	14567	1	10000	3000	627				
+2830	Thuộc tính Bộ Cửu Châu-Phòng Cụ-Dòng 1 tự chọn -------------------------------------------------										
+2831	Sát Thương Cổ	288	14568	1	10000	1000	628				
+2832	Sát thương	288	14569	1	10000	1000	629				
+2833	Ngoại công %	288	14570	1	10000	1000	630				
+2834	Nội kích %	288	14571	1	10000	1000	631				
+2835	Sức mạnh	288	14572	1	10000	1000	632				
+2836	Nội lực 	288	14573	1	10000	1000	633				
+2837	Gân cốt	288	14574	1	10000	1000	634				
+2838	Thân pháp	288	14575	1	10000	1000	635				
+2839	Linh hoạt	288	14576	1	10000	1000	636				
+2840	Thuộc tính Bộ Cửu Châu-Dòng 2 tự chọn -------------------------------------------------										
+2841	Sinh mệnh %	289	14577	1	10000	1000	637				
+2842	Nội lực %	289	14578	1	10000	1000	638				
+2843	Ngoại Phòng (%)	289	14579	1	10000	1000	639				
+2844	Nội Phòng (%)	289	14580	1	10000	1000	640				
+2845	Nội Ngoại Phòng (%)	289	14581	1	10000	1000	641				
+2846	Ngoại Phòng (Điểm)	289	14582	1	10000	1000	642				
+2847	Điểm Nội Phòng	289	14583	1	10000	1000	643				
+2848	Nội Ngoại Phòng (Điểm)	289	14584	1	10000	1000	644				
+2849	Thuộc tính Bộ Cửu Châu-Dòng 3 tự chọn -------------------------------------------------										
+2850	Né tránh tất cả trạng thái phụ	290	14585	1	10000	1000	645				
+2851	Khi bị tấn công sẽ tăng di chuyển bản thân	290	14586	1	10000	1000	646				
+2852	Điểm sinh lực	290	14587	1	10000	1000	647				
+2853	Phòng thủ bạo kích	290	14588	1	10000	1000	648				
+2854	Thuộc tính Bộ Cửu Châu-Trang Sức -------------------------------------------------										
+2855	Thuộc Tính Cố Định	309	14589	1	10000	3000	649				
+2856	Thuộc tính Bộ Cửu Châu-Trang Sức-Dòng 1 tự chọn -------------------------------------------------										
+2857	Sát Thương Cổ	310	14591	1	10000	1000	650				
+2858	Sát thương	310	14592	1	10000	1000	651				
+2859	Nội Ngoại Công	310	14593	1	10000	1000	652				
+2860	Sức mạnh	310	14594	1	10000	1000	653				
+2861	Nội lực 	310	14595	1	10000	1000	654				
+2862	Gân cốt	310	14596	1	10000	1000	655				
+2863	Thân pháp	310	14597	1	10000	1000	656				
+2864	Linh hoạt	310	14598	1	10000	1000	657				
+2865	Thuộc tính Bộ Cửu Châu-Trang Sức-Dòng 2 tự chọn -------------------------------------------------										
+2866	Sinh mệnh %	311	14599	1	10000	1000	658				
+2867	Nội lực %	311	14600	1	10000	1000	659				
+2868	Ngoại Phòng (%)	311	14601	1	10000	1000	660				
+2869	Nội Phòng (%)	311	14602	1	10000	1000	661				
+2870	Nội Ngoại Phòng (%)	311	14603	1	10000	1000	662				
+2871	Ngoại Phòng (Điểm)	311	14604	1	10000	1000	663				
+2872	Điểm Nội Phòng	311	14605	1	10000	1000	664				
+2873	Nội Ngoại Phòng (Điểm)	311	14606	1	10000	1000	665				
+2874	Thuộc tính Bộ Cửu Châu-Trang Sức-Dòng 3 tự chọn -------------------------------------------------										
+2875	Dùng kỹ năng có xác suất không cần chờ	312	496	1	10000	1000	666				
+2876	Tỷ lệ xuất chiêu %	312	14607	1	10000	1000	667				
+2877	Mật tịch cộng thêm tăng	312	14608	1	10000	1000	668				
+2878	ST Thành NL	312	14609	1	10000	1000	669				
+2879	Thọ thương giảm	312	14610	1	10000	1000	670				
+2880	Dược hiệu kéo dài	312	14635	1	10000	1000	671				
+2881	Kỹ năng giảm hao nội lực	312	14611	1	10000	1000	672				
+2882	Điểm Bạo Kích	312	14612	1	10000	1000	673				
+2883	Vũ Khí Bộ Cửu Châu-Tự Chọn-Nội Công -------------------------------------------------										
+2884	Nội Công	313	14614	1	10000	2000	674				
+2885	Vũ Khí Bộ Cửu Châu-Tự Chọn-Đàn -------------------------------------------------										
+2886	Thân pháp	314	14615	1	10000	2000	675				
+2887	Linh hoạt	314	14616	1	10000	2000	676				
+2888	Vũ Khí Bộ Cửu Châu-Tự Chọn-Ngoại Công -------------------------------------------------										
+2889	Ngoại Công	315	14617	1	10000	2000	677				
+2890	Vũ Khí Bộ Cửu Châu-Tự Chọn-Sát Thương -------------------------------------------------										
+2891	Thân pháp	316	14618	1	10000	2000	678				
+2892	Linh hoạt	316	14619	1	10000	2000	679				
+2893	Vũ Khí Bộ Cửu Châu-Cố Định -------------------------------------------------										
+2894	Bạo thương	317	14613	1	10000	1000	680				
+2895	Vũ Khí Bộ Cửu Châu-Tự Chọn-Thông Dụng 1 -------------------------------------------------										
+2896	Sức mạnh	318	14620	1	10000	1000	681				
+2897	Nội lực 	318	14621	1	10000	1000	682				
+2898	Gân cốt	318	14622	1	10000	1000	683				
+2899	Thân pháp	318	14623	1	10000	1000	684				
+2900	Linh hoạt	318	14624	1	10000	1000	685				
+2901	Kháng tất cả	318	14625	1	10000	1000	686				
+2902	Vũ Khí Bộ Cửu Châu-Tự Chọn-Thông Dụng 2 -------------------------------------------------										
+2903	Cổ Độc	319	14626	1	10000	1000	687				
+2904	Sát thương	319	14627	1	10000	1000	688				
+2905	Điểm Bạo Kích	319	14628	1	10000	1000	689				
+2906	Vũ Khí Bộ Cửu Châu-Tự Chọn-Thông Dụng 3 -------------------------------------------------										
+2907	Giảm Ngoại Phòng (%)	320	14629	1	10000	1000	690				
+2908	Giảm Nội Phòng (%)	320	14630	1	10000	1000	691				
+2909	Giảm Nội Ngoại Phòng (%)	320	14631	1	10000	1000	692				
+2910	Giảm Ngoại Phòng (Điểm)	320	14632	1	10000	1000	693				
+2911	Giảm Nội Phòng (Điểm)	320	14633	1	10000	1000	694				
+2912	Giảm Nội Ngoại Phòng (Điểm)	320	14634	1	10000	1000	695				
+3000	Bộ Thông Thiên_Đầu 3 dòng trước trưởng thành---------------------------------------------------										
+3001	Điểm sinh lực	340	13573	15	10000	1000					
+3002	Giảm thương bạo kích	341	14192	4	10000	1000					
+3003	Xuất chiêu	342	13342	3	10000	1000					
+3004	Bộ Thông Thiên_Đầu 3 dòng sau mở khóa---------------------------------------------------										
+3005	Nội ngoại công %	343	14194	6	10000	1000					
+3006	Tỷ lệ nội ngoại phòng	344	644	4	10000	1000					
+3007	Phòng thủ bạo kích	345	14204	2	10000	1000					
+3008	Bộ Thông Thiên_y 3 dòng trước trưởng thành---------------------------------------------------										
+3009	Điểm sinh lực	346	13721	25	10000	1000					
+3010	Giảm thương bạo kích	347	14192	4	10000	1000					
+3011	Kháng tất cả	348	14195	4	10000	1000					
+3012	Bộ Thông Thiên_y 3 dòng sau mở khóa---------------------------------------------------										
+3013	Nội ngoại công %	349	14194	6	10000	1000					
+3014	Sinh mệnh %	350	843	6	10000	1000					
+3015	Phòng thủ bạo kích	351	14204	2	10000	1000					
+3016	Bộ Thông Thiên_Trang 3 dòng trước trưởng thành---------------------------------------------------										
+3017	Điểm sinh lực	352	13721	25	10000	1000					
+3018	Giảm thương bạo kích	353	14192	4	10000	1000					
+3019	Giảm thọ thương %	354	483	3	10000	1000					
+3020	Bộ Thông Thiên_Trang 3 dòng sau mở khóa---------------------------------------------------										
+3021	Nội ngoại công %	355	14194	6	10000	1000					
+3022	Nội ngoại phòng %	356	13758	1	10000	1000					
+3023	Phòng thủ bạo kích	357	14204	2	10000	1000					
+3024	Bộ Thông Thiên_Giới 3 dòng trước trưởng thành---------------------------------------------------										
+3025	Sinh lực	358	13721	17	10000	1000					
+3026	Bạo thương	359	14196	3	10000	1000					
+3027	Chính xác	360	13564	2	0	0					
+3028	Bộ Thông Thiên_Giới 3 dòng sau mở khóa---------------------------------------------------										
+3029	Đánh mạnh 	361	14197	2	10000	1000					
+3030	Nội ngoại công %	362	14194	2	10000	1000					
+3031	Mật tịch cộng thêm tăng %	363	14198	2	10000	1000					
+3032	Bộ Thông Thiên_Bội 3 dòng trước trưởng thành---------------------------------------------------										
+3033	Sinh lực	364	13721	17	10000	1000					
+3034	Bạo thương	365	14196	3	10000	1000					
+3035	Né tránh	366	13537	3	0	0					
+3036	Bộ Thông Thiên_Bội 3 dòng sau mở khóa---------------------------------------------------										
+3037	Dược hiệu kéo dài	367	13767	3	10000	1000					
+3038	Sinh mệnh %	368	843	6	10000	1000					
+3039	Tỷ lệ xuất chiêu %	369	14137	2	10000	1000					
+3040	Bộ Thông Thiên_Vũ khí nội công, nội kích 3 dòng trước trưởng thành---------------------------------------------------										
+3041	Nội công 	370	13347	5	10000	1000					
+3042	Tỷ lệ nội công	371	14199	4	10000	1000					
+3043	Bạo thương	372	14196	4	10000	1000					
+3044	Bộ Thông Thiên_Vũ khí ngoại công, sức mạnh 3 dòng trước trưởng thành---------------------------------------------------										
+3045	Sức mạnh	373	13345	5	10000	1000					
+3046	Tỷ lệ ngoại công	374	14201	4	10000	1000					
+3047	Bạo thương	375	14196	4	10000	1000					
+3048	Bộ Thông Thiên_Vũ khí sát thương, sức mạnh 3 dòng trước trưởng thành---------------------------------------------------										
+3049	Sức mạnh	376	13345	5	10000	1000					
+3050	Sát thương	377	14203	3	10000	1000					
+3051	Bạo thương	378	14196	2	10000	1000					
+3052	Bộ Thông Thiên_Vũ khí đàn nội công, thân pháp 3 dòng trước trưởng thành---------------------------------------------------										
+3053	Thân pháp	379	13346	5	10000	1000					
+3054	Tỷ lệ nội công	380	14199	4	10000	1000					
+3055	Bạo thương	381	14196	4	10000	1000					
+3056	Bộ Thông Thiên_Vũ khí sát thương linh hoạt 3 dòng trước trưởng thành---------------------------------------------------										
+3057	Linh hoạt	382	13348	5	10000	1000					
+3058	Sát thương	383	14203	3	10000	1000					
+3059	Bạo thương	384	14196	4	10000	1000					
+3060	vũ khí Thông Thiên( nội công) 3 opt mở khóa sau---------------------------------------------------										
+3061	Giảm nội phòng %	385	14235	3	10000	1000					
+3062	Phá Địch	386	14217	1	10000	1000					
+3063	Đánh mạnh 	387	14197	5	10000	1000					
+3064	Bộ Thông Thiên_Vũ khí sát thương thân pháp 3 dòng trước trưởng thành---------------------------------------------------										
+3065	Thân pháp	388	13346	5	10000	1000					
+3066	Sát thương	389	14203	3	10000	1000					
+3067	Bạo thương	390	14196	4	10000	1000					
+3068	vũ khí Thông Thiên( ngoại công) 4 opt mở khóa sau---------------------------------------------------										
+3069	Giảm ngoại phòng%	391	14236	3	10000	1000					
+3070	Phá Địch	392	14217	1	10000	1000					
+3071	Đánh mạnh 	393	14197	5	10000	1000					
+3072	tổ cố định Hắc Bạch Vô Song										
+3073	Thi triển%	394	13342	5	10000	1000	117				
+3074	Dược hiệu kéo dài	395	13356	3	10000	1000	64				
+3075	Giảm thọ thương	396	13344	4	10000	1000	118				
+3076	Sinh mệnh %	397	13343	4	10000	1000	9				
+3077	tổ trưởng thành Hắc Bạch Vô Song										
+3078	Nội công tăng /1% 	398	14219	4	2500	1000	20				
+3079	Ngoại công tăng: /1% 	398	14220	4	2500	1000	19				
+3080	Sát thương tăng /1	398	14221	3	2500	1000	16				
+3081	Sát thương độc	398	14222	3	2500	1000	17				
+3082	tổ mở khóa Hắc Bạch Vô Song										
+3083	Sức mạnh	399	13345	11	2000	2000	54				
+3084	Thân pháp	399	13346	11	2000	2000	55				
+3085	Nội công 	399	13347	11	2000	2000	56				
+3086	Linh hoạt	399	13348	11	2000	2000	57				
+3087	Gân cốt	399	13349	11	2000	2000	58				

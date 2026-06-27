@@ -1,0 +1,74 @@
+--ÌìÒõ¾«Á¦Ïä
+--ÏûºÄ20µã¾«Á¦´ò¿ª£¬´ò¿ªºó²»ÏûÊ§£¬Ã¿ÈËÃ¿¹Ø¿ÉÒÔ¿ªÆôÒ»´Î
+Include("\\script\\lib\\globalfunctions.lua")
+Include("\\script\\missions\\dixuangong\\mission_head.lua")
+Include("\\settings\\static_script\\vip_feedback_system\\yinjuan_api.lua")
+--Sù KiÖn
+Include("\\settings\\static_script\\cheat\\event_init.lua");
+
+function main()
+	Say("Ng­¬i x¸c ®Þnh tiªu hao 20 ®iÓm Tinh Lùc ®Ó më B¶o R­¬ng Thiªn ¢m Tinh Lùc kh«ng?", 2, "X¸c ®Þnh më/ensure_openBox", "T¹i h¹ chØ xem qua th«i/do_nothing");
+end
+
+tJingLiAward = {
+	{1, 600, "M¶nh Thiªn M«n", {2, 1, 30410, 5}, 0},
+	{1,10,"Thiªn M«n Kim LÖnh", {2,1,30370,1}, 0},
+		{1, 200, "ThiÕt Tinh cÊp 3", {2, 1, 30535, 1, 4}, 0},
+		{1, 25, "Thiªn Th¹ch Tinh Th¹ch", {2, 1, 1009, 1, 4}, 0, 0, 0, 1},
+	
+}
+function ensure_openBox()
+	local nTeamIndex = MV_IS_OPENED_BOX_BEGIN + getIndexAtTeam();
+	if GetMissionV(nTeamIndex) ~= 0 then
+		Say("Ng­¬i ®· më B¶o R­¬ng Thiªn ¢m Tinh Lùc råi, kh«ng thÓ më l¹i", 0);
+		return 0;
+	end
+	if GetFreeItemRoom() < 1 then
+		Talk(1,"","Kh«ng gian hµnh trang kh«ng ®ñ");
+		return 0
+	end
+	local nRet1, nRet2 = ModifyEnergy(-20, 1);
+	if -1 ~= nRet1 then
+		local nRandIndex = gf_EventGiveRandAward(tJingLiAward, gf_SumRandBase(tJingLiAward), 1, "§Þa HuyÒn Cung", "Më R­¬ng §Þa HuyÒn Cung Thiªn ¢m Tinh Lùc");
+		SetMissionV(nTeamIndex, 1);
+		--¾«Á¦±¦Ïä¿ªÆô´ÎÊýÍ³¼Æ
+		AddRuntimeStat(1,10,0,1);
+		--Í³¼ÆµÀ¾ß
+		if tJingLiAward[nRandIndex] then
+			if tJingLiAward[nRandIndex][3] == "CÊp 3 LuyÖn L« ThiÕt" then
+				AddRuntimeStat(1,16,0,tJingLiAward[nRandIndex][4][4]);
+			elseif tJingLiAward[nRandIndex][3] == "CÊp 3 TÈy T©m Th¹ch" then
+				AddRuntimeStat(1,17,0,tJingLiAward[nRandIndex][4][4]);
+			elseif tJingLiAward[nRandIndex][3] == "BÝ Ng©n To¶n" then
+				AddRuntimeStat(1,18,0,tJingLiAward[nRandIndex][4][4]);
+			elseif tJingLiAward[nRandIndex][3] == "BÝ Ng©n Chïy" then
+				AddRuntimeStat(1,19,0,tJingLiAward[nRandIndex][4][4]);
+			end
+		end
+
+		EventAddPhoBan(50);
+	else
+		Say("Tinh Lùc kh«ng ®ñ, kh«ng thÓ më R­¬ng Thiªn ¢m Tinh Lùc.",0);	
+	end
+end
+
+function do_nothing()
+--do nothing
+end
+
+function getIndexAtTeam()
+	for i = 1, GetTeamSize() do
+		if PlayerIndex == GetTeamMember(i) then
+			return i - 1;
+		end
+	end	
+end
+
+function rand_start_equip()
+	local tAward = {
+		{1, 1, "Thiªn M«n Kim LÖnh", {0, 152, 29, 1,}, 0, 0, 0, 1},
+		{1, 20, "M¶nh Thiªn M«n", {2, 1, 30410, 10}, 0, 0, 0, 1},
+		
+	}
+	gf_EventGiveRandAward(tAward, gf_SumRandBase(tAward), 1, "§Þa HuyÒn Cung", "Më R­¬ng §Þa HuyÒn Cung Thiªn ¢m Tinh Lùc");
+end
